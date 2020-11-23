@@ -1,24 +1,29 @@
-const { description } = require('../../package')
 
 module.exports = {
-  /**
-   * Ref：https://v1.vuepress.vuejs.org/config/#title
-   */
-  title: 'Vuepress Docs Boilerplate',
-  /**
-   * Ref：https://v1.vuepress.vuejs.org/config/#description
-   */
-  description: description,
-
-  /**
-   * Extra tags to be injected to the page HTML `<head>`
-   *
-   * ref：https://v1.vuepress.vuejs.org/config/#head
-   */
+  title: 'Appfast Documents',
+  description: 'Appfast Documents',
+  locales: {
+    '/': {
+      lang: 'en-US',
+      title: 'Appfast documents',
+      description: 'Mobile App Builder Platform | Mobile Progressive Web App | iOS & Android App Creator | Appfast'
+    },
+    '/vi/': {
+      lang: 'vi-VN',
+      title: 'Appfast - Tài liệu hướng dẫn',
+      description: 'Mobile App Builder Platform | Mobile Progressive Web App | iOS & Android App Creator | Appfast'
+    }
+  },
   head: [
+    ['link', { rel: 'icon', href: `/logo.png` }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }],
+    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#3eaf7c' }],
+    ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
+    ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
 
   /**
@@ -29,81 +34,29 @@ module.exports = {
   themeConfig: {
     repo: '',
     editLinks: false,
-    docsDir: '',
+    docsDir: '/',
     editLinkText: '',
     lastUpdated: false,
-    nav: [
-      {
-        text: 'Guide',
-        link: '/guide/',
-      },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
-    ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    },
+    smoothScroll: true,
     locales: {
       '/': {
-        // text for the language dropdown
         selectText: 'Languages',
-        // label for this locale in the language dropdown
         label: 'English',
-        // Aria Label for locale in the dropdown
-        ariaLabel: 'Languages',
-        // text for the edit-on-github link
-        editLinkText: 'Edit this page on GitHub',
-        // config for Service Worker
-        serviceWorker: {
-          updatePopup: {
-            message: "New content is available.",
-            buttonText: "Refresh"
-          }
-        },
-        // algolia docsearch options for current locale
-        algolia: {},
-        nav: [
-          { text: 'Guide', link: '/guide/' , ariaLabel: 'Guide' },
-          { text: 'Config', link: '/config/' , ariaLabel: 'config' },
-        ],
-        // sidebar: {
-        //   '/': [/* ... */],
-        //   '/guide/': [/* ... */],
-        //   '/config/': [/* ... */],
-        // }
+        ariaLabel: 'Select language',
+        nav: require('./nav/en'),
+        sidebar: {
+          '/guide/': getGuideSidebar('Guide', 'Advanced'),
+          '/widget/': getWidget('Widget'),
+        }
       },
       '/vi/': {
-        selectText: 'Việt Nam',
-        label: 'Việt Nam',
-        editLinkText: 'Appfast - Tài liệu',
-        serviceWorker: {
-          updatePopup: {
-            message: "Cập nhật nội dung mới",
-            buttonText: "Cập nhật"
-          }
-        },
-        nav: [
-          { text: 'Tổng thể', link: '/vi/nested/' }
-        ],
-        algolia: {},
+        selectText: 'Ngôn ngữ',
+        label: 'Tiếng Việt',
+        ariaLabel: 'Chọn ngôn ngữ',
+        nav: require('./nav/vi'),
         sidebar: {
-          '/vi/': [/* ... */],
-          '/vi/nested/': [/* ... */]
+          '/vi/guide/': getGuideSidebar('Hướng dẫn', 'Advanced'),
+          '/vi/widget/': getWidget('Tiện ích'),
         }
       }
     }
@@ -121,18 +74,42 @@ module.exports = {
       searchMaxSuggestions: 10
     }
   ],
-  locales: {
-    // The key is the path for the locale to be nested under.
-    // As a special case, the default locale can use '/' as its path.
-    '/': {
-      lang: 'en-US', // this will be set as the lang attribute on <html>
-      title: 'Appfast documents',
-      description: 'Mobile App Builder Platform | Mobile Progressive Web App | iOS &amp; Android App Creator | Appfast'
+  extraWatchFiles: [
+    '.vuepress/nav/en.js',
+    '.vuepress/nav/vi.js'
+  ]
+}
+
+function getGuideSidebar (groupA, groupB) {
+  return [
+    {
+      title: groupA,
+      collapsable: false,
+      children: [
+        '',
+        'getting-started',
+      ]
     },
-    '/vi/': {
-      lang: 'vi-VN',
-      title: 'Appfast - Tài liệu hướng dẫn',
-      description: 'Mobile App Builder Platform | Mobile Progressive Web App | iOS &amp; Android App Creator | Appfast'
+    // {
+    //   title: groupB,
+    //   collapsable: false,
+    //   children: [
+    //     'faq'
+    //   ]
+    // }
+  ]
+}
+
+function getWidget(groupName) {
+  return [
+    {
+      title: groupName,
+      collapsable: false,
+      children: [
+        '',
+        'post-content',
+        'header-bar',
+      ]
     }
-  }
+  ]
 }
