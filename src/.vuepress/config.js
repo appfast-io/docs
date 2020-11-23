@@ -88,6 +88,7 @@ function getGuideSidebar (groupA, groupB) {
       children: [
         '',
         'getting-started',
+        'user'
       ]
     },
     // {
