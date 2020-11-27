@@ -2,6 +2,8 @@
 
 hello
 
-## Gt 01
+## hello
 
 ## Gt 02
+
+## **C.Step-2: Thêm nội dung**

@@ -1,17 +1,17 @@
 # Introduction
 
-Hello
+Welcome to the Appfast support page
 
-## Appfast la gi?
+## Language of the document
 
-## Huong dan su dung Appfast
+* VN [Việt Nam](http://https://vi-docs.appfast.io/)
+* EN [English (current language)](http://https://docs.appfast.io/)
 
+## What is Appfast?
 
-::: tip
-Remeber
-:::
+Appfast is the fastest and the simplest mobile app development platform which allows you to create your own app without any programming language knowledge or skills.
 
-## Bat dau study gifhub Tuyen, Tu
+[![Video](http://img.youtube.com/vi/P-YC3-5cOco/0.jpg)](http://www.youtube.com/watch?v=P-YC3-5cOco "")
 
 ``` html
 <ul>
@@ -23,3 +23,4 @@ Remeber
   </li>
 </ul>
 ```
+## Sign In Appfast
