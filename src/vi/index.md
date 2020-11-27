@@ -3,7 +3,7 @@ home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline:
 actionText: Bắt Đầu →
-actionLink: /vi/guide/
+actionLink: /vi/widget/
 features:
 - title: Thiết Kế
   details: Feature 1 Description
