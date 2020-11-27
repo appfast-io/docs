@@ -122,8 +122,10 @@ function getWidget(groupName) {
       collapsable: false,
       children: [
         '',
+        'drawer-menu',
         'post-content',
         'header-bar',
+        
       ]
     }
   ]
