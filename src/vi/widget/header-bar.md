@@ -1,2 +1,2 @@
-# Header bar
+# Thanh tiêu đề
 

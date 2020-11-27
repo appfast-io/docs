@@ -56,7 +56,7 @@ module.exports = {
         nav: require('./nav/vi'),
         sidebar: {
           '/vi/guide/': getGuideSidebar('Hướng dẫn', 'Advanced'),
-          '/vi/widget/': getWidget('Tiện ích'),
+          '/vi/widget/': getWidget('Tiện ích', 'test'),
         }
       }
     }
@@ -108,8 +108,10 @@ function getWidget(groupName) {
       collapsable: false,
       children: [
         '',
+        'drawer-menu',
         'post-content',
         'header-bar',
+        
       ]
     }
   ]
