@@ -55,8 +55,8 @@ module.exports = {
         ariaLabel: 'Chọn ngôn ngữ',
         nav: require('./nav/vi'),
         sidebar: {
-          '/vi/guide/': getGuideSidebar('Hướng dẫn', 'Advanced'),
-          '/vi/widget/': getWidget('Tiện ích', 'test'),
+          '/vi/guide/': getGuideSidebarvn('Hướng dẫn', 'Advanced'),
+          '/vi/widget/': getWidget('Tiện ích'),
         }
       }
     }
@@ -87,17 +87,31 @@ function getGuideSidebar (groupA, groupB) {
       collapsable: false,
       children: [
         '',
+        'user',
         'getting-started',
-        'user'
       ]
     },
-    // {
-    //   title: groupB,
-    //   collapsable: false,
-    //   children: [
-    //     'faq'
-    //   ]
-    // }
+     {
+       title: groupB,
+       collapsable: false,
+       children: [
+         'faq'
+       ]
+     },
+  ]
+}
+
+function getGuideSidebarvn (groupA, groupB) {
+  return [
+    {
+      title: groupA,
+      collapsable: false,
+      children: [
+        '',
+        'test',
+      ]
+    },
+     
   ]
 }
 

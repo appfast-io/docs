@@ -1,14 +1,17 @@
 # Introduction
 
-Hello
+Welcome to the Appfast support page
 
-## What is Appfast
+## Language of the document
 
-::: tip
-Remeber
-:::
+* VN [Việt Nam](http://https://vi-docs.appfast.io/)
+* EN [English (current language)](http://https://docs.appfast.io/)
 
-## Khong co chi
+## What is Appfast?
+
+Appfast is the fastest and the simplest mobile app development platform which allows you to create your own app without any programming language knowledge or skills.
+
+[![Video](http://img.youtube.com/vi/P-YC3-5cOco/0.jpg)](http://www.youtube.com/watch?v=P-YC3-5cOco "")
 
 ``` html
 <ul>
@@ -20,3 +23,4 @@ Remeber
   </li>
 </ul>
 ```
+## Sign In Appfast
