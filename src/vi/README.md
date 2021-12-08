@@ -1,3 +1,0 @@
-# Appfast
-
-hello Appfast

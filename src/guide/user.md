@@ -1,5 +1,0 @@
-# User Portal
-
-## Register
-
-## Login
