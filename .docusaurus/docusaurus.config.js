@@ -13,7 +13,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Volumes/Data/Appfast/docs-fast/sidebars.js",
+          "sidebarPath": "/Users/haduy/Documents/GitHub/docs/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
         },
         "blog": {
@@ -21,7 +21,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/Volumes/Data/Appfast/docs-fast/src/css/custom.css"
+          "customCss": "/Users/haduy/Documents/GitHub/docs/src/css/custom.css"
         }
       }
     ]
@@ -39,6 +39,11 @@ export default {
           "docId": "intro",
           "position": "left",
           "label": "Docs"
+        },
+        {
+          "position": "left",
+          "label": "Questions",
+          "to": "/questions"
         },
         {
           "to": "/blog",
@@ -92,7 +97,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 Appfast, Jsc. Built with Docusaurus."
+      "copyright": "Copyright © 2022 Appfast, Jsc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

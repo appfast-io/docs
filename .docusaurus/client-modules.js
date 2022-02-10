@@ -1,6 +1,6 @@
 export default [
-  require("/Volumes/Data/Appfast/docs-fast/node_modules/infima/dist/css/default/default.css"),
-  require("/Volumes/Data/Appfast/docs-fast/node_modules/@docusaurus/theme-classic/lib/prism-include-languages"),
-  require("/Volumes/Data/Appfast/docs-fast/node_modules/@docusaurus/theme-classic/lib/admonitions.css"),
-  require("/Volumes/Data/Appfast/docs-fast/src/css/custom.css"),
+  require("/Users/haduy/Documents/GitHub/docs/node_modules/infima/dist/css/default/default.css"),
+  require("/Users/haduy/Documents/GitHub/docs/node_modules/@docusaurus/theme-classic/lib/prism-include-languages"),
+  require("/Users/haduy/Documents/GitHub/docs/node_modules/@docusaurus/theme-classic/lib/admonitions.css"),
+  require("/Users/haduy/Documents/GitHub/docs/src/css/custom.css"),
 ];

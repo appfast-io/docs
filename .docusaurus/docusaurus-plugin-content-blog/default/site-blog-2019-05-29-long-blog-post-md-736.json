@@ -20,19 +20,14 @@
   "truncated": true,
   "authors": [
     {
-      "name": "Endilie Yacop Sucipto",
-      "title": "Maintainer of Docusaurus",
-      "url": "https://github.com/endiliey",
-      "imageURL": "https://github.com/endiliey.png",
-      "key": "endi"
+      "name": "Appfast",
+      "title": "Appfast Official",
+      "imageURL": "https://s01.appfast.me/source/6168f3503bcf58001d4595a7/Docs_logo/52d1853f853045d3bf8db3d345a214d7.png",
+      "key": "appfast"
     }
   ],
   "prevItem": {
-    "title": "MDX Blog Post",
-    "permalink": "/blog/mdx-blog-post"
-  },
-  "nextItem": {
-    "title": "First Blog Post",
-    "permalink": "/blog/first-blog-post"
+    "title": "Chọn gói và thanh toán",
+    "permalink": "/blog/purchase"
   }
 }

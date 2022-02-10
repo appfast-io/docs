@@ -2,8 +2,8 @@
   "unversionedId": "intro",
   "id": "intro",
   "isDocsHomePage": false,
-  "title": "Documents",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Giới thiệu",
+  "description": "Chào mừng bạn đến với trang hỗ trợ của Appfast",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Create a Page",
-    "permalink": "/docs/tutorial-basics/create-a-page"
+    "title": "Đăng nhập vào Appfast",
+    "permalink": "/docs/get-started/sign-in"
   }
 }

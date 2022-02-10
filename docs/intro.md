@@ -2,34 +2,14 @@
 sidebar_position: 1
 ---
 
-# Documents
+# Giới thiệu
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Chào mừng bạn đến với trang hỗ trợ của **Appfast**
 
-## Getting Started
+---
 
-Get started by **creating a new site**.
+## Appfast là gì?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Appfast là nền tảng giúp bạn tạo ra ứng dụng di động đơn giản, nhanh chóng mà không cần kiến thức lập trình.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/rX7rRlyqkC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
