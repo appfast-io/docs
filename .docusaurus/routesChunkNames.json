@@ -1,354 +1,332 @@
 {
-  "/__docusaurus/debug-3d6": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/__docusaurus/debug/config-914": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/__docusaurus/debug/content-c28": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-3cf": {
-    "component": "component---theme-debug-global-dataede-0fa"
-  },
-  "/__docusaurus/debug/metadata-31b": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
-  },
-  "/__docusaurus/debug/registry-0da": {
-    "component": "component---theme-debug-registry-679-501"
-  },
-  "/__docusaurus/debug/routes-244": {
-    "component": "component---theme-debug-routes-946-699"
-  },
   "/blog-223": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogf-45-032"
+        "content": "f454513b"
       },
       {
-        "content": "content---blogf-7-a-b0b"
+        "content": "f7ac8949"
       },
       {
-        "content": "content---blogd-25-aab"
+        "content": "d253b158"
       },
       {
-        "content": "content---blogd-41-173"
+        "content": "d41829c7"
       },
       {
-        "content": "content---blog-6-cc-181"
+        "content": "6cc8a2eb"
       },
       {
-        "content": "content---blogd-40-527"
+        "content": "d4099a41"
       },
       {
-        "content": "content---blog-586-460"
+        "content": "5867ffa5"
       },
       {
-        "content": "content---blogb-9-f-c24"
+        "content": "b9fce942"
       },
       {
-        "content": "content---blog-664-ec2"
+        "content": "6646289e"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "b2b675dd"
   },
   "/blog/ads-31a": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-adsa-11-e08"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "a116d394"
   },
   "/blog/appfast-app-6d0": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-appfast-appcc-9-f6e"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "cc9254c6"
   },
   "/blog/archive-f4c": {
-    "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---blog-archiveb-2-f-393"
+    "component": "9e4087bc",
+    "archive": "b2f554cd"
   },
   "/blog/build-app-af9": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-build-appc-75-b78"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "c75e424d"
   },
   "/blog/content-514": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-content-8-cc-e3f"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "8cc8ea3e"
   },
   "/blog/ecommerce-d9d": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-ecommerce-8-bb-1e2"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "8bb64dde"
   },
   "/blog/overview-5c8": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-overviewc-97-2ab"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "c97cf138"
   },
   "/blog/policies-c90": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-policies-54-d-bcb"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "54d44cee"
   },
   "/blog/purchase-e38": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-purchase-1-e-9-a03"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "1e98366f"
   },
   "/blog/release-app-c73": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-release-app-40-f-f38"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "40f48374"
   },
   "/blog/tags-e13": {
-    "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "a7023ddc"
   },
   "/blog/tags/ads-39a": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogf-7-a-b0b"
+        "content": "f7ac8949"
       }
     ],
-    "metadata": "metadata---blog-tags-ads-0-fe-037"
+    "metadata": "0feb6910"
   },
   "/blog/tags/app-dfb": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogd-25-aab"
+        "content": "d253b158"
       },
       {
-        "content": "content---blogd-41-173"
+        "content": "d41829c7"
       },
       {
-        "content": "content---blog-664-ec2"
+        "content": "6646289e"
       }
     ],
-    "metadata": "metadata---blog-tags-app-03-e-251"
+    "metadata": "03ee96e8"
   },
   "/blog/tags/app-builder-865": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogf-45-032"
+        "content": "f454513b"
       },
       {
-        "content": "content---blogf-7-a-b0b"
+        "content": "f7ac8949"
       },
       {
-        "content": "content---blogd-25-aab"
+        "content": "d253b158"
       },
       {
-        "content": "content---blogd-41-173"
+        "content": "d41829c7"
       },
       {
-        "content": "content---blog-6-cc-181"
+        "content": "6cc8a2eb"
       },
       {
-        "content": "content---blogd-40-527"
+        "content": "d4099a41"
       },
       {
-        "content": "content---blog-586-460"
+        "content": "5867ffa5"
       },
       {
-        "content": "content---blogb-9-f-c24"
+        "content": "b9fce942"
       },
       {
-        "content": "content---blog-664-ec2"
+        "content": "6646289e"
       }
     ],
-    "metadata": "metadata---blog-tags-app-builderbce-9a3"
+    "metadata": "bce21a2b"
   },
   "/blog/tags/appfast-75a": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogf-45-032"
+        "content": "f454513b"
       },
       {
-        "content": "content---blogf-7-a-b0b"
+        "content": "f7ac8949"
       },
       {
-        "content": "content---blogd-25-aab"
+        "content": "d253b158"
       },
       {
-        "content": "content---blogd-41-173"
+        "content": "d41829c7"
       },
       {
-        "content": "content---blog-6-cc-181"
+        "content": "6cc8a2eb"
       },
       {
-        "content": "content---blogd-40-527"
+        "content": "d4099a41"
       },
       {
-        "content": "content---blog-586-460"
+        "content": "5867ffa5"
       },
       {
-        "content": "content---blogb-9-f-c24"
+        "content": "b9fce942"
       },
       {
-        "content": "content---blog-664-ec2"
+        "content": "6646289e"
       }
     ],
-    "metadata": "metadata---blog-tags-appfasta-40-6a1"
+    "metadata": "a402fcb0"
   },
   "/blog/tags/build-df1": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogd-41-173"
+        "content": "d41829c7"
       }
     ],
-    "metadata": "metadata---blog-tags-buildd-39-9da"
+    "metadata": "d39d7b8d"
   },
   "/blog/tags/content-c01": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-6-cc-181"
+        "content": "6cc8a2eb"
       }
     ],
-    "metadata": "metadata---blog-tags-content-078-f60"
+    "metadata": "07814ae7"
   },
   "/blog/tags/ecommerce-032": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogd-40-527"
+        "content": "d4099a41"
       }
     ],
-    "metadata": "metadata---blog-tags-ecommercea-4-d-1ea"
+    "metadata": "a4d156ad"
   },
   "/blog/tags/policy-5b6": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-586-460"
+        "content": "5867ffa5"
       }
     ],
-    "metadata": "metadata---blog-tags-policy-520-92c"
+    "metadata": "520fb967"
   },
   "/blog/tags/purchase-bcf": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blogb-9-f-c24"
+        "content": "b9fce942"
       }
     ],
-    "metadata": "metadata---blog-tags-purchase-166-c0d"
+    "metadata": "16642a8c"
   },
   "/blog/tags/release-aaf": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-664-ec2"
+        "content": "6646289e"
       }
     ],
-    "metadata": "metadata---blog-tags-release-83-d-f00"
+    "metadata": "83d480e9"
   },
   "/markdown-page-be1": {
-    "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---markdown-page-393-028"
+    "component": "1f391b9e",
+    "content": "393be207"
   },
   "/test-9d2": {
-    "component": "component---site-src-pages-test-js-65-d-1fe",
-    "config": "config---test-5-e-9-672"
+    "component": "65d5d11a",
+    "config": "5e9f5e1a"
   },
   "/docs-fba": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
   "/docs/data-manager/news-a91": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-data-manager-news-300-c77"
+    "component": "17896441",
+    "content": "300ba850"
   },
   "/docs/data-manager/overview-2cb": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-data-manager-overview-92-b-b0d"
+    "component": "17896441",
+    "content": "92bf3891"
   },
   "/docs/data-manager/products-84f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-data-manager-productsf-78-113"
+    "component": "17896441",
+    "content": "f78a1487"
   },
   "/docs/get-started/guide-947": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-guidec-3-d-9ba"
+    "component": "17896441",
+    "content": "c3d4d0bc"
   },
   "/docs/get-started/sign-in-040": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-get-started-sign-ind-46-167"
+    "component": "17896441",
+    "content": "d461543d"
   },
   "/docs/intro-aed": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "component": "17896441",
+    "content": "0e384e19"
   },
   "/docs/project/create-app-94e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-project-create-app-6-c-1-6cf"
+    "component": "17896441",
+    "content": "6c11928c"
   },
   "/docs/project/dashboard-overview-a57": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-project-dashboard-overview-232-733"
+    "component": "17896441",
+    "content": "2323fbec"
   },
   "/docs/project/project-settings-f1a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-project-project-settings-08-f-76d"
+    "component": "17896441",
+    "content": "08f875f6"
   },
   "/docs/publish-app/android-d5d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-publish-app-androidc-36-335"
+    "component": "17896441",
+    "content": "c366ba1a"
   },
   "/docs/publish-app/ios-af8": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-publish-app-iosbed-748"
+    "component": "17896441",
+    "content": "beda721d"
   },
   "/docs/publish-app/pwa-da2": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-publish-app-pwa-9-d-8-068"
+    "component": "17896441",
+    "content": "9d833b3e"
   },
   "/docs/widget/about-a16": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-widget-about-0-cb-a16"
+    "component": "17896441",
+    "content": "0cbffb89"
   },
   "/docs/widget/content-e03": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-widget-contente-51-8fb"
+    "component": "17896441",
+    "content": "e5194e54"
   },
   "/docs/widget/ecommerce-28b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-widget-ecommerce-1-aa-e7b"
+    "component": "17896441",
+    "content": "1aa9ab60"
   },
   "/docs/widget/navigation-300": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-widget-navigation-1-c-1-c7d"
+    "component": "17896441",
+    "content": "1c13dc92"
   },
   "/docs/widget/orthers-f03": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-widget-ortherseaa-abb"
+    "component": "17896441",
+    "content": "eaad61e8"
   },
   "/docs/widget/ui-31c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-widget-uif-5-b-198"
+    "component": "17896441",
+    "content": "f5b4d94e"
   },
   "/-deb": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---test-5-e-9-672"
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
   }
 }

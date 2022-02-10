@@ -13,7 +13,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/haduy/Documents/GitHub/docs/sidebars.js",
+          "sidebarPath": "/Volumes/Data/Appfast/appfast-docs/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
         },
         "blog": {
@@ -21,7 +21,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/haduy/Documents/GitHub/docs/src/css/custom.css"
+          "customCss": "/Volumes/Data/Appfast/appfast-docs/src/css/custom.css"
         }
       }
     ]
@@ -39,11 +39,6 @@ export default {
           "docId": "intro",
           "position": "left",
           "label": "Docs"
-        },
-        {
-          "position": "left",
-          "label": "Questions",
-          "to": "/questions"
         },
         {
           "to": "/blog",
