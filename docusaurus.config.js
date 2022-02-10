@@ -55,7 +55,13 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
+          {
+            position: 'left',
+            label: 'Questions',
+            to:'/questions'
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
+          
           {
             href: 'https://github.com/appfast-io/docs',
             label: 'GitHub',

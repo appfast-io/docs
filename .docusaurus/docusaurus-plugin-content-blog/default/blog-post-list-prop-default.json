@@ -2,20 +2,24 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Welcome",
-      "permalink": "/blog/welcome"
+      "title": "Thông tin chung",
+      "permalink": "/blog/overview"
     },
     {
-      "title": "MDX Blog Post",
-      "permalink": "/blog/mdx-blog-post"
+      "title": "Quảng cáo",
+      "permalink": "/blog/ads"
     },
     {
-      "title": "Long Blog Post",
-      "permalink": "/blog/long-blog-post"
+      "title": "Ứng dụng di động Appfast",
+      "permalink": "/blog/appfast-app"
     },
     {
-      "title": "First Blog Post",
-      "permalink": "/blog/first-blog-post"
+      "title": "Xuất bản ứng dụng",
+      "permalink": "/blog/build-app"
+    },
+    {
+      "title": "Trình quản lý nội dung",
+      "permalink": "/blog/content"
     }
   ]
 }

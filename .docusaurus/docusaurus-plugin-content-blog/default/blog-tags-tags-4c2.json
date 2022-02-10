@@ -1,30 +1,72 @@
 {
-  "/blog/tags/facebook": {
+  "/blog/tags/app-builder": {
     "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/facebook",
-    "name": "facebook",
+    "slug": "/blog/tags/app-builder",
+    "name": "app-builder",
+    "count": 9,
+    "permalink": "/blog/tags/app-builder"
+  },
+  "/blog/tags/appfast": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/appfast",
+    "name": "appfast",
+    "count": 9,
+    "permalink": "/blog/tags/appfast"
+  },
+  "/blog/tags/ads": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/ads",
+    "name": "ads",
     "count": 1,
-    "permalink": "/blog/tags/facebook"
+    "permalink": "/blog/tags/ads"
   },
-  "/blog/tags/hello": {
+  "/blog/tags/app": {
     "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/hello",
-    "name": "hello",
-    "count": 2,
-    "permalink": "/blog/tags/hello"
+    "slug": "/blog/tags/app",
+    "name": "app",
+    "count": 3,
+    "permalink": "/blog/tags/app"
   },
-  "/blog/tags/docusaurus": {
+  "/blog/tags/build": {
     "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/docusaurus",
-    "name": "docusaurus",
-    "count": 4,
-    "permalink": "/blog/tags/docusaurus"
-  },
-  "/blog/tags/hola": {
-    "allTagsPath": "/blog/tags",
-    "slug": "/blog/tags/hola",
-    "name": "hola",
+    "slug": "/blog/tags/build",
+    "name": "build",
     "count": 1,
-    "permalink": "/blog/tags/hola"
+    "permalink": "/blog/tags/build"
+  },
+  "/blog/tags/content": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/content",
+    "name": "content",
+    "count": 1,
+    "permalink": "/blog/tags/content"
+  },
+  "/blog/tags/ecommerce": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/ecommerce",
+    "name": "ecommerce",
+    "count": 1,
+    "permalink": "/blog/tags/ecommerce"
+  },
+  "/blog/tags/policy": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/policy",
+    "name": "policy",
+    "count": 1,
+    "permalink": "/blog/tags/policy"
+  },
+  "/blog/tags/purchase": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/purchase",
+    "name": "purchase",
+    "count": 1,
+    "permalink": "/blog/tags/purchase"
+  },
+  "/blog/tags/release": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/release",
+    "name": "release",
+    "count": 1,
+    "permalink": "/blog/tags/release"
   }
 }
