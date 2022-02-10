@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/haduy/Documents/GitHub/docs/sidebars.js",
-          "contentPath": "/Users/haduy/Documents/GitHub/docs/docs",
-          "contentPathLocalized": "/Users/haduy/Documents/GitHub/docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/thientrinhtrong/Documents/GitHub/docs/sidebars.js",
+          "contentPath": "/Users/thientrinhtrong/Documents/GitHub/docs/docs",
+          "contentPathLocalized": "/Users/thientrinhtrong/Documents/GitHub/docs/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "intro",
           "docs": [
             {
@@ -24,7 +24,7 @@
               "id": "data-manager/news",
               "isDocsHomePage": false,
               "title": "Thêm dữ liệu dạng tin tức",
-              "description": "",
+              "description": "---",
               "source": "@site/docs/data-manager/news.md",
               "sourceDirName": "data-manager",
               "slug": "/data-manager/news",
@@ -78,7 +78,7 @@
               "id": "data-manager/products",
               "isDocsHomePage": false,
               "title": "Thêm dữ liệu dạng sản phẩm",
-              "description": "",
+              "description": "---",
               "source": "@site/docs/data-manager/products.md",
               "sourceDirName": "data-manager",
               "slug": "/data-manager/products",
@@ -262,8 +262,8 @@
               "unversionedId": "publish-app/android",
               "id": "publish-app/android",
               "isDocsHomePage": false,
-              "title": "Xuất bản ứng dụng Android",
-              "description": "",
+              "title": "Xuất bản Android app",
+              "description": "---",
               "source": "@site/docs/publish-app/android.md",
               "sourceDirName": "publish-app",
               "slug": "/publish-app/android",
@@ -281,7 +281,7 @@
                 "permalink": "/docs/publish-app/pwa"
               },
               "next": {
-                "title": "Xuất bản ứng dụng iOS",
+                "title": "Xuất bản iOS app",
                 "permalink": "/docs/publish-app/ios"
               }
             },
@@ -289,8 +289,8 @@
               "unversionedId": "publish-app/ios",
               "id": "publish-app/ios",
               "isDocsHomePage": false,
-              "title": "Xuất bản ứng dụng iOS",
-              "description": "",
+              "title": "Xuất bản iOS app",
+              "description": "---",
               "source": "@site/docs/publish-app/ios.md",
               "sourceDirName": "publish-app",
               "slug": "/publish-app/ios",
@@ -304,7 +304,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Xuất bản ứng dụng Android",
+                "title": "Xuất bản Android app",
                 "permalink": "/docs/publish-app/android"
               }
             },
@@ -313,7 +313,7 @@
               "id": "publish-app/pwa",
               "isDocsHomePage": false,
               "title": "Xuất bản PWA",
-              "description": "",
+              "description": "---",
               "source": "@site/docs/publish-app/pwa.md",
               "sourceDirName": "publish-app",
               "slug": "/publish-app/pwa",
@@ -331,7 +331,7 @@
                 "permalink": "/docs/data-manager/products"
               },
               "next": {
-                "title": "Xuất bản ứng dụng Android",
+                "title": "Xuất bản Android app",
                 "permalink": "/docs/publish-app/android"
               }
             },

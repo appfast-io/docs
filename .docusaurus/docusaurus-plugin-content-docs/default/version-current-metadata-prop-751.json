@@ -128,12 +128,12 @@
           },
           {
             "type": "link",
-            "label": "Xuất bản ứng dụng Android",
+            "label": "Xuất bản Android app",
             "href": "/docs/publish-app/android"
           },
           {
             "type": "link",
-            "label": "Xuất bản ứng dụng iOS",
+            "label": "Xuất bản iOS app",
             "href": "/docs/publish-app/ios"
           }
         ]
