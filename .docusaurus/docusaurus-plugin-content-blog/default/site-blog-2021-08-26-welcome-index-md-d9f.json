@@ -1,41 +1,29 @@
 {
-  "permalink": "/blog/welcome",
+  "permalink": "/blog/Thông tin chung",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
-  "title": "Welcome",
+  "title": "Thông tin chung",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
   "date": "2021-08-26T00:00:00.000Z",
   "formattedDate": "August 26, 2021",
   "tags": [
     {
-      "label": "facebook",
-      "permalink": "/blog/tags/facebook"
+      "label": "app-builder",
+      "permalink": "/blog/tags/app-builder"
     },
     {
-      "label": "hello",
-      "permalink": "/blog/tags/hello"
-    },
-    {
-      "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "label": "appfast",
+      "permalink": "/blog/tags/appfast"
     }
   ],
-  "readingTime": 0.405,
+  "readingTime": 0.385,
   "truncated": false,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber"
-    },
-    {
-      "name": "Yangshun Tay",
-      "title": "Front End Engineer @ Facebook",
-      "url": "https://github.com/yangshun",
-      "imageURL": "https://github.com/yangshun.png",
-      "key": "yangshun"
+      "name": "Appfast",
+      "title": "Appfast Official",
+      "imageURL": "https://s01.appfast.me/source/6168f3503bcf58001d4595a7/Docs_logo/52d1853f853045d3bf8db3d345a214d7.png",
+      "key": "appfast"
     }
   ],
   "nextItem": {

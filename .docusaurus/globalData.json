@@ -11,48 +11,93 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "data-manager/news",
+              "path": "/docs/data-manager/news",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data-manager/overview",
+              "path": "/docs/data-manager/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data-manager/products",
+              "path": "/docs/data-manager/products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get-started/guide",
+              "path": "/docs/get-started/guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "get-started/sign-in",
+              "path": "/docs/get-started/sign-in",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "project/create-app",
+              "path": "/docs/project/create-app",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "project/dashboard-overview",
+              "path": "/docs/project/dashboard-overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "project/project-settings",
+              "path": "/docs/project/project-settings",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "publish-app/android",
+              "path": "/docs/publish-app/android",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "publish-app/ios",
+              "path": "/docs/publish-app/ios",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "publish-app/pwa",
+              "path": "/docs/publish-app/pwa",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "widget/about",
+              "path": "/docs/widget/about",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "widget/content",
+              "path": "/docs/widget/content",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "widget/ecommerce",
+              "path": "/docs/widget/ecommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "widget/navigation",
+              "path": "/docs/widget/navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "widget/orthers",
+              "path": "/docs/widget/orthers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "widget/ui",
+              "path": "/docs/widget/ui",
               "sidebar": "tutorialSidebar"
             }
           ]

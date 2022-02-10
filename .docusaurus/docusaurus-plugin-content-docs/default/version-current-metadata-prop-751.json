@@ -10,62 +10,131 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Documents",
+        "label": "Giới thiệu",
         "href": "/docs/intro"
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Bắt đầu",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page"
+            "label": "Đăng nhập vào Appfast",
+            "href": "/docs/get-started/sign-in"
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations"
+            "label": "Xem qua các hướng dẫn",
+            "href": "/docs/get-started/guide"
           }
         ]
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "Tạo dự án mới",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions"
+            "label": "Trình tạo ứng dụng nhanh",
+            "href": "/docs/project/create-app"
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site"
+            "label": "Làm quen với Dashboard",
+            "href": "/docs/project/dashboard-overview"
+          },
+          {
+            "type": "link",
+            "label": "Thay đổi cài đặt dự án",
+            "href": "/docs/project/project-settings"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Sử dụng Widget",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Sơ lược về Widget",
+            "href": "/docs/widget/about"
+          },
+          {
+            "type": "link",
+            "label": "Các Widget điều hướng",
+            "href": "/docs/widget/navigation"
+          },
+          {
+            "type": "link",
+            "label": "Các Widget nội dung",
+            "href": "/docs/widget/content"
+          },
+          {
+            "type": "link",
+            "label": "Các Widget mua bán",
+            "href": "/docs/widget/ecommerce"
+          },
+          {
+            "type": "link",
+            "label": "Các Widget chỉnh sửa giao diện",
+            "href": "/docs/widget/ui"
+          },
+          {
+            "type": "link",
+            "label": "Các Widget khác",
+            "href": "/docs/widget/orthers"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Thao tác với dữ liệu",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Sơ lược về dữ liệu",
+            "href": "/docs/data-manager/overview"
+          },
+          {
+            "type": "link",
+            "label": "Thêm dữ liệu dạng tin tức",
+            "href": "/docs/data-manager/news"
+          },
+          {
+            "type": "link",
+            "label": "Thêm dữ liệu dạng sản phẩm",
+            "href": "/docs/data-manager/products"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Xuất bản app",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Xuất bản PWA",
+            "href": "/docs/publish-app/pwa"
+          },
+          {
+            "type": "link",
+            "label": "Xuất bản ứng dụng Android",
+            "href": "/docs/publish-app/android"
+          },
+          {
+            "type": "link",
+            "label": "Xuất bản ứng dụng iOS",
+            "href": "/docs/publish-app/ios"
           }
         ]
       }

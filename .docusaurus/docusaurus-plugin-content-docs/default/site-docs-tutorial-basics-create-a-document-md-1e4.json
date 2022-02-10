@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Page",
-    "permalink": "/docs/tutorial-basics/create-a-page"
+    "title": "Đăng nhập vào Appfast",
+    "permalink": "/docs/tutorial-basics/sign-in"
   },
   "next": {
-    "title": "Create a Blog Post",
-    "permalink": "/docs/tutorial-basics/create-a-blog-post"
+    "title": "Xem qua các hướng dẫn",
+    "permalink": "/docs/tutorial-basics/guide"
   }
 }
