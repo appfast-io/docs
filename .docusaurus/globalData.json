@@ -100,7 +100,15 @@
               "path": "/docs/widget/ui",
               "sidebar": "tutorialSidebar"
             }
-          ]
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
         }
       ]
     }

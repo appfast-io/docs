@@ -11,7 +11,8 @@
       {
         "type": "link",
         "label": "Giới thiệu",
-        "href": "/docs/intro"
+        "href": "/docs/intro",
+        "docId": "intro"
       },
       {
         "type": "category",
@@ -22,12 +23,14 @@
           {
             "type": "link",
             "label": "Đăng nhập vào Appfast",
-            "href": "/docs/get-started/sign-in"
+            "href": "/docs/get-started/sign-in",
+            "docId": "get-started/sign-in"
           },
           {
             "type": "link",
             "label": "Xem qua các hướng dẫn",
-            "href": "/docs/get-started/guide"
+            "href": "/docs/get-started/guide",
+            "docId": "get-started/guide"
           }
         ]
       },
@@ -40,17 +43,20 @@
           {
             "type": "link",
             "label": "Trình tạo ứng dụng nhanh",
-            "href": "/docs/project/create-app"
+            "href": "/docs/project/create-app",
+            "docId": "project/create-app"
           },
           {
             "type": "link",
             "label": "Làm quen với Dashboard",
-            "href": "/docs/project/dashboard-overview"
+            "href": "/docs/project/dashboard-overview",
+            "docId": "project/dashboard-overview"
           },
           {
             "type": "link",
             "label": "Thay đổi cài đặt dự án",
-            "href": "/docs/project/project-settings"
+            "href": "/docs/project/project-settings",
+            "docId": "project/project-settings"
           }
         ]
       },
@@ -63,32 +69,38 @@
           {
             "type": "link",
             "label": "Sơ lược về Widget",
-            "href": "/docs/widget/about"
+            "href": "/docs/widget/about",
+            "docId": "widget/about"
           },
           {
             "type": "link",
             "label": "Các Widget điều hướng",
-            "href": "/docs/widget/navigation"
+            "href": "/docs/widget/navigation",
+            "docId": "widget/navigation"
           },
           {
             "type": "link",
             "label": "Các Widget nội dung",
-            "href": "/docs/widget/content"
+            "href": "/docs/widget/content",
+            "docId": "widget/content"
           },
           {
             "type": "link",
             "label": "Các Widget mua bán",
-            "href": "/docs/widget/ecommerce"
+            "href": "/docs/widget/ecommerce",
+            "docId": "widget/ecommerce"
           },
           {
             "type": "link",
             "label": "Các Widget chỉnh sửa giao diện",
-            "href": "/docs/widget/ui"
+            "href": "/docs/widget/ui",
+            "docId": "widget/ui"
           },
           {
             "type": "link",
             "label": "Các Widget khác",
-            "href": "/docs/widget/orthers"
+            "href": "/docs/widget/orthers",
+            "docId": "widget/orthers"
           }
         ]
       },
@@ -101,17 +113,20 @@
           {
             "type": "link",
             "label": "Sơ lược về dữ liệu",
-            "href": "/docs/data-manager/overview"
+            "href": "/docs/data-manager/overview",
+            "docId": "data-manager/overview"
           },
           {
             "type": "link",
             "label": "Thêm dữ liệu dạng tin tức",
-            "href": "/docs/data-manager/news"
+            "href": "/docs/data-manager/news",
+            "docId": "data-manager/news"
           },
           {
             "type": "link",
             "label": "Thêm dữ liệu dạng sản phẩm",
-            "href": "/docs/data-manager/products"
+            "href": "/docs/data-manager/products",
+            "docId": "data-manager/products"
           }
         ]
       },
@@ -124,20 +139,133 @@
           {
             "type": "link",
             "label": "Xuất bản PWA",
-            "href": "/docs/publish-app/pwa"
+            "href": "/docs/publish-app/pwa",
+            "docId": "publish-app/pwa"
           },
           {
             "type": "link",
             "label": "Xuất bản ứng dụng Android",
-            "href": "/docs/publish-app/android"
+            "href": "/docs/publish-app/android",
+            "docId": "publish-app/android"
           },
           {
             "type": "link",
             "label": "Xuất bản ứng dụng iOS",
-            "href": "/docs/publish-app/ios"
+            "href": "/docs/publish-app/ios",
+            "docId": "publish-app/ios"
           }
         ]
       }
     ]
+  },
+  "docs": {
+    "data-manager/news": {
+      "id": "data-manager/news",
+      "title": "Thêm dữ liệu dạng tin tức",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "data-manager/overview": {
+      "id": "data-manager/overview",
+      "title": "Sơ lược về dữ liệu",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "data-manager/products": {
+      "id": "data-manager/products",
+      "title": "Thêm dữ liệu dạng sản phẩm",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "get-started/guide": {
+      "id": "get-started/guide",
+      "title": "Xem qua các hướng dẫn",
+      "description": "Mô tả tích hợp",
+      "sidebar": "tutorialSidebar"
+    },
+    "get-started/sign-in": {
+      "id": "get-started/sign-in",
+      "title": "Đăng nhập vào Appfast",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Giới thiệu",
+      "description": "Chào mừng bạn đến với trang hỗ trợ của Appfast",
+      "sidebar": "tutorialSidebar"
+    },
+    "project/create-app": {
+      "id": "project/create-app",
+      "title": "Trình tạo ứng dụng nhanh",
+      "description": "Đầu tiên, hãy truy cập vào trang tạo app. Nhấn Bắt đầu để khởi động qui trình tạo app nhanh.",
+      "sidebar": "tutorialSidebar"
+    },
+    "project/dashboard-overview": {
+      "id": "project/dashboard-overview",
+      "title": "Làm quen với Dashboard",
+      "description": "Dashboard (tiếng Việt: Bảng điều khiển) là trang cho phép bạn cấu hình tính năng và thực hiện các thay đổi lên giao diện của project trên phiên bản điện thoại và phiên bản máy tính (khi xem bằng trình duyệt).",
+      "sidebar": "tutorialSidebar"
+    },
+    "project/project-settings": {
+      "id": "project/project-settings",
+      "title": "Thay đổi cài đặt dự án",
+      "description": "Trong thanh điều hướng phía bên trái màn hình, hãy tìm và nhấn vào phần Thông tin xuất bản. Bạn sẽ được dẫn đến một trang mới cho phép thay đổi các thông tin về project.",
+      "sidebar": "tutorialSidebar"
+    },
+    "publish-app/android": {
+      "id": "publish-app/android",
+      "title": "Xuất bản ứng dụng Android",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "publish-app/ios": {
+      "id": "publish-app/ios",
+      "title": "Xuất bản ứng dụng iOS",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "publish-app/pwa": {
+      "id": "publish-app/pwa",
+      "title": "Xuất bản PWA",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "widget/about": {
+      "id": "widget/about",
+      "title": "Sơ lược về Widget",
+      "description": "---",
+      "sidebar": "tutorialSidebar"
+    },
+    "widget/content": {
+      "id": "widget/content",
+      "title": "Các Widget nội dung",
+      "description": "Các Widget dùng để hiển thị nội dung như tin tức, hình ảnh, video, âm nhạc,...",
+      "sidebar": "tutorialSidebar"
+    },
+    "widget/ecommerce": {
+      "id": "widget/ecommerce",
+      "title": "Các Widget mua bán",
+      "description": "Các Widget hỗ trợ việc trao đổi, mua bán hàng hóa trực tuyến",
+      "sidebar": "tutorialSidebar"
+    },
+    "widget/navigation": {
+      "id": "widget/navigation",
+      "title": "Các Widget điều hướng",
+      "description": "Các Widget đảm nhiệm việc di chuyển qua lại giữa các màn hình",
+      "sidebar": "tutorialSidebar"
+    },
+    "widget/orthers": {
+      "id": "widget/orthers",
+      "title": "Các Widget khác",
+      "description": "*Các Widget mang nhiều chức năng hữu ích khác.",
+      "sidebar": "tutorialSidebar"
+    },
+    "widget/ui": {
+      "id": "widget/ui",
+      "title": "Các Widget chỉnh sửa giao diện",
+      "description": "Các Widget đóng vai trò là thành phần phụ trợ trong giao diện người dùng.",
+      "sidebar": "tutorialSidebar"
+    }
   }
 }

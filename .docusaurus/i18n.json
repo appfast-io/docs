@@ -7,7 +7,8 @@
   "localeConfigs": {
     "en": {
       "label": "English",
-      "direction": "ltr"
+      "direction": "ltr",
+      "htmlLang": "en"
     }
   }
 }

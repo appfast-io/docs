@@ -30,6 +30,17 @@
             "key": "appfast"
           }
         ],
+        "frontMatter": {
+          "slug": "overview",
+          "title": "Thông tin chung",
+          "authors": [
+            "appfast"
+          ],
+          "tags": [
+            "app-builder",
+            "appfast"
+          ]
+        },
         "nextItem": {
           "title": "Quảng cáo",
           "permalink": "/blog/ads"
@@ -71,6 +82,18 @@
             "key": "haduy"
           }
         ],
+        "frontMatter": {
+          "slug": "ads",
+          "title": "Quảng cáo",
+          "authors": [
+            "haduy"
+          ],
+          "tags": [
+            "app-builder",
+            "appfast",
+            "ads"
+          ]
+        },
         "prevItem": {
           "title": "Thông tin chung",
           "permalink": "/blog/overview"
@@ -116,6 +139,18 @@
             "key": "appfast"
           }
         ],
+        "frontMatter": {
+          "slug": "appfast-app",
+          "title": "Ứng dụng di động Appfast",
+          "authors": [
+            "appfast"
+          ],
+          "tags": [
+            "app-builder",
+            "appfast",
+            "app"
+          ]
+        },
         "prevItem": {
           "title": "Quảng cáo",
           "permalink": "/blog/ads"
@@ -165,6 +200,19 @@
             "key": "appfast"
           }
         ],
+        "frontMatter": {
+          "slug": "build-app",
+          "title": "Xuất bản ứng dụng",
+          "authors": [
+            "appfast"
+          ],
+          "tags": [
+            "app-builder",
+            "appfast",
+            "app",
+            "build"
+          ]
+        },
         "prevItem": {
           "title": "Ứng dụng di động Appfast",
           "permalink": "/blog/appfast-app"
@@ -210,6 +258,18 @@
             "key": "haduy"
           }
         ],
+        "frontMatter": {
+          "slug": "content",
+          "title": "Trình quản lý nội dung",
+          "authors": [
+            "haduy"
+          ],
+          "tags": [
+            "app-builder",
+            "appfast",
+            "content"
+          ]
+        },
         "prevItem": {
           "title": "Xuất bản ứng dụng",
           "permalink": "/blog/build-app"
@@ -255,6 +315,18 @@
             "key": "haduy"
           }
         ],
+        "frontMatter": {
+          "slug": "ecommerce",
+          "title": "Ứng dụng thương mại điện tử",
+          "authors": [
+            "haduy"
+          ],
+          "tags": [
+            "app-builder",
+            "appfast",
+            "ecommerce"
+          ]
+        },
         "prevItem": {
           "title": "Trình quản lý nội dung",
           "permalink": "/blog/content"
@@ -300,6 +372,18 @@
             "key": "appfast"
           }
         ],
+        "frontMatter": {
+          "slug": "policies",
+          "title": "Chính sách riêng tư",
+          "authors": [
+            "appfast"
+          ],
+          "tags": [
+            "app-builder",
+            "appfast",
+            "policy"
+          ]
+        },
         "prevItem": {
           "title": "Ứng dụng thương mại điện tử",
           "permalink": "/blog/ecommerce"
@@ -345,6 +429,18 @@
             "key": "appfast"
           }
         ],
+        "frontMatter": {
+          "slug": "purchase",
+          "title": "Chọn gói và thanh toán",
+          "authors": [
+            "appfast"
+          ],
+          "tags": [
+            "app-builder",
+            "appfast",
+            "purchase"
+          ]
+        },
         "prevItem": {
           "title": "Chính sách riêng tư",
           "permalink": "/blog/policies"
@@ -394,6 +490,19 @@
             "key": "appfast"
           }
         ],
+        "frontMatter": {
+          "slug": "release-app",
+          "title": "Phát hành ứng dụng",
+          "authors": [
+            "appfast"
+          ],
+          "tags": [
+            "app-builder",
+            "appfast",
+            "app",
+            "release"
+          ]
+        },
         "prevItem": {
           "title": "Chọn gói và thanh toán",
           "permalink": "/blog/purchase"

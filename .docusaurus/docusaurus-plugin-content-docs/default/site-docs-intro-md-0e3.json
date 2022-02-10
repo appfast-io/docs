@@ -1,7 +1,6 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "isDocsHomePage": false,
   "title": "Giới thiệu",
   "description": "Chào mừng bạn đến với trang hỗ trợ của Appfast",
   "source": "@site/docs/intro.md",
