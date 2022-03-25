@@ -14,7 +14,7 @@ function HomepageHeader() {
         <div className={styles.homeBannerItem}>
           <div>
             <div>
-              <h1 className="hero__title">{siteConfig.title}</h1>
+              <img src='/img/full-logo.svg' alt='logo' className={styles.fullLogo} />
               <p className="hero__subtitle">The Fastest and Simplest way to create, design, and operate your mobile apps without coding or design skill</p>
             </div>
 
