@@ -46,7 +46,7 @@ const config = {
         title: 'Appfast Docs',
         logo: {
           alt: 'Appfast',
-          src: 'img/logo.png',
+          src: '/img/logo.svg',
         },
         items: [
           {

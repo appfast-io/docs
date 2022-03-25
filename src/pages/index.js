@@ -10,15 +10,29 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            The Fastest and Simplest way to build<br />your mobile apps without coding knowledge
-          </Link>
+      <div className={styles.homeBanner}>
+        <div className={styles.homeBannerItem}>
+          <div>
+            <div>
+              <h1 className="hero__title">{siteConfig.title}</h1>
+              <p className="hero__subtitle">The Fastest and Simplest way to create, design, and operate your mobile apps without coding or design skill</p>
+            </div>
+
+            <div className={styles.btnBlock}>
+              <a href='#ios'>
+                <div className={styles.btnDownload}>IOS</div>
+              </a>
+              <a href='#ios'>
+                <div className={styles.btnDownload}>ANDROID</div>
+              </a>
+              <a href='#ios'>
+                <div className={styles.btnDownload}>DESKTOP</div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className={styles.homeBannerItem}>
+          <img className={styles.imgBanner} src='/img/phone_design.png' alt='phone' />
         </div>
       </div>
     </header>
@@ -32,7 +46,7 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="The Fastest and Simplest way to build your mobile apps without coding knowledge">
       <HomepageHeader />
-      <main>
+      <main className={styles.featuresBlock}>
         <HomepageFeatures />
       </main>
     </Layout>

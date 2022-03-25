@@ -4,32 +4,34 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: '/img/phone1.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Edit your design by tap, hold, drag & drop building blocks called Widget
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: '/img/phone2.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Tap on widget then color and layout options will appear to edit by your style
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg:'/img/phone3.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Add more functionality to your project by adding more Plug-ins
+      </>
+    ),
+  },
+  {
+    Svg: '/img/phone4.svg',
+    description: (
+      <>
+        Automatically add interactions & database configuration without any code
       </>
     ),
   },
@@ -37,13 +39,14 @@ const FeatureList = [
 
 function Feature({Svg, title, description}) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
+    <div className={clsx('col col--3')}>
+      <div className={styles.box}>
+        <div className="text--center">
+          <img src={Svg} alt="" />
+        </div>
+        <div className="text--center">
+          <p>{description}</p>
+        </div>
       </div>
     </div>
   );

@@ -8,7 +8,8 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: linear-gradient(114.21deg,#2853c3 9.55%,#20bcff 85.72%);
+  background: #fff;
+  color: #333435;
 }
 
 @media screen and (max-width: 966px) {
@@ -21,4 +22,42 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.imgBanner {
+  max-width: 510px;
+}
+
+.btnDownload {
+  background: #60A5FA;
+  text-align: center;
+  padding: 12px 20px;
+  margin-right: 24px;
+  color: #fff;
+  font-size: 16px;
+  width: 110px;
+  display: flex;
+  align-items: center;
+  border-radius: 12px;
+}
+
+.btnBlock, .homeBanner {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.featuresBlock {
+  background-color: #F2F2F6;
+}
+
+.homeBanner {
+  max-width: 960px;
+  margin: auto;
+}
+
+.homeBannerItem {
+  text-align: center;
+  display: flex;
 }
