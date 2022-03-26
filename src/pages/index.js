@@ -11,11 +11,18 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className={styles.homeBanner}>
+        <div className={clsx(styles.homeBannerItem, styles.thumbBlock)}>
+          <img className={styles.imgBanner} src='/img/phone_design.png' alt='phone' />
+        </div>
         <div className={styles.homeBannerItem}>
           <div>
             <div>
-              <img src='/img/full-logo.svg' alt='logo' className={styles.fullLogo} />
-              <p className="hero__subtitle">The Fastest and Simplest way to create, design, and operate your mobile apps without coding or design skill</p>
+              <img src='/img/full-logo.png' alt='logo' className={clsx(styles.fullLogo, styles.hideOnMobile)} />
+              <p className={clsx("hero__subtitle", styles.subtitle)}>
+                <b>
+                The <span className={styles.colorBlue}>Fastest</span> and <span className={styles.colorBlue}>Simplest</span> way to create, design, and operate your mobile apps <span className={styles.colorYellow}>without</span> coding or design skill
+                </b>
+              </p>
             </div>
 
             <div className={styles.btnBlock}>
@@ -30,9 +37,6 @@ function HomepageHeader() {
               </a>
             </div>
           </div>
-        </div>
-        <div className={styles.homeBannerItem}>
-          <img className={styles.imgBanner} src='/img/phone_design.png' alt='phone' />
         </div>
       </div>
     </header>

@@ -17,12 +17,6 @@
   height: 84px;
 }
 
-@media screen and (max-width: 966px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
 .buttons {
   display: flex;
   align-items: center;
@@ -49,7 +43,7 @@
 
 .btnBlock, .homeBanner {
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
   justify-content: center;
   align-items: center;
 }
@@ -59,11 +53,68 @@
 }
 
 .homeBanner {
-  max-width: 960px;
+  max-width: 1110px;
   margin: auto;
 }
 
 .homeBannerItem {
   text-align: center;
   display: flex;
+}
+
+.hideOnMobile {
+  display: block;
+}
+
+.colorYellow {
+  color: chocolate;
+}
+
+.colorBlue {
+  color: #3B82F6;
+}
+
+.subtitle {
+  text-align: left;
+}
+
+.thumbBlock {
+  margin-left: 150px;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+
+  .btnDownload {
+    font-size: 13px;
+    width: 95px;
+    margin-right: 14px;
+  }
+
+  .hideOnMobile {
+    display: none;
+  }
+
+  .imgBanner {
+    max-width: 255px;
+  }
+
+  .btnBlock, .homeBanner {
+    display: block;
+  }
+
+  .thumbBlock {
+    display: block;
+    margin-left: 0;
+  }
+
+  .btnBlock {
+    display: flex;
+  }
+
+  .subtitle {
+    text-align: center;
+  }
 }
