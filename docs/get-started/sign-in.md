@@ -10,7 +10,7 @@ sidebar_position: 1
 
 Nếu bạn chưa từng sử dụng Appfast trước đây, hãy nhấn Tạo tài khoản mới ở **[Trang đăng nhập](https://dashboard.appfast.io/user/login?redirect=%2F)**. Nhập đầy đủ các trường thông tin cần thiết, sau đó nhấn Tạo tài khoản.
 
-![img alt](/img/start/sign-in/200507-dang-nhap-vao-appfast-01.jpeg)
+![img alt](/img/start/sign-in/200507-dang-nhap-vao-appfast-01.jpg)
 
 Một email chứa liên kết để xác nhận tài khoản sẽ được gửi đến hộp thư của bạn, hãy kiểm tra hộp thư và nhấn **Kích hoạt tài khoản** để hoàn tất quá trình tạo tài khoản.
 

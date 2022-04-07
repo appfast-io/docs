@@ -8,7 +8,7 @@ sidebar_position: 2
 
 Appfast tích hợp nhiều mô tả chi tiết để cung cấp cho bạn thông tin hữu ích về đặc tính cũng như cách sử dụng của một thành phần bất kì. Để xem một mô tả, hãy thử di chuột lên hoặc nhấn vào biểu tượng chấm hỏi ❓(nếu có).
 
-![img alt](/img/start/guide/200507-xem-qua-cac-huong-dan-01.gif)
+![img alt](/img/start/guide/200507-xem-qua-cac-huong-dan-01.jpg)
 
 ---
 

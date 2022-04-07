@@ -17,24 +17,14 @@ Appfast chia dữ liệu thành 2 loại:
 
 ### Quản lí dữ liệu
 
-Trong thanh điều hướng phía trên, bên trái màn hình, hãy tìm và nhấn vào phần **Quản lí nội dung**. Bạn sẽ được dẫn đến một trang mới cho phép thêm và quản lí tất cả dữ liệu của ứng dụng.
+Trước tiên để thêm và quản lý dữ liệu chúng ta cần vào Tab **"Plugins"** và cài đặt các Plugin ứng với các dạng dữ liệu.
 
-![img alt](/img/data/overview/200601-them-du-lieu-dang-tin-tuc-01.jpeg)
+![img alt](/img/data/overview/dataoverview1.jpg)
 
-Trong trang **Quản lí nội dung**, thẻ đầu tiên **Tất cả nội dung** chứa tất cả dữ liệu dạng tin tức, gồm dữ liệu được thêm tự động và dữ liệu được thêm thủ công.
+Chọn "Plugin: ứng với dữ liệu cần quản lý sau đó chọn **"Isntall now"** 
 
-![img alt](/img/data/overview/200601-quan-li-du-lieu-01.jpeg)
+![img alt](/img/data/overview/dataoverview2.jpg)
 
-![img alt](/img/data/overview/200601-quan-li-du-lieu-02.jpeg)
+Sau khi cài đặt **Plugin** xong, ở Tab **"Manager"** chọn các **Tab Plugin** tương ứng cần quản lý
 
-Thẻ thứ hai **Sản phẩm** chứa tất cả dữ liệu dạng sản phẩm và thông tin liên quan như danh mục (loại sản phẩm), đơn hàng và thiết lập thông tin cửa hàng.
-
-![img alt](/img/data/overview/200601-quan-li-du-lieu-03.jpeg)
-
-![img alt](/img/data/overview/200601-quan-li-du-lieu-04.jpeg)
-
-![img alt](/img/data/overview/200601-quan-li-du-lieu-05.jpeg)
-
-![img alt](/img/data/overview/200601-quan-li-du-lieu-06.jpeg)
-
-![img alt](/img/data/overview/200601-quan-li-du-lieu-07.jpeg)
+![img alt](/img/data/overview/dataoverview3.jpg)

@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Làm quen với Dashboard
 
-Dashboard (tiếng Việt: Bảng điều khiển) là trang cho phép bạn cấu hình tính năng và thực hiện các thay đổi lên giao diện của project trên phiên bản điện thoại và phiên bản máy tính (khi xem bằng trình duyệt). 
+Dashboard (tiếng Việt: Bảng điều khiển) là trang cho phép bạn cấu hình tính năng và thực hiện các thay đổi lên giao diện của project trên phiên bản điện thoại, máy tính bảng và phiên bản máy tính (khi xem bằng trình duyệt). 
 
 ---
 
@@ -14,11 +14,11 @@ Phần cấu hình dành cho điện thoại gồm các phần chính sau (đư�
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-01.jpeg)
 
-- Số 1 (màu đỏ): đây là nơi hiển thị icon và tên project.
-- Số 2 (màu xanh lá): khu vực màn hình, quản lý các màn hình hiện có trong project.
-- Số 3 (màu xanh biển): thanh công cụ, giúp bạn truy cập nhanh các tính năng thiết yếu.
-- Số 4 (màu tím): khu vực Widget, nơi bạn có thể tìm và thêm Widget vào màn hình.
-- Số 5 (màu cam): điện thoại giả lập, giúp bạn xem trước và tương tác với project.
+- Số 1 (màu đỏ): Đây là nơi hiển thị icon và tên ứng dụng.
+- Số 2 (màu xanh lá): Khu vực màn hình, quản lý các màn hình hiện có trong ứng dụng.
+- Số 3 (màu xanh biển): Thanh công cụ, giúp bạn truy cập nhanh các tính năng thiết yếu.
+- Số 4 (màu tím): Khu vực Widget, nơi bạn có thể tìm và thêm Widget vào màn hình.
+- Số 5 (màu cam): Giao diện giả lập trên điện thoại, giúp bạn xem trước và tương tác với ứng dụng.
 
 ---
 
@@ -29,11 +29,11 @@ Sau đây là các thao tác bạn có thể thực hiện với màn hình:
 
 - Thêm một màn hình mới
 
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-02.gif)
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-02.jpeg)
 
 - Kéo thả để thay đổi vị trí màn hình
 
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-03.gif)
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-03.jpeg)
 
 :::tip
 
@@ -43,7 +43,7 @@ Màn hình chính của project (cụ thể ở trên là màn hình **Home**) s
 
 - Sao chép và dán thuộc tính của màn hình này lên màn hình khác, tạo bản sao, đổi tên hoặc xóa màn hình
 
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-04.gif)
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-04.jpeg)
 
 :::caution
 
@@ -65,4 +65,4 @@ Cài đặt của màn hình (và gần như tất cả thành phần khác) th�
 
 :::
 
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-06.gif)
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-06.jpeg)
