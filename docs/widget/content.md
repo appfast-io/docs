@@ -12,7 +12,7 @@ sidebar_position: 3
 
 Danh sách các bài viết, nguồn bài viết lấy từ Kho Quản Lý Nội Dung.
 
-<iframe width="100%" height="515" src="https://www.youtube.com/embed/XeTcMGuqzk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![img alt](/img/widget/content/post.jpeg)
 
 ---
 
@@ -20,7 +20,7 @@ Danh sách các bài viết, nguồn bài viết lấy từ Kho Quản Lý Nội
 
 Bộ sưu tập ảnh, nguồn hình ảnh được lấy từ Kho Quản Lý Nội Dung.
 
-<iframe width="100%" height="515" src="https://www.youtube.com/embed/bHEXHE7uQLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![img alt](/img/widget/content/photogallery.jpeg)
 
 ---
 
@@ -28,7 +28,7 @@ Bộ sưu tập ảnh, nguồn hình ảnh được lấy từ Kho Quản Lý N�
 
 Hiển thị thông tin về sự kiện sắp diễn ra, có khả năng đếm ngược thời gian đến lúc diễn ra sự kiện.
 
-<iframe width="100%" height="515" src="https://www.youtube.com/embed/NghddyORehU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![img alt](/img/widget/content/upcomingevent.jpeg)
 
 ---
 
@@ -36,4 +36,4 @@ Hiển thị thông tin về sự kiện sắp diễn ra, có khả năng đếm
 
 Cho phép ghim một bài viết cụ thể ra màn hình ứng dụng.
 
-<iframe width="100%" height="515" src="https://www.youtube.com/embed/Gi6E2EJR60E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![img alt](/img/widget/content/specificpost.jpeg)
