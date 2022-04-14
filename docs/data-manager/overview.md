@@ -2,29 +2,18 @@
 sidebar_position: 1
 ---
 
-# Sơ lược về dữ liệu
+# Sơ lược về tính năng trong ứng dụng
 
----
+### **"Plugin"** là gì?
 
-### Phân loại
+Với Appfast, các dữ liệu cũng như các tính năng của ứng dụng được phân chia thành các **"Plugin"** riêng biệt để người dùng tiện quản lý.
 
-Appfast chia dữ liệu thành 2 loại:
+![img alt](/img/data/overview/plugin1.jpg)
 
-- Dữ liệu dạng tin tức: là các dữ liệu dưới dạng bài viết (gồm câu chữ, hình ảnh, video,...)
-- Dữ liệu dạng sản phẩm: là các dữ liệu về sản phẩm, phục vụ cho việc mua bán trong ứng dụng.
+ Khi cần dùng tính năng gì bạn chỉ cần vào tab **Plugin**, chọn và cài đặt tính năng đó để sử dụng.
 
----
+ ![img alt](/img/data/overview/plugin2.jpg)
 
-### Quản lí dữ liệu
+Sau khi cài đặt, phần quảng lý **Plugin** sẽ được hiển thị ở tab **Manager**
 
-Trước tiên để thêm và quản lý dữ liệu chúng ta cần vào Tab **"Plugins"** và cài đặt các Plugin ứng với các dạng dữ liệu.
-
-![img alt](/img/data/overview/dataoverview1.jpg)
-
-Chọn "Plugin: ứng với dữ liệu cần quản lý sau đó chọn **"Isntall now"** 
-
-![img alt](/img/data/overview/dataoverview2.jpg)
-
-Sau khi cài đặt **Plugin** xong, ở Tab **"Manager"** chọn các **Tab Plugin** tương ứng cần quản lý
-
-![img alt](/img/data/overview/dataoverview3.jpg)
+ ![img alt](/img/data/overview/plugin3.jpg)

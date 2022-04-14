@@ -26,13 +26,13 @@ function HomepageHeader() {
             </div>
 
             <div className={styles.btnBlock}>
-              <a href='#ios'>
+              <a href='https://apps.apple.com/vn/app/appfast-studio/id1614592863?l=vihttps://apps.apple.com/vn/app/appfast-studio/id1614592863?l=vihttps://apps.apple.com/vn/app/appfast-studio/id1614592863?l=vi'>
                 <div className={styles.btnDownload}>IOS</div>
               </a>
-              <a href='#ios'>
+              <a href='https://play.google.com/store/apps/details?id=io.appfast.studio&hl=vi&gl=US'>
                 <div className={styles.btnDownload}>ANDROID</div>
               </a>
-              <a href='#ios'>
+              <a href='https://studio.appfast.io/'>
                 <div className={styles.btnDownload}>DESKTOP</div>
               </a>
             </div>
