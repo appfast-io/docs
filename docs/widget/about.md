@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Sơ lược về Widget
+# Giới thiệu chung về Widget
 
 ---
 

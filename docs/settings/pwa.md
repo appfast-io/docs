@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
-# Xuất bản PWA
+# Sử dụng PWA
 ---
 Đầu tiên, hãy đảm bảo rằng bạn đã bổ sung đầy đủ các thông tin cần thiết trước khi thực hiện việc xuất bản app.
 

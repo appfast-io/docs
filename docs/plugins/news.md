@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Quản lý dữ liệu dạng tin tức
+# Các Plugin nội dung
 
 Dữ liệu dạng tin tức: là các dữ liệu dưới dạng bài viết (gồm câu chữ, hình ảnh, video,...)
 

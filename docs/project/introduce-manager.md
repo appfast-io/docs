@@ -1,10 +1,10 @@
 ---
-sidebar_position: 1
+sidebar_position: 5
 ---
 
-# Tạo ứng dụng
+# Giới thiệu chung phần Manager
 
-Đầu tiên, hãy truy cập vào **[trang tạo app](https://studio.appfast.io/Home-Appfast/ListProject)**. Nhấn **Bắt đầu** để khởi động qui trình tạo app nhanh.
+Đầu tiên, hãy truy cập vào trang tạo app. Nhấn **Tạo dự án mới** để khởi động qui trình tạo app nhanh.
 
 ![img alt](/img/create-app/wizard/200508-trinh-tao-app-nhanh-01.jpeg)
 

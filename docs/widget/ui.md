@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Các Widget chỉnh sửa giao diện
+# Các Widget về giao diện
 *Các Widget đóng vai trò là thành phần phụ trợ trong giao diện người dùng.*
 
 ---
