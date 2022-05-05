@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
-# Các Widget nội dung
+# Các Widgets nội dung
 
 *Các Widget dùng để hiển thị nội dung như tin tức, hình ảnh, video, âm nhạc,...*
 

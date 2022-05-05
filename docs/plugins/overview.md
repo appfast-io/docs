@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Sơ lược về tính năng trong ứng dụng
+# Giới thiệu chung về Plugins
 
 ### **"Plugin"** là gì?
 

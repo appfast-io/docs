@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 6
 ---
 
-# Thay đổi cài đặt dự án
+# Giới thiệu chung phần Settings
 
 Trong thanh điều hướng phía bên trái màn hình, hãy tìm và nhấn vào phần **Thông tin xuất bản**. Bạn sẽ được dẫn đến một trang mới cho phép thay đổi các thông tin về project.
 

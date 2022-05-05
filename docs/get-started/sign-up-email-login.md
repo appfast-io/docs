@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# Đăng nhập vào Appfast
+# Tạo và đăng nhập tài khoản email
 
 ---
 

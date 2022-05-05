@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Các Widget mua bán
+# Các Widget thương mại điện tử
 *Các Widget hỗ trợ việc trao đổi, mua bán hàng hóa trực tuyến*
 
 ---

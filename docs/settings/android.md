@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Xuất bản iOS app
+# Xây dựng ứng dụng Android
 ---
 
 Hãy đảm bảo rằng bạn đã bổ sung đầy đủ các thông tin cần thiết ở tab **App's Information** trước khi thực hiện việc xuất bản app.
