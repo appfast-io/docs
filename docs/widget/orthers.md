@@ -12,7 +12,6 @@ Cho phép bạn kiếm tiền từ quảng cáo bên trong app.
 
 ![img alt](/img/widget/orthers/map.jpeg)
 
-
 ---
 
 ### Bản đồ - Địa điểm

@@ -4,26 +4,21 @@ sidebar_position: 6
 
 # Giới thiệu chung phần Settings
 
-Trong thanh điều hướng phía bên trái màn hình, hãy tìm và nhấn vào phần **Thông tin xuất bản**. Bạn sẽ được dẫn đến một trang mới cho phép thay đổi các thông tin về project.
+---
+### Settings ###
 
-![img alt](/img/create-app/configs/200514-thay-doi-cai-dat-project-01.jpeg)
+Tab “Setting" sẽ là nơi khai báo các thông tin dùng để xuất bản ứng dụng.
+- App’s information: Khai báo thông tin chung cho ứng dụng.
+- iOS Application: Khai báo - xuất bản ứng dụng cho iOS.
+- Android Application: Khai báo - xuất bản ứng dụng cho Android.
+- PWA Domain: Khai báo - xuất bản PWA cho ứng dụng.
+- User roles: Quản lý - phân quyền cho user trong ứng dụng.
 
-Bạn được khuyến nghị thay đổi 2 thông tin sau:
-- **Icon app (1):** Icon quy định là ảnh **PNG không trong suốt (1024px -1024px).**
-- **App's Name (2):** Tên hiển thị dưới Icon App trên hệ điều hành.
-- **App's Version (3):** Thay đổi thông số **(tăng version) sau mỗi lần build.**
-- **Support email (4):** Địa chỉ Email hỗ trợ.
-- **Default Language (5):** Chọn ngôn ngữ mặc định cho ứng dụng.
-- **Link to Appstore / Google Playstore (6):** Đường dẫn tới **Appstore / CH Play.**
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-14.jpg)
 
-![img alt](/img/create-app/configs/200514-thay-doi-cai-dat-project-02.jpeg)
+---
 
-Sau khi đã thay đổi các thông tin trên, nhấn **Lưu** để hoàn tất quá trình cập nhật thông tin cho ứng dụng.
+Tab “Setting" cũng là nơi quản lý user trong ứng dụng.
+- User roles: Quản lý - phân quyền cho user trong ứng dụng.
 
-![img alt](/img/create-app/configs/200514-thay-doi-cai-dat-project-03.jpeg)
-
-:::tip
-
-Nhấn vào logo Appfast (khoanh đỏ ở hình trên) hoặc nhấn vào đây để xem lại các project của bạn. Bạn cũng có thể tạo mới, đổi tên, xóa hoặc xem trước project tại trang này.
-
-:::
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-15.jpg)

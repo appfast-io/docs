@@ -22,48 +22,16 @@ Phần cấu hình dành cho điện thoại gồm các phần chính sau (đư�
 
 ---
 
-### Tương tác với màn hình
+Chọn “xem trước” để hiển thị giao diện trên ứng dụng.
 
-Màn hình có thể xem là ""xương sống"" của một app vì chúng đóng vai trò như vật chứa, giúp giữ và cấu trúc các thành phần nhỏ hơn bên trong. Với Appfast, bạn cần quan tâm đến 2 loại màn hình sau: **Các màn hình do bạn tạo ra** và **Các màn hình hệ thống có sẵn.**
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-10.jpg)
 
-### Sau đây là các thao tác bạn có thể thực hiện với màn hình:
+Chọn “Release" cập nhật thông tin chỉnh sửa mới nhất.
 
-- Thêm một màn hình mới.
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-11.jpg)
 
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-02.jpeg)
+Chọn thay đổi giữa các thiết bị để hiển thị cấu trúc trên từng thiết bị
 
-- Kéo thả để thay đổi vị trí màn hình.
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-12.jpg)
 
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-03.jpeg)
 
-:::tip
-
-Màn hình chính của project sẽ được gắn nhãn **"Home screen"** ở tab **Action** bên phải, và Appfast mặc định màn hình xuất hiện đầu tiên trong danh sách sẽ là màn hình chính.
-
-:::
-
-- Sao chép và dán thuộc tính của màn hình này lên màn hình khác, tạo bản sao, đổi tên hoặc xóa màn hình
-
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-04.jpeg)
-
-:::caution
-
-Bạn không thể thực hiện các thao tác thêm, xóa, sao chép, dán, tạo bản sao, đổi tên đối với các màn hình hệ thống. Bạn cũng không thể thay đổi vị trí của chúng.
-
-:::
-
----
-
-### Cài đặt màn hình
-
-Cài đặt của màn hình (và gần như tất cả thành phần khác) thường được đặt ở góc phải (khoanh đỏ). Đây là nơi bạn có thể thay đổi các thuộc tính về icon, màu sắc hoặc bật / tắt một số ràng buộc của màn hình. Hãy thử thay đổi chúng để cá nhân hóa màn hình theo phong cách của bạn.
-
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-05.jpeg)
-
-:::caution
-
-**Hình nền** có độ ưu tiên cao hơn **Màu nền**, nên trong trường hợp cả 2 thuộc tính đều được thiết lập, **Hình nền** sẽ được ưu tiên hiển thị.
-
-:::
-
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-06.jpeg)
