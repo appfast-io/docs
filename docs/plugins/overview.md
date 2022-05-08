@@ -2,18 +2,19 @@
 sidebar_position: 1
 ---
 
-# Giới thiệu chung về Plugins
+# General introduction to Plugins
+---
 
-### **"Plugin"** là gì?
+### What is "Plugin" ?
 
 Với Appfast, các dữ liệu cũng như các tính năng của ứng dụng được phân chia thành các **"Plugin"** riêng biệt để người dùng tiện quản lý.
 
  ![img alt](/img/data/overview/gioi-thieu-chung-01.jpg)
 
- Khi cần dùng tính năng gì bạn chỉ cần vào tab **Plugin**, chọn và cài đặt tính năng đó để sử dụng.
+When you need to use a feature, you just need to go to the **"Plugin"** tab, select and install that feature to use.
 
  ![img alt](/img/data/overview/gioi-thieu-chung-02.jpg)
 
-Ở giao diện thiết kế, tab **Plugin** hiển thị danh sách các plugin bạn đãi cài đặt và các trang đi kèm với **Plugin** -> Bạn có thể tuỳ chỉnh giao diện cho các trang đi kèm tại đây
+In the design interface, the **"Plugin"** tab displays a list of the plugins you install and the pages that come with the **"Plugin"** -> You can customize the interface for the accompanying pages here
 
  ![img alt](/img/data/overview/gioi-thieu-chung-03.jpg)

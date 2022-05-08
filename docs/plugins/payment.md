@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
-# Các Plugin về thanh toán
+# Payment Plugins
 
 Comming soon...
+
+---

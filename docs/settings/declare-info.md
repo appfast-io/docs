@@ -1,84 +1,86 @@
 ---
 sidebar_position: 1
 ---
-# Khai báo thông tin
+# Declare information
+
 ---
 
-Trong thanh điều hướng phía bên trái màn hình, hãy tìm và nhấn vào phần **Thông tin xuất bản**. Bạn sẽ được dẫn đến một trang mới cho phép thay đổi các thông tin về project.
+In the navigation bar on the left side of the screen, find and tap **"App's Information"**. You will be taken to a new page that allows you to change the information about the project.
 
 ![img alt](/img/create-app/configs/200514-thay-doi-cai-dat-project-01.jpeg)
 
-Bạn được khuyến nghị thay đổi 2 thông tin sau:
-- **Icon app (1):** Icon quy định là ảnh **PNG không trong suốt (1024px -1024px).**
-- **App's Name (2):** Tên hiển thị dưới Icon App trên hệ điều hành.
-- **App's Version (3):** Thay đổi thông số **(tăng version) sau mỗi lần build.**
-- **Support email (4):** Địa chỉ Email hỗ trợ.
-- **Default Language (5):** Chọn ngôn ngữ mặc định cho ứng dụng.
-- **Link to Appstore / Google Playstore (6):** Đường dẫn tới **Appstore / CH Play.**
+You are recommended to change the following 2 pieces of information:
+- **Icon app (1):** The specified icon is a **non-transparent PNG image (1024px -1024px).**
+- **App's Name (2):** The name displayed under the App Icon on the operating system.
+- **App's Version (3):** Change parameters **(increase version after each build).**
+- **Support email (4):** Support Email Address.
+- **Default Language (5):** Select the default language for the application.
+- **Link to Appstore / Google Playstore (6):** Link to **Appstore / CH Play.**
 
 ![img alt](/img/create-app/configs/200514-thay-doi-cai-dat-project-02.jpeg)
 
-Sau khi đã thay đổi các thông tin trên, nhấn **Lưu** để hoàn tất quá trình cập nhật thông tin cho ứng dụng.
+After you have changed the above information, click **Save** to complete the process of updating information for the application.
 
 ![img alt](/img/create-app/configs/200514-thay-doi-cai-dat-project-03.jpeg)
 
 :::tip
 
-Nhấn vào logo Appfast (khoanh đỏ ở hình trên) hoặc nhấn vào đây để xem lại các project của bạn. Bạn cũng có thể tạo mới, đổi tên, xóa hoặc xem trước project tại trang này.
+Click on the Appfast logo (circled in red in the image above) or click here to review your projects. You can also create, rename, delete or preview projects at this page.
 
 :::
 
 ---
-Hãy đảm bảo rằng bạn đã bổ sung đầy đủ các thông tin cần thiết ở tab **App's Information** trước khi thực hiện việc xuất bản app.
+Please ensure that you have added all the necessary information in the **App's Information** tab before publishing the app.
 
 ![img alt](/img/publish-app/Android/android1.jpg)
 
-Có 2 phương thức để xuất bản một ứng dụng Android:
+There are 2 methods to publish an Android app:
 
-- Xuất bản tự động
-- Xuất bản thủ công
+- Automate Build
+- Manual Build
 
 ---
-### Xuất bản tự động
-Hệ thống sẽ tự động xuất bản Ứng dụng, bạn khôgn cần phải cung cấp thêm thông tin gì nữa.
+### Automate Build
+The system will automatically publish the Application, you do not need to provide any more information.
 
-Ở tab **"Settings"** -> Chọn **Android Application** -> **Next step** (Automate request to Appfast cloud to build your app).
+In the **"Settings"** tab -> Select **Android Application** -> **Next step** (Automate request to Appfast cloud to build your app).
+
 
 ![img alt](/img/publish-app/Android/android2.jpg)
 
 ---
 
-### Xuất bản thủ công
+### Manual Build
 
 :::note
 
-Việc xuất bản thủ công yêu cầu bạn có một số hiểu biết nhất định về việc phát triển ứng dụng (Quy định chung khi đưa ứng dụng lên hệ điều hành, Cung cấp các thông tin thiết yếu, ...).
+Manual publishing requires you to have certain understanding of application development (General rules for putting applications on the operating system, Providing essential information, ...).
 
 :::
 
-**Để thực hiện xuất bản thủ công**
+**To perform manual build**
 
-Ở tab **"Settings"** -> Chọn **Android Application** -> **Next step** (Manual request to Appfast cloud to build your app).
+In the **"Settings"** tab -> Select **Android Application** -> **Next step** (Manual request to Appfast cloud to build your app).
 
 
 ![img alt](/img/publish-app/Android/android3.jpg)
 
-Cung cấp đầy đủ các thông tin yêu cầu để build App.
+Provide all the required information to build the App.
 
 ![img alt](/img/publish-app/Android/android4.jpg)
 
 
 :::note
 
-Khi cập nhật ứng dụng này trên Google Play, bạn phải sử dụng những thông tin **keystore** trên.
-Hãy lưu giữ những thông tin keystore này cẩn thận, **bạn sẽ không thể cập nhật cho ứng dụng nếu đánh mất chúng**.
+When updating this app on Google Play, you must use the above **keystore** information. Please keep these keystore information carefully, **you will not be able to update the application if you lose them.**
 
 :::
 
-Nhấn **Request to Appfast Cloud** để hệ thống tiến hành khởi tạo file cài đặt. Quá trình này có thể mất vài phút.
+Click **"Request to Appfast Cloud"** to let the system proceed to initialize the installation file. This process may take several minutes.
 
 ![img alt](/img/publish-app/Android/android5.jpg)
 
-Sau khi xuất bản thành công ứng dụng, **File Build** sẽ được thêm bào danh sách bên phải **Màn hình xuất bản**. Giờ bạn có thể tải **File Build** về và tiến hành đưa ứng dụng lên các hệ điều hành.
+After successfully publishing the application, the **File Build** will be added to the list on the right side of the **Build Screen**. Now you can download the **File Build** and proceed to bring the application to the operating systems.
+
 
 ![img alt](/img/publish-app/Android/android6.jpg)

@@ -2,14 +2,14 @@
 sidebar_position: 4
 ---
 
-# Các Widget về giao diện
-*Các Widget đóng vai trò là thành phần phụ trợ trong giao diện người dùng.*
+# Interface Widgets
+*Widgets act as backend components in the user interface.*
 
 ---
 
-### Menu khối
+### Banner Block
 
-Danh sách các mục dạng khối, mỗi mục ứng với một màn hình cụ thể.
+List of block items, each for a specific screen.
 
 ![img alt](/img/widget/ui/menublock-01.jpeg)
 
@@ -17,9 +17,9 @@ Danh sách các mục dạng khối, mỗi mục ứng với một màn hình c�
 
 ---
 
-### Thanh tiêu đề
+### Title Bar
 
-Hiển thị thanh tiêu đề chính và tiêu đề phụ. Giúp phân chia rõ ràng các phần nội dung trong ứng dụng
+Displays the main title bar and the subheading. Helps to clearly divide the content sections in the application
 
 ![img alt](/img/widget/ui/titlebar-01.jpeg)
 
@@ -27,9 +27,9 @@ Hiển thị thanh tiêu đề chính và tiêu đề phụ. Giúp phân chia r�
 
 ---
 
-### Trình chiếu ảnh
+### Slider Images
 
-Xem ảnh bằng cách vuốt sang phải hoặc trái, có thể được dùng để liên kết với các màn hình.
+View photos by swiping right or left, which can be used to link screens.
 
 ![img alt](/img/widget/ui/slideshow-01.jpeg)
 
@@ -39,7 +39,7 @@ Xem ảnh bằng cách vuốt sang phải hoặc trái, có thể được dùng
 
 ### Banner Popup
 
-Hiện lên kèm đường dẫn mỗi khi bật ứng dụng hoặc tới 1 trang bất kì.
+Show up with the link every time you open the application or go to any page.
 
 ![img alt](/img/widget/ui/bannerpopup-01.jpg)
 
@@ -47,9 +47,9 @@ Hiện lên kèm đường dẫn mỗi khi bật ứng dụng hoặc tới 1 tra
 
 ---
 
-### Web view
+### Web View
 
-Nhập link website để hiển thị trang web dưới dạng mobile.
+Enter the website link to display the website as mobile.
 
 ![img alt](/img/widget/ui/webview-01.jpg)
 
@@ -57,9 +57,9 @@ Nhập link website để hiển thị trang web dưới dạng mobile.
 
 ---
 
-### Text box
+### Text Box
 
-Hiện thị thông tin dưới dạng văn bản.
+Display information as text.
 
 ![img alt](/img/widget/ui/textbox-01.jpg)
 
@@ -67,7 +67,7 @@ Hiện thị thông tin dưới dạng văn bản.
 
 ### Custom HTML/CSS/JS
 
-Chỉnh sửa giao diện bằng HTML/CSS.JS
+Edit the interface with HTML/CSS.JS
 
 ![img alt](/img/widget/ui/htmlcssjs-01.jpg)
 

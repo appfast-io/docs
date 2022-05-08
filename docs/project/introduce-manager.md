@@ -2,14 +2,13 @@
 sidebar_position: 5
 ---
 
-# Giới thiệu chung phần Manager
+# General introduce about Manager
 
 ### Manager ###
 
-Sẽ là nơi Admin tương tác nhiều nhất vì đây là nơi cho phép Admin quản lý nội dung cũng như các tính năng của ứng dụng.
+This will be the place where the Admin interacts the most because this is the place that allows the Admin to manage the content as well as the features of the application.
 
 ---
-
-Tab “Manager" sẽ là nơi hiển thị danh sách các Plugin bạn đã cài đặt -> bạn có thể thực hiện các thao tác cài đặt, tuỳ chỉnh các thuộc tính của Plugin. 
+The **"Manager"** tab will be the place to display the list of Plugins you have installed -> you can perform installation operations, customize the Plugin's properties.
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-13.jpg)

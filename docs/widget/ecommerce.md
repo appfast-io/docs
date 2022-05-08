@@ -2,14 +2,14 @@
 sidebar_position: 4
 ---
 
-# Các Widget thương mại điện tử
-*Các Widget hỗ trợ việc trao đổi, mua bán hàng hóa trực tuyến*
+# E-commerce Widgets
+*Widgets support the exchange, purchase and sale of goods online*
 
 ---
 
-### Danh sách sản phẩm
+### Product List​ing
 
-Danh sách sản phẩm với nguồn sản phẩm được lấy từ kho Quản lý Cửa Hàng.
+The product list with the product source is taken from the Store Manager inventory.
 
 ![img alt](/img/widget/ecom/productlisting-01.jpeg)
 
@@ -17,9 +17,9 @@ Danh sách sản phẩm với nguồn sản phẩm được lấy từ kho Quả
 
 ---
 
-### Thông tin cửa hàng
+### Shop Information
 
-Hiển thị thông tin cửa hàng cũng như thông tin liên hệ.
+Display store information as well as contact information.
 
 ![img alt](/img/widget/ecom/productlisting-02.jpg)
 

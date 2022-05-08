@@ -2,15 +2,15 @@
 sidebar_position: 2
 ---
 
-# Các Widgets nội dung
+# Content Widgets
 
-*Các Widget dùng để hiển thị nội dung như tin tức, hình ảnh, video, âm nhạc,...*
+*Widgets are used to display content such as news, images, videos, music, ...*
 
 ---
 
-### Bài viết
+### Posts and Articles
 
-Danh sách các bài viết, nguồn bài viết lấy từ Kho Quản Lý Nội Dung.
+List of articles, article sources taken from Content Management Warehouse.
 
 ![img alt](/img/widget/content/post-01.jpeg)
 
@@ -18,9 +18,9 @@ Danh sách các bài viết, nguồn bài viết lấy từ Kho Quản Lý Nội
 
 ---
 
-### Thư viện ảnh
+### Photo Gallery
 
-Bộ sưu tập ảnh, nguồn hình ảnh được lấy từ Kho Quản Lý Nội Dung.
+Photo collection, image source is taken from Content Management Warehouse.
 
 ![img alt](/img/widget/content/photogallery-01.jpeg)
 
@@ -28,9 +28,9 @@ Bộ sưu tập ảnh, nguồn hình ảnh được lấy từ Kho Quản Lý N�
 
 ---
 
-### Sự kiện sắp tới
+### Upcomming Events
 
-Hiển thị thông tin về sự kiện sắp diễn ra, có khả năng đếm ngược thời gian đến lúc diễn ra sự kiện.
+Displays information about upcoming events, has the ability to count down the time until the event occurs.
 
 ![img alt](/img/widget/content/upcomingevent-01.jpeg)
 
@@ -38,24 +38,24 @@ Hiển thị thông tin về sự kiện sắp diễn ra, có khả năng đếm
 
 ---
 
-### Bài ghim
+### Pin Posts
 
-Cho phép ghim một bài viết cụ thể ra màn hình ứng dụng.
+Allows pinning a specific article to the application screen.
 
 ![img alt](/img/widget/content/specificpost-01.jpeg)
 
 ---
 
-### Trình phát nhạc
+### Audio Player
 
-Cho phép phát các file trong danh sách mp3
+Allows playing files (.mp3) in the list
 
 ![img alt](/img/widget/content/audioplayer-01.jpg)
 
 ![img alt](/img/widget/content/audioplayer-02.jpg)
 
-### Lịch
+### Calendar
 
-Quản  lý lịch  trình - lịch hen
+Schedule management - appointment calendar
 
 ![img alt](/img/widget/content/calendar-01.jpg)

@@ -2,13 +2,13 @@
 sidebar_position: 1
 ---
 
-# Các Widget điều hướng
-*Các Widget đảm nhiệm việc di chuyển qua lại giữa các màn hình*
+# Navigation Widgets
+*Widgets take care of moving back and forth between screens*
 
 ---
 
-### Thanh đầu trang
-Thanh chứa logo, tiêu đề, và các nút với những hành động phổ biến như Menu, Trở về, Giỏ hàng,... Luôn nằm ở phía trên màn hình.
+### Header bar
+The bar contains the logo, title, and buttons with common actions like Menu, Back, Cart, etc. Always located at the top of the screen.
 
 ![img alt](/img/widget/navigation/headerbar-01.jpeg)
 
@@ -16,9 +16,9 @@ Thanh chứa logo, tiêu đề, và các nút với những hành động phổ 
 
 ---
 
-### Menu trượt
+### Drawer menu
 
-Một menu trượt chứa các mục ứng với các màn hình cụ thể. Xuất hiện khi người dùng nhấn vào nút Menu trên Thanh Đầu Trang hoặc vuốt từ trái sang phải.
+A sliding menu contains items for specific screens. Appears when the user taps the Menu button on the Top Bar or swipes from left to right.
 
 ![img alt](/img/widget/navigation/drawermenu-01.jpeg)
 
@@ -26,9 +26,9 @@ Một menu trượt chứa các mục ứng với các màn hình cụ thể. Xu
 
 ---
 
-### Menu nổi
+### Float menu
 
-Menu nổi luôn xuất hiện bên trên cùng nội dung app, thường có dạng tròn với biểu tượng ở giữa, khi nhấn vào sẽ hiện ra các nút con để dẫn đến các màn hình khác.
+Floating menus always appear on top of the app content, usually in a circular shape with an icon in the middle, when clicked will show child buttons to lead to other screens.
 
 ![img alt](/img/widget/navigation/floatmenu-01.jpeg)
 
@@ -36,9 +36,9 @@ Menu nổi luôn xuất hiện bên trên cùng nội dung app, thường có d�
 
 ---
 
-### Thanh điều hướng dưới
+### Bottom bar
 
-Một thanh chứa các tab (tối đa 6 tab), mỗi tab ứng với một màn hình cụ thể. Luôn nằm ở phía dưới màn hình.
+A bar containing tabs (up to 6 tabs), each tab corresponds to a specific screen. Always located at the bottom of the screen.
 
 ![img alt](/img/widget/navigation/bottombar-01.jpeg)
 
@@ -46,9 +46,9 @@ Một thanh chứa các tab (tối đa 6 tab), mỗi tab ứng với một màn 
 
 ---
 
-### Thanh tab
+### Tab bar
 
-Một thanh chứa các tab, mỗi tab ứng với một màn hình cụ thể. Nó có thể xuất hiện ngay bên dưới Thanh Đầu Trang hoặc bên trong phần nội dung app.
+A bar contains tabs, each tab corresponds to a specific screen. It can appear just below the Header Bar or inside the app content.
 
 ![img alt](/img/widget/navigation/tabbar-01.jpeg)
 

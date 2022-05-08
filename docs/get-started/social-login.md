@@ -2,25 +2,26 @@
 sidebar_position: 2
 ---
 
-# Đăng nhập qua tài khoản mạng xã hội
+# Login via social network account
 
 ---
 
-Bạn có thể đăng nhập vào dashboard  Appfast Studio bằng cách đăng nhập bằng các tài khoản mạng xã hội mà bạn có sẵn:
-Facebook
-Google
-ID Apple
+You can log in to the Appfast Studio dashboard by logging in with your existing social media accounts:
+- Facebook
+- Google
+- ID Apple
+
 
 ![img alt](/img/start/sign-in/200507-dang-nhap-vao-appfast-08.jpg)
 
-Nhập tài khoản Facbook của bạn để đăng nhập
+Enter your Facebook account to login
 
 ![img alt](/img/start/sign-in/200507-dang-nhap-vao-appfast-09.jpg)
 
-Nhập tài khoản Google của bạn để đăng nhập
+Enter your Google account to sign in
 
 ![img alt](/img/start/sign-in/200507-dang-nhap-vao-appfast-10.jpg)
 
-Nhập ID Apple của bạn để đăng nhập
+Enter your Apple ID to sign in
 
 ![img alt](/img/start/sign-in/200507-dang-nhap-vao-appfast-11.jpg)

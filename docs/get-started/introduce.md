@@ -2,26 +2,28 @@
 sidebar_position: 1
 ---
 
-# Giới thiệu chung
+# General
 
-### Mô tả tích hợp
+### Built-in description
 
-Appfast tích hợp nhiều mô tả chi tiết để cung cấp cho bạn thông tin hữu ích về đặc tính cũng như cách sử dụng của một thành phần bất kì. Để xem một mô tả, hãy thử di chuột lên hoặc nhấn vào biểu tượng chấm hỏi ❓(nếu có).
+Appfast integrates many detailed descriptions to give you useful information about the properties and usage of any component. To see a description, try hovering over or tapping the question mark icon ❓ (if available).
 
 ![img alt](/img/start/guide/200507-xem-qua-cac-huong-dan-01.jpg)
 
 ---
 
-### Kênh Youtube
+### Youtube Channel
 
-Đăng ký kênh **[Youtube của Appfast](https://www.youtube.com/channel/UCMxYFX8Fp1jR_Onlc5ysVbg)** để xem nhiều video hướng dẫn trực quan, hỗ trợ bạn từng bước để tạo ra các ứng dụng tuyệt vời!
+Subscribe to **[Appfast's Youtube channel](https://www.youtube.com/channel/UCMxYFX8Fp1jR_Onlc5ysVbg)** for a variety of intuitive video tutorials that will guide you step-by-step into creating great apps!
+
 
 ![img alt](/img/start/guide/200507-xem-qua-cac-huong-dan-02.jpeg)
 
-Bạn có thể xem thêm nhiều thôn tin hơn về Appfast qua Website: **[appfast.me](https://appfast.me)**
+You can see more information about Appfast via Website: **[appfast.me](https://appfast.me)**
 
 ![img alt](/img/start/guide/200507-xem-qua-cac-huong-dan-03.jpg)
 
-Để bắt đầu tạo ứng dụng b có thể sử dụng trình duyệt Appfast Studio trên **[Desktop](https://studio.appfast.io/)**, hoặc ứng dụng Appfast Studio trên **[Appstore](https://apps.apple.com/gh/app/appfast-studio/id1614592863)** - **[CH Play](https://play.google.com/store/apps/details?id=io.appfast.studio)**
+To start creating applications b can use Appfast Studio browser on **[Desktop](https://studio.appfast.io/)**, or Appfast Studio application on **[Appstore](https://apps.apple.com/gh/app/appfast-studio/id1614592863)** - **[CH Play](https://play.google.com/store/apps/details?id=io.appfast.studio)**
+
 
 ![img alt](/img/start/guide/200507-xem-qua-cac-huong-dan-04.jpg)

@@ -2,28 +2,28 @@
 sidebar_position: 4
 ---
 
-# Mua điểm và mua gói
+# Buy points and packages
 
 ---
 
-Khi tạo tài khoản bạn  cần mua các gói cao hơn để sửa dụng nhiều tính năng hơn của Appfast
+When creating an account, you need to buy higher packages to use more features of Appfast
 
 ![img alt](/img/start/points/200507-huong-dan-mua-diem-va-mua-goi-01.jpg)
 
-Các gói với từng mức phí khác nhau sẽ có các tính năng khác nhau
+Packages with different fees will have different features
 
 ![img alt](/img/start/points/200507-huong-dan-mua-diem-va-mua-goi-02.jpg)
 
-Để mua được các gói, trước tiên bạn cần mua điểm:
-- Chọn “Top up" để mua điểm
-- Chọn “Lịch sử" để xem lịch sử các giao dịch mua điểm gần đây
+To buy packages, you need to buy points first:
+- Select **“Top up”** to buy points
+- Select **“History”** to see a history of recent point purchases
 
 ![img alt](/img/start/points/200507-huong-dan-mua-diem-va-mua-goi-03.jpg)
 
-Số điểm ứng với số tiền bạn cần bỏ ra -> Chọn mua số điểm bạn muốn mua
+The number of points corresponds to the amount you need to spend -> Choose to buy the number of points you want to buy
 
 ![img alt](/img/start/points/200507-huong-dan-mua-diem-va-mua-goi-04.jpg)
 
-Appfast chi hỗ trợ thanh toán qua PayPal
+Appfast only supports payment via PayPal
 
 ![img alt](/img/start/points/200507-huong-dan-mua-diem-va-mua-goi-05.jpg)

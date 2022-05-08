@@ -2,5 +2,5 @@
 sidebar_position: 8
 ---
 
-# Các Plugin quản lý nhân sự, người dùng
+# Plugins to manage personnel and users
 Comming soon...

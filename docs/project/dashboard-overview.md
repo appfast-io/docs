@@ -2,35 +2,37 @@
 sidebar_position: 2
 ---
 
-# Làm quen với Dashboard
+# Getting to know the Dashboard
 
-**Dashboard** (tiếng Việt: "Bảng điều khiển") là trang cho phép bạn cài đặt các tính năng và thực hiện các thay đổi lên giao diện của ứng dụng trên phiên bản điện thoại, máy tính bảng và phiên bản máy tính (khi xem bằng trình duyệt). 
+**Dashboard** (Vietnamese: "Bảng điều khiển") is a page that allows you to install features and make changes to the interface of the application on the phone, tablet and computer versions (when viewing by browser).
 
 ---
 
-### Cấu hình phiên bản điện thoại
+### Configure phone version
 
-Phần cấu hình dành cho điện thoại gồm các phần chính sau (được đánh số tương ứng ở hình dưới)
+The configuration section for the phone includes the following main parts (correspondingly numbered in the picture below)
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-01.jpeg)
 
-- **Số 1 (màu đỏ):** Đây là nơi hiển thị icon và tên ứng dụng.
-- **Số 2 (màu xanh lá):** Khu vực màn hình, quản lý các màn hình hiện có trong ứng dụng.
-- **Số 3 (màu xanh biển):** Thanh công cụ, giúp bạn truy cập nhanh các tính năng thiết yếu.
-- **Số 4 (màu tím):** Khu vực Widget, nơi bạn có thể tìm và thêm Widget vào màn hình.
-- **Số 5 (màu cam):** Giao diện giả lập trên điện thoại, giúp bạn xem trước và tương tác với ứng dụng.
+- **Number 1 (red):** This is where the icon and application name are displayed.
+- **Number 2 (green):** Screen area, managing the screens available in the application.
+- **Number 3 (blue):** Toolbar, giving you quick access to essential features.
+- **Number 4 (purple):** Widget area, where you can find and add Widgets to the screen.
+- **Number 5 (orange):** Emulator interface on the phone, helping you preview and interact with the application.
+
 
 ---
 
-Chọn “xem trước” để hiển thị giao diện trên ứng dụng.
+Select **“Preview”** to display the interface on the application.
+
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-10.jpg)
 
-Chọn “Release" cập nhật thông tin chỉnh sửa mới nhất.
+Select **“Release”** to update the latest editing information.
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-11.jpg)
 
-Chọn thay đổi giữa các thiết bị để hiển thị cấu trúc trên từng thiết bị
+Choose to change between devices to show the structure on each device
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-12.jpg)
 

@@ -2,20 +2,20 @@
 sidebar_position: 5
 ---
 
-# Các Widget khác
-*Các Widget mang nhiều chức năng hữu ích khác.
+# Other Widgets
+*Widgets carry many other useful functions.*
 
 ---
 
-### Quảng cáo
-Cho phép bạn kiếm tiền từ quảng cáo bên trong app.
+### Advertisement​
+Allows you to monetize ads within the app.
 
 ![img alt](/img/widget/orthers/map.jpeg)
 
 ---
 
-### Bản đồ - Địa điểm
+### Map - Location​
 
-Hiển thị bản đồ kèm địa chỉ, cho phép người dùng xem vị trí và chỉ đường đến các vị trí này.
+Displays a map with the address, allowing the user to see the location and directions to these locations.
 
 ![img alt](/img/widget/orthers/map.jpg)
