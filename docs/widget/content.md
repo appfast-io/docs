@@ -4,13 +4,13 @@ sidebar_position: 2
 
 # Content Widgets
 
-*Widgets are used to display content such as news, images, videos, music, ...*
+*Widgets are used to display news, images, videos, music, etc...*
 
 ---
 
 ### Posts and Articles
 
-List of articles, article sources taken from Content Management Warehouse.
+List of articles and article sources taken from Content Management Warehouse.
 
 ![img alt](/img/widget/content/post-01.jpeg)
 
@@ -20,7 +20,7 @@ List of articles, article sources taken from Content Management Warehouse.
 
 ### Photo Gallery
 
-Photo collection, image source is taken from Content Management Warehouse.
+Photo collection and image sources are taken from Content Management Warehouse.
 
 ![img alt](/img/widget/content/photogallery-01.jpeg)
 
@@ -30,7 +30,7 @@ Photo collection, image source is taken from Content Management Warehouse.
 
 ### Upcomming Events
 
-Displays information about upcoming events, has the ability to count down the time until the event occurs.
+Displays information about upcoming events can count down the time until the event occurs.
 
 ![img alt](/img/widget/content/upcomingevent-01.jpeg)
 

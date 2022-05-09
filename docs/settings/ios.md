@@ -11,7 +11,7 @@ Please ensure that you have added all the necessary information in the **App's I
 ![img alt](/img/publish-app/iOS/ios1.jpg)
 
 
-There is only 1 method to publish an iOS app which is manual publishing.
+There is only one method to publish an iOS app which is manual publishing.
 
 ---
 
@@ -19,11 +19,11 @@ There is only 1 method to publish an iOS app which is manual publishing.
 
 :::note
 
-Manual publishing requires you to have certain understanding of application development (General rules for putting applications on the operating system, Providing essential information, ...).
+Manual publishing requires you to understand application development (General rules for putting applications on the operating system, Providing essential information, etc...).
 
 :::
 
-In the **"Settings"** tab -> Select **iOS Application** -> **Next step** (Send request to Appfast's Builder Cloud to build a standalone iOS app).
+In the **"Settings"** tab -> Select **iOS Application** -> **Next step** (Send a request to Appfast's Builder Cloud to build a standalone iOS app).
 
  
 ![img alt](/img/publish-app/iOS/ios2.jpg)

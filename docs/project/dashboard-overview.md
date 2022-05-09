@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Getting to know the Dashboard
 
-**Dashboard** (Vietnamese: "Bảng điều khiển") is a page that allows you to install features and make changes to the interface of the application on the phone, tablet and computer versions (when viewing by browser).
+**Dashboard** (Vietnamese: "Bảng điều khiển") is a page that allows you to install features and make changes to the interface of the application on the phone, tablet, and computer versions (when viewed by the browser).
 
 ---
 
@@ -32,7 +32,7 @@ Select **“Release”** to update the latest editing information.
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-11.jpg)
 
-Choose to change between devices to show the structure on each device
+Choose to change between devices to show the structure of each device
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-12.jpg)
 

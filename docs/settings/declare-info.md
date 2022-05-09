@@ -9,9 +9,9 @@ In the navigation bar on the left side of the screen, find and tap **"App's Info
 
 ![img alt](/img/create-app/configs/200514-thay-doi-cai-dat-project-01.jpeg)
 
-You are recommended to change the following 2 pieces of information:
+You are recommended to change the following two pieces of information:
 - **Icon app (1):** The specified icon is a **non-transparent PNG image (1024px -1024px).**
-- **App's Name (2):** The name displayed under the App Icon on the operating system.
+- **App's Name (2):** The name is displayed under the App Icon on the operating system.
 - **App's Version (3):** Change parameters **(increase version after each build).**
 - **Support email (4):** Support Email Address.
 - **Default Language (5):** Select the default language for the application.
@@ -25,7 +25,7 @@ After you have changed the above information, click **Save** to complete the pro
 
 :::tip
 
-Click on the Appfast logo (circled in red in the image above) or click here to review your projects. You can also create, rename, delete or preview projects at this page.
+Click on the Appfast logo (circled in red in the image above) or click here to review your projects. You can also create, rename, delete or preview projects on this page.
 
 :::
 
@@ -41,7 +41,7 @@ There are 2 methods to publish an Android app:
 
 ---
 ### Automate Build
-The system will automatically publish the Application, you do not need to provide any more information.
+The system will automatically publish the Application, and you do not need to provide any more information.
 
 In the **"Settings"** tab -> Select **Android Application** -> **Next step** (Automate request to Appfast cloud to build your app).
 
@@ -54,8 +54,7 @@ In the **"Settings"** tab -> Select **Android Application** -> **Next step** (Au
 
 :::note
 
-Manual publishing requires you to have certain understanding of application development (General rules for putting applications on the operating system, Providing essential information, ...).
-
+Manual publishing requires you to understand application development (General rules for putting applications on the operating system, Providing essential information, etc...).
 :::
 
 **To perform manual build**
@@ -72,7 +71,7 @@ Provide all the required information to build the App.
 
 :::note
 
-When updating this app on Google Play, you must use the above **keystore** information. Please keep these keystore information carefully, **you will not be able to update the application if you lose them.**
+When updating this app on Google Play, you must use the above **Keystore** information. Please keep this Keystore information carefully, **and you will not be able to update the application if you lose them.**
 
 :::
 

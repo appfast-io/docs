@@ -19,7 +19,7 @@ List of block items, each for a specific screen.
 
 ### Title Bar
 
-Displays the main title bar and the subheading. Helps to clearly divide the content sections in the application
+Displays the main title bar and the subheading. It helps to divide the content sections in the application
 
 ![img alt](/img/widget/ui/titlebar-01.jpeg)
 

@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ### Add automatically
 
-After installing the **"News Website Sync"** Plugin, in Tab **Manager** select the **News Website Sync** plugin -> A**dd first news/blog website** so that the system automatically retrieves data from the website.
+After installing the **"News Website Sync"** Plugin, in Tab **Manager**,select the **News Website Sync** plugin -> **Add first news/blog website** so that the system automatically retrieves data from the website.
 
 
 ![img alt](/img/data/news/news1.jpg)
@@ -23,14 +23,15 @@ Add a link from the data source you want to retrieve
 
 ### Add Manually
 
-After installing the **"Manual Contents"** Plugin, in Tab **Manager** select the **Manual Contents** plugin -> Select the type of data you want to add.
+After installing the **"Manual Contents"**, select the **Manual Contents** plugin in tab **Manager**-> Select the type of data you want to add.
 
-Appfast supports you to generate the following data types:
-- **Articles:** Article type similar to articles collected from the Website.
+Appfast supports you in generating the following data types:
+- **Articles:** Article type is similar to articles collected from the Website.
 - **Images:** Images that you manually upload from your computer.
-- **Video**: Video taken from a link you provided / added directly from your device.
+- **Video:** Video is taken from a link you provided/added directly from your device.
 - **Audio:** Audio files are added directly from your device.
 - **PDF:** PDF files are added directly from your device.
+
 
 ![img alt](/img/data/news/news3.jpg)
 
@@ -65,7 +66,7 @@ After selecting **"Add new PDF"** -> Fill in the full content for the Album -> *
 ![img alt](/img/data/news/news9.jpg)
 
 ### *Edit / Delete / Hide - show posts*
-After you have added a post, you can edit, delete, hide - show the post in the **"Manager"** tab -> Select the **"plugin"** and **"category"** corresponding to the post you have created -> **Custom list** will appear to the right of the list of posts.
+After you have added a post, you can edit, delete, hide - show it in the **"Manager"** tab -> Select the **"plugin"** and **"category"** corresponding to the post you have created -> **Custom list** will appear on the right of the list of posts.
 
 
 ![img alt](/img/data/news/news10.jpg)

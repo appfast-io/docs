@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# General introduce about Settings
+# General introduction about Settings
 
 ---
 ### Settings ###

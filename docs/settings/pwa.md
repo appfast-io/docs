@@ -4,9 +4,9 @@ sidebar_position: 4
 
 # How to use PWA
 ---
-First, make sure you've filled in all the necessary information before publishing your app.
+First, ensure you've filled in all the necessary information before publishing your app.
 
-PWA (Progressive Web Apps) publishing allows you to use the application directly through the browser without installation like traditional application publishing methods. No more cumbersome setup operations, now your job is simply to change the access address (if needed).
+PWA (Progressive Web Apps) publishing allows you to use the application directly through the browser without installation like traditional application publishing methods. No more cumbersome setup operations. Now your job is to change the access address (if needed).
 
 In the **"Setting"** tab -> Select **PWA Domain**-> **Default PWA domain** -> Enter domain name -> Select **"Edit PWA Domain"**
 

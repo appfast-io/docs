@@ -13,7 +13,7 @@ Please ensure that you have added all the necessary information in the **App's I
 ---
 
 ### Automate Build
-The system will automatically publish the Application, you do not need to provide any more information.
+The system will automatically publish the Application, and you do not need to provide any more information.
 
 In the **"Settings"** tab -> Select **Android Application** -> **Next step** (Automate request to Appfast cloud to build your app).
 
@@ -26,8 +26,7 @@ In the **"Settings"** tab -> Select **Android Application** -> **Next step** (Au
 
 :::note
 
-Manual publishing requires you to have certain understanding of application development (General rules for putting applications on the operating system, Providing essential information, ...).
-
+Manual publishing requires you to understand application development (General rules for putting applications on the operating system, Providing essential information, etc...).
 :::
 
 **To perform manual build**
@@ -44,7 +43,7 @@ Provide all the required information to build the App.
 
 :::note
 
-When updating this app on Google Play, you must use the above **keystore** information. Please keep these keystore information carefully, **you will not be able to update the application if you lose them.**
+When updating this app on Google Play, you must use the above **Keystore** information. Please keep this Keystore information carefully, **and you will not be able to update the application if you lose them.**
 
 :::
 

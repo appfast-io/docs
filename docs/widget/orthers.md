@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 # Other Widgets
-*Widgets carry many other useful functions.*
+*Widgets carry many other valuable functions.*
 
 ---
 
