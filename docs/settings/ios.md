@@ -6,10 +6,9 @@ sidebar_position: 3
 
 ---
 
-Please ensure that you have added all the necessary information in the **App's Information*** tab before publishing the app.
+Please ensure that you have added all the necessary information in the **App's Information** tab before publishing the app.
 
-![img alt](/img/publish-app/iOS/ios1.jpg)
-
+![img alt](/img/publish-app/iOS/setting-ios-03.png)
 
 There is only one method to publish an iOS app which is manual publishing.
 
@@ -17,25 +16,10 @@ There is only one method to publish an iOS app which is manual publishing.
 
 ### Manual Build
 
-:::note
+Declare the application icon and necessary information (This information you need to prepare in advance)
 
-Manual publishing requires you to understand application development (General rules for putting applications on the operating system, Providing essential information, etc...).
+![img alt](/img/publish-app/iOS/setting-ios-01.png)
 
-:::
+After declaring, select **“Request to Appfast Cloud”** for the system to publish the application manually.
 
-In the **"Settings"** tab -> Select **iOS Application** -> **Next step** (Send a request to Appfast's Builder Cloud to build a standalone iOS app).
-
- 
-![img alt](/img/publish-app/iOS/ios2.jpg)
-
-Provide the required information to continue publishing the App.
-
-![img alt](/img/publish-app/iOS/ios3.jpg)
-
-Then click **"Send request"** to Publish App.
-
----
-
-After successfully publishing the application, the **File Build** will be added to the list on the right side of the **Build Screen**. Now you can download the **File Build** and proceed to bring the application to the operating systems.
-
-![img alt](/img/publish-app/iOS/ios4.jpg)
+![img alt](/img/publish-app/iOS/setting-ios-02.png)

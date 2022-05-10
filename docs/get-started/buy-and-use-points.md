@@ -6,14 +6,6 @@ sidebar_position: 4
 
 ---
 
-When creating an account, you need to buy higher packages to use more features of Appfast
-
-![img alt](/img/start/points/200507-huong-dan-mua-diem-va-mua-goi-01.jpg)
-
-Packages with different fees will have additional features
-
-![img alt](/img/start/points/200507-huong-dan-mua-diem-va-mua-goi-02.jpg)
-
 To purchase packages, you need to buy points first:
 - Select **“Top-up”** to buy points
 - Select **“History”** to see a history of recent point purchases
@@ -27,3 +19,11 @@ The number of points corresponds to the amount you need to spend -> Choose to bu
 Appfast only supports payment via PayPal.
 
 ![img alt](/img/start/points/200507-huong-dan-mua-diem-va-mua-goi-05.jpg)
+
+After buying an account, you need to buy higher packages to use more features of Appfast.
+
+![img alt](/img/start/points/200507-huong-dan-mua-diem-va-mua-goi-01.jpg)
+
+Packages with different fees will have additional features
+
+![img alt](/img/start/points/200507-huong-dan-mua-diem-va-mua-goi-02.jpg)

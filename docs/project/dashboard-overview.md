@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Getting to know the Dashboard
+# Overview the Dashboard
 
 **Dashboard** (Vietnamese: "Bảng điều khiển") is a page that allows you to install features and make changes to the interface of the application on the phone, tablet, and computer versions (when viewed by the browser).
 
@@ -19,7 +19,6 @@ The configuration section for the phone includes the following main parts (corre
 - **Number 3 (blue):** Toolbar, giving you quick access to essential features.
 - **Number 4 (purple):** Widget area, where you can find and add Widgets to the screen.
 - **Number 5 (orange):** Emulator interface on the phone, helping you preview and interact with the application.
-
 
 ---
 

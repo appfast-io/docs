@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ### Interact with the screen
 
-Screens can be considered the "backbone" of an app because they act as containers, helping to hold and structure the smaller components inside. With Appfast, you need to take care of the following two types of screens: **Screens created by you** and **built-in system monitors**.
+Screens can be considered the "back bone" of an app because they act as containers, helping to hold and structure the smaller components inside. With Appfast, you need to take care of the following two types of screens: **Screens created by you** and **Plugin screens** (screens that the system automatically generates after you install a plugin).
 
 ### Here's what you can do with the display:
 
@@ -30,7 +30,7 @@ The project's main screen will be labeled **"Home screen"** in the **Action** ta
 
 :::caution
 
-You cannot perform add, delete, copy, paste, duplicate, or rename operations for system monitors. You also cannot change their position.
+You cannot perform add, delete, copy, paste, duplicate, or rename operations for Plugin screens. But you can config the design color.
 
 :::
 
@@ -50,9 +50,9 @@ The **Background**image has a higher priority than the **Background** color, so 
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-06.jpeg)
 
-Tab “System” to manage system monitors
+Tab “System” to manage system screens
 
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-07.jpg)
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-07.png)
 
 ### Interacting with widgets​
 
