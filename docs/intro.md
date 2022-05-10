@@ -2,14 +2,14 @@
 sidebar_position: 0
 ---
 
-# Giới thiệu
+# Introduce
 
-Chào mừng bạn đến với trang hỗ trợ của **Appfast**
+Welcome to **Appfast**'s support page
 
 ---
 
-## Appfast là gì?
+## What is Appfast?
 
-Appfast là nền tảng giúp bạn tạo ra ứng dụng di động đơn giản, nhanh chóng mà không cần kiến thức lập trình.
+Appfast is a platform that helps you create fast and straightforward mobile applications without programming knowledge.
 
 <iframe width="100%" height="515" src="https://www.youtube.com/embed/rX7rRlyqkC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

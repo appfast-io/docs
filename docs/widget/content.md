@@ -1,39 +1,61 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Các Widgets nội dung
+# Content Widgets
 
-*Các Widget dùng để hiển thị nội dung như tin tức, hình ảnh, video, âm nhạc,...*
-
----
-
-### Bài viết
-
-Danh sách các bài viết, nguồn bài viết lấy từ Kho Quản Lý Nội Dung.
-
-![img alt](/img/widget/content/post.jpeg)
+*Widgets are used to display news, images, videos, music, etc...*
 
 ---
 
-### Thư viện ảnh
+### Posts and Articles
 
-Bộ sưu tập ảnh, nguồn hình ảnh được lấy từ Kho Quản Lý Nội Dung.
+List of articles and article sources taken from Content Management Warehouse.
 
-![img alt](/img/widget/content/photogallery.jpeg)
+![img alt](/img/widget/content/post-01.jpeg)
 
----
-
-### Sự kiện sắp tới
-
-Hiển thị thông tin về sự kiện sắp diễn ra, có khả năng đếm ngược thời gian đến lúc diễn ra sự kiện.
-
-![img alt](/img/widget/content/upcomingevent.jpeg)
+![img alt](/img/widget/content/post-02.jpg)
 
 ---
 
-### Bài ghim
+### Photo Gallery
 
-Cho phép ghim một bài viết cụ thể ra màn hình ứng dụng.
+Photo collection and image sources are taken from Content Management Warehouse.
 
-![img alt](/img/widget/content/specificpost.jpeg)
+![img alt](/img/widget/content/photogallery-01.jpeg)
+
+![img alt](/img/widget/content/photogallery-02.jpg)
+
+---
+
+### Upcomming Events
+
+Displays information about upcoming events can count down the time until the event occurs.
+
+![img alt](/img/widget/content/upcomingevent-01.jpeg)
+
+![img alt](/img/widget/content/upcomingevent-02.jpg)
+
+---
+
+### Pin Posts
+
+Allows pinning a specific article to the application screen.
+
+![img alt](/img/widget/content/specificpost-01.jpeg)
+
+---
+
+### Audio Player
+
+Allows playing files (.mp3) in the list
+
+![img alt](/img/widget/content/audioplayer-01.jpg)
+
+![img alt](/img/widget/content/audioplayer-02.jpg)
+
+### Calendar
+
+Schedule management - appointment calendar
+
+![img alt](/img/widget/content/calendar-01.jpg)

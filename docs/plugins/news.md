@@ -2,68 +2,71 @@
 sidebar_position: 2
 ---
 
-# Các Plugin nội dung
+# Content Plugins
 
-Dữ liệu dạng tin tức: là các dữ liệu dưới dạng bài viết (gồm câu chữ, hình ảnh, video,...)
+*News data: is data in the form of articles (including text, images, videos, ...)*
 
 ---
 
-### Thêm tự động
-Sau khi cài đặt Plugin **"News Website Sync"**, ở Tab **Manager** chọn plugin **News Website Sync** -> **Add first news/blog website** để hệ thống tự động lấy dữ liệu từ website.
+### Add automatically
+
+After installing the **"News Website Sync"** Plugin, in Tab **Manager**,select the **News Website Sync** plugin -> **Add first news/blog website** so that the system automatically retrieves data from the website.
+
 
 ![img alt](/img/data/news/news1.jpg)
 
-Thêm link từ nguồn dữ liệu bạn muốn lấy về
+Add a link from the data source you want to retrieve
 
 ![img alt](/img/data/news/news2.jpg)
 
-
 ---
 
-### Thêm thủ công
+### Add Manually
 
-Sau khi cài đặt Plugin **"Manual Contents"**, ở Tab **Manager** chọn plugin **Manual Contents** -> Chọn loại dữ liệu bạn muốn thêm vào.
+After installing the **"Manual Contents"**, select the **Manual Contents** plugin in tab **Manager**-> Select the type of data you want to add.
 
-Appfast hỗ trợ bạn tạo ra các loại dữ liệu sau:
-- **Bài viết:** dạng bài viết giống với bài viết được thu thập từ Website .
-- **Hình ảnh:** các hình ảnh do bạn tự tải lên từ máy tính.
-- **Video:** video lấy từ một liên kết bạn cung cấp / thêm trực tiếp từ thiết bị của bạn.
-- **Âm thanh:** các file âm thanh được thêm trực tiếp từ thiết bị của bạn.
-- **PDF:** các file PDF được thêm trực tiếp từ thiết bị của bạn.
+Appfast supports you in generating the following data types:
+- **Articles:** Article type is similar to articles collected from the Website.
+- **Images:** Images that you manually upload from your computer.
+- **Video:** Video is taken from a link you provided/added directly from your device.
+- **Audio:** Audio files are added directly from your device.
+- **PDF:** PDF files are added directly from your device.
+
 
 ![img alt](/img/data/news/news3.jpg)
 
-### *Tạo bài viết*
-Sau khi chọn **"Add new Article"** -> Điền đầy đủ nội dung cho bài viết -> **"Add"**
+### *Create posts*
+After selecting **"Add new Article"** -> Fill in the full content for the article -> **"Add"**
 
 ![img alt](/img/data/news/news4.jpg)
 
-### *Tạo Album ảnh*
-Sau khi chọn **"Add new Photo"** -> Điền đầy đủ nội dung cho Album -> **"Add"**
+### *Create Photo Album*
+After selecting **"Add new Photo"** -> Fill in the full content for the Album -> **"Add"**
 
 ![img alt](/img/data/news/news5.jpg)
 
-### *Tạo video được thêm từ thiết bị*
-Sau khi chọn **"Video"** -> Điền đầy đủ nội dung cho Album -> **"Add"**
+### *Create video added from device*
+After selecting **"Video"** -> Fill in the content for Album -> **"Add"**
 
 ![img alt](/img/data/news/news7.jpg)
 
-### *Tạo video được thêm từ đường dẫn*
-Sau khi chọn **"Add new Video"** -> Điền đầy đủ nội dung cho Album -> **"Add"**
+### *Create video added from link*
+After selecting **"Add new Video"** -> Fill in the album's content -> **"Add"**
 
 ![img alt](/img/data/news/news6.jpg)
 
-### *Tạo bài viết có file âm thanh* 
-Sau khi chọn **"Add new Audio"** -> Điền đầy đủ nội dung cho Album -> **"Add"**
+### *Create articles with audio files*
+After selecting **"Add new Audio"** -> Fill in the album's content -> **"Add"**
 
 ![img alt](/img/data/news/news8.jpg)
 
-### *Tạo bài viết file PDF* 
-Sau khi chọn **"Add new PDF"** -> Điền đầy đủ nội dung cho Album -> **"Add"**
+### *Create articles PDF file* 
+After selecting **"Add new PDF"** -> Fill in the full content for the Album -> **"Add"**
 
 ![img alt](/img/data/news/news9.jpg)
 
-### *Chỉnh sửa / Xoá / Ẩn - hiện các bài đăng*
-Sau khi đã thêm cái bài đăng, bạn có thể chỉnh sửa, xoá, ẩn - hiện bài đăng ở tab **"Manager"** -> Chọn **"plugin"** và **"danh mục"** ứng với bài đăng bạn đã tạo -> **Danh sách tuỳ chỉnh** sẽ hiện ở bên phải danh sách các bài đăng.
+### *Edit / Delete / Hide - show posts*
+After you have added a post, you can edit, delete, hide - show it in the **"Manager"** tab -> Select the **"plugin"** and **"category"** corresponding to the post you have created -> **Custom list** will appear on the right of the list of posts.
+
 
 ![img alt](/img/data/news/news10.jpg)

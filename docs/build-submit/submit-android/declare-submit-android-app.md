@@ -2,5 +2,6 @@
 sidebar_position: 2
 ---
 
-# Khai báo và đưa ứng dụng lên Play Store
+# Declare and put the app on the Play Store
+
 Comming soon...

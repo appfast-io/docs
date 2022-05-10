@@ -2,68 +2,38 @@
 sidebar_position: 2
 ---
 
-# Làm quen với Dashboard
+# Getting to know the Dashboard
 
-**Dashboard** (tiếng Việt: "Bảng điều khiển") là trang cho phép bạn cài đặt các tính năng và thực hiện các thay đổi lên giao diện của ứng dụng trên phiên bản điện thoại, máy tính bảng và phiên bản máy tính (khi xem bằng trình duyệt). 
+**Dashboard** (Vietnamese: "Bảng điều khiển") is a page that allows you to install features and make changes to the interface of the application on the phone, tablet, and computer versions (when viewed by the browser).
 
 ---
 
-### Cấu hình phiên bản điện thoại
+### Configure phone version
 
-Phần cấu hình dành cho điện thoại gồm các phần chính sau (được đánh số tương ứng ở hình dưới)
+The configuration section for the phone includes the following main parts (correspondingly numbered in the picture below)
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-01.jpeg)
 
-- **Số 1 (màu đỏ):** Đây là nơi hiển thị icon và tên ứng dụng.
-- **Số 2 (màu xanh lá):** Khu vực màn hình, quản lý các màn hình hiện có trong ứng dụng.
-- **Số 3 (màu xanh biển):** Thanh công cụ, giúp bạn truy cập nhanh các tính năng thiết yếu.
-- **Số 4 (màu tím):** Khu vực Widget, nơi bạn có thể tìm và thêm Widget vào màn hình.
-- **Số 5 (màu cam):** Giao diện giả lập trên điện thoại, giúp bạn xem trước và tương tác với ứng dụng.
+- **Number 1 (red):** This is where the icon and application name are displayed.
+- **Number 2 (green):** Screen area, managing the screens available in the application.
+- **Number 3 (blue):** Toolbar, giving you quick access to essential features.
+- **Number 4 (purple):** Widget area, where you can find and add Widgets to the screen.
+- **Number 5 (orange):** Emulator interface on the phone, helping you preview and interact with the application.
+
 
 ---
 
-### Tương tác với màn hình
+Select **“Preview”** to display the interface on the application.
 
-Màn hình có thể xem là ""xương sống"" của một app vì chúng đóng vai trò như vật chứa, giúp giữ và cấu trúc các thành phần nhỏ hơn bên trong. Với Appfast, bạn cần quan tâm đến 2 loại màn hình sau: **Các màn hình do bạn tạo ra** và **Các màn hình hệ thống có sẵn.**
 
-### Sau đây là các thao tác bạn có thể thực hiện với màn hình:
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-10.jpg)
 
-- Thêm một màn hình mới.
+Select **“Release”** to update the latest editing information.
 
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-02.jpeg)
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-11.jpg)
 
-- Kéo thả để thay đổi vị trí màn hình.
+Choose to change between devices to show the structure of each device
 
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-03.jpeg)
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-12.jpg)
 
-:::tip
 
-Màn hình chính của project sẽ được gắn nhãn **"Home screen"** ở tab **Action** bên phải, và Appfast mặc định màn hình xuất hiện đầu tiên trong danh sách sẽ là màn hình chính.
-
-:::
-
-- Sao chép và dán thuộc tính của màn hình này lên màn hình khác, tạo bản sao, đổi tên hoặc xóa màn hình
-
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-04.jpeg)
-
-:::caution
-
-Bạn không thể thực hiện các thao tác thêm, xóa, sao chép, dán, tạo bản sao, đổi tên đối với các màn hình hệ thống. Bạn cũng không thể thay đổi vị trí của chúng.
-
-:::
-
----
-
-### Cài đặt màn hình
-
-Cài đặt của màn hình (và gần như tất cả thành phần khác) thường được đặt ở góc phải (khoanh đỏ). Đây là nơi bạn có thể thay đổi các thuộc tính về icon, màu sắc hoặc bật / tắt một số ràng buộc của màn hình. Hãy thử thay đổi chúng để cá nhân hóa màn hình theo phong cách của bạn.
-
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-05.jpeg)
-
-:::caution
-
-**Hình nền** có độ ưu tiên cao hơn **Màu nền**, nên trong trường hợp cả 2 thuộc tính đều được thiết lập, **Hình nền** sẽ được ưu tiên hiển thị.
-
-:::
-
-![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-06.jpeg)

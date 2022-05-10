@@ -1,44 +1,55 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Các Widget điều hướng
-*Các Widget đảm nhiệm việc di chuyển qua lại giữa các màn hình*
-
----
-
-### Thanh đầu trang
-Thanh chứa logo, tiêu đề, và các nút với những hành động phổ biến như Menu, Trở về, Giỏ hàng,... Luôn nằm ở phía trên màn hình.
-
-![img alt](/img/widget/navigation/headerbar.jpeg)
+# Navigation Widgets
+*Widgets take care of moving back and forth between screens.*
 
 ---
 
-### Menu trượt
+### Header bar
+The bar contains the logo, title, and buttons with common actions like Menu, Back, Cart, etc. They are always located at the top of the screen.
 
-Một menu trượt chứa các mục ứng với các màn hình cụ thể. Xuất hiện khi người dùng nhấn vào nút Menu trên Thanh Đầu Trang hoặc vuốt từ trái sang phải.
+![img alt](/img/widget/navigation/headerbar-01.jpeg)
 
-![img alt](/img/widget/navigation/drawermenu.jpeg)
----
-
-### Menu nổi
-
-Menu nổi luôn xuất hiện bên trên cùng nội dung app, thường có dạng tròn với biểu tượng ở giữa, khi nhấn vào sẽ hiện ra các nút con để dẫn đến các màn hình khác.
-
-![img alt](/img/widget/navigation/floatmenu.jpeg)
+![img alt](/img/widget/navigation/headerbar-02.jpg)
 
 ---
 
-### Thanh điều hướng dưới
+### Drawer menu
 
-Một thanh chứa các tab (tối đa 6 tab), mỗi tab ứng với một màn hình cụ thể. Luôn nằm ở phía dưới màn hình.
+A sliding menu contains items for specific screens. It appears when the user taps the **Menu button** on the Top Bar or swipes from left to right.
 
-![img alt](/img/widget/navigation/bottombar.jpeg)
+![img alt](/img/widget/navigation/drawermenu-01.jpeg)
+
+![img alt](/img/widget/navigation/drawermenu-02.jpg)
 
 ---
 
-### Thanh tab
+### Float menu
 
-Một thanh chứa các tab, mỗi tab ứng với một màn hình cụ thể. Nó có thể xuất hiện ngay bên dưới Thanh Đầu Trang hoặc bên trong phần nội dung app.
+Floating menus always appear on top of the app content, usually in a circular shape with an icon in the middle. When clicked will show child buttons to lead to other screens.
 
-![img alt](/img/widget/navigation/tabbar.jpeg)
+![img alt](/img/widget/navigation/floatmenu-01.jpeg)
+
+![img alt](/img/widget/navigation/floatmenu-02.jpg)
+
+---
+
+### Bottom bar
+
+A bar containing tabs (up to 6 tabs), each tab corresponds to a specific screen. Always located at the bottom of the screen.
+
+![img alt](/img/widget/navigation/bottombar-01.jpeg)
+
+![img alt](/img/widget/navigation/bottombar-02.jpg)
+
+---
+
+### Tab bar
+
+Each tab corresponds to a specific screen with a bar containing tabs (up to 6 tabs). It is always located at the bottom of the screen.
+
+![img alt](/img/widget/navigation/tabbar-01.jpeg)
+
+![img alt](/img/widget/navigation/tabbar-02.jpg)

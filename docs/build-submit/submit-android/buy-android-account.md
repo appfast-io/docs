@@ -2,5 +2,5 @@
 sidebar_position: 1
 ---
 
-# Hướng dẫn mua tài khoản Nhà phát triển Android
+# Android Developer Account Buying Guide
 Comming soon...

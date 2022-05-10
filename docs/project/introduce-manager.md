@@ -2,23 +2,13 @@
 sidebar_position: 5
 ---
 
-# Giới thiệu chung phần Manager
+# General introduction about Manager #
 
-Đầu tiên, hãy truy cập vào trang tạo app. Nhấn **Tạo dự án mới** để khởi động qui trình tạo app nhanh.
+*This will be where the Admin interacts the most because this is the place that allows the Admin to manage the content and the features of the application.*
 
-![img alt](/img/create-app/wizard/200508-trinh-tao-app-nhanh-01.jpeg)
+---
+### Manager ###
 
-##### Màn hình chào mừng của Trình tạo app nhanh ####
+The **"Manager"** tab will be the place to display the list of Plugins you have installed -> you can perform installation operations and customize the Plugin's properties.
 
-Appfast có sẵn một thư viện mẫu thiết kế được trau chuốt kĩ lưỡng giúp bạn thuận tiện hơn trong quá trình tạo app. Chọn mẫu bạn muốn dùng cho app của mình, sau đó nhấn **"Next to quick edit project."**
-
-![img alt](/img/create-app/wizard/200508-trinh-tao-app-nhanh-02.jpeg)
-
-:::note
-
-Mẹo nhỏ: Bạn có thể xem trước App qua **Màn hình xem trước giao diện App** trên phải sau khi chọn 1 App Template.
-
-:::
-
-Xong, bước tiếp theo bạn hãy đặt tên App và màu sắc giao diện diện cũng như màu chủ đạo cho ứng dụng của bạn
-![img alt](/img/create-app/wizard/200508-trinh-tao-app-nhanh-05.jpeg)
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-13.jpg)

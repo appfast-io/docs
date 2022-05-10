@@ -2,32 +2,33 @@
 sidebar_position: 1
 ---
 
-# Giới thiệu chung về Widget
+# General introduction to Widget
 
 ---
 
-### Khái niệm & phân nhóm
+### Concepts & subgroups
 
-Một app có thể chứa một hoặc nhiều tính năng (Siêu app). Dù đơn giản hay phức tạp, việc tự phát triển hoàn thiện một tính năng có thể tiêu tốn rất nhiều thời gian và chi phí.
+An app can contain one or more features (Super App). Whether simple or complex, self-developing an element can be time-consuming and costly.
 
-Để giải quyết vấn đề này, Appfast đã xây dựng sẵn một số lượng lớn các tính năng và đóng gói chúng thành từng mô đun riêng biệt gọi là Widget, cho bạn khả năng dễ dàng thêm chúng vào app của mình. Bằng cách kết hợp các **Widget** lại với nhau, bạn có thể làm gần như mọi thứ bạn muốn.
+To solve this problem, Appfast has built-in a large number of features and packaged them into separate modules called Widgets, giving you the ability to add them to your app easily. By combining **Widgets**, you can do almost anything you want.
 
-**Các Widget** được phân thành **5 nhóm**:
+**Widgets** are classified into **five groups**:
 
-- **Navigation:** Đảm nhiệm việc di chuyển qua lại giữa các màn hình.
-- **Content:** Dùng để hiển thị nội dung như tin tức, hình ảnh, video, âm nhạc,...
-- **E-Commerce:** Hỗ trợ việc trao đổi, mua bán hàng hóa trực tuyến.
-- **UI Element** Đóng vai trò là thành phần phụ trợ trong giao diện người dùng.
-- **Social:** Sử dụng cho các tính năng của các mạng xã hội.
+- **Navigation:** Take care of moving back and forth between screens.
+- **Content:** Used to display content such as news, images, videos, music,...
+- **E-Commerce:** Support the exchange, purchase, and sale of goods online.
+- **UI Element:** Acts as a backend component in the user interface.
+- **Social:** Use for features of social networks.
 
 ---
 
-### Tương tác với Widget
+### Interacting with Widgets​
 
-Bạn có thể thêm một widget mới vào màn hình bằng cách nhấn vào nút **(+)** (Add widget) -> Chọn widget bạn muốn thêm vào ứng dụng.
+You can add a new widget to the home screen by pressing the **(+)** button (Add widget) -> Select the widget you want to add to the application.
+
 
 ![img alt](/img/widget/about/200525-so-luoc-ve-widget-01.jpeg)
 
-Các tùy chọn cho phép thay đổi giao diện, màu sắc, câu chữ, hoặc bật/tắt các thành phần trong widget được đặt trong cột **Setting** (bên phải). Việc sao chép và dán thuộc tính của widget này lên widget khác, tạo bản sao, đổi tên hoặc xóa widget cũng ở trong phần  này. Bạn cũng có thể kéo thả các Widget để thay đổi vị trí của chúng.
+Options to change the interface, color, text, or enable/disable widget elements are located in the **Setting** column (right). Copying and pasting properties of one widget onto another, duplicating, renaming, or deleting widgets are also in this section. You can also drag and drop Widgets to change their position.
 
 ![img alt](/img/widget/about/200525-so-luoc-ve-widget-02.jpeg)

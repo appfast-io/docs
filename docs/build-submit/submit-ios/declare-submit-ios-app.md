@@ -2,5 +2,6 @@
 sidebar_position: 1
 ---
 
-# Khai báo và đưa ứng dụng lên App Store
+# Declare and submit the app to the App Store
+
 Comming soon...

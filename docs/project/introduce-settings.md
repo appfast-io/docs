@@ -2,28 +2,25 @@
 sidebar_position: 6
 ---
 
-# Giới thiệu chung phần Settings
+# General introduction about Settings
 
-Trong thanh điều hướng phía bên trái màn hình, hãy tìm và nhấn vào phần **Thông tin xuất bản**. Bạn sẽ được dẫn đến một trang mới cho phép thay đổi các thông tin về project.
+---
+### Settings ###
 
-![img alt](/img/create-app/configs/200514-thay-doi-cai-dat-project-01.jpeg)
+The **“Settings”** tab will be the place to declare the information used to publish the application.
+- *App’s information*: Declare general information for the application.
+- *iOS Application*: Declare - publish the app for iOS.
+- *Android Application*: Declare - publish apps for Android.
+- *PWA Domain*: Declare - publish the PWA for the application.
+- *User roles*: Manage - assign permissions for users in the application.
 
-Bạn được khuyến nghị thay đổi 2 thông tin sau:
-- **Icon app (1):** Icon quy định là ảnh **PNG không trong suốt (1024px -1024px).**
-- **App's Name (2):** Tên hiển thị dưới Icon App trên hệ điều hành.
-- **App's Version (3):** Thay đổi thông số **(tăng version) sau mỗi lần build.**
-- **Support email (4):** Địa chỉ Email hỗ trợ.
-- **Default Language (5):** Chọn ngôn ngữ mặc định cho ứng dụng.
-- **Link to Appstore / Google Playstore (6):** Đường dẫn tới **Appstore / CH Play.**
 
-![img alt](/img/create-app/configs/200514-thay-doi-cai-dat-project-02.jpeg)
 
-Sau khi đã thay đổi các thông tin trên, nhấn **Lưu** để hoàn tất quá trình cập nhật thông tin cho ứng dụng.
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-14.jpg)
 
-![img alt](/img/create-app/configs/200514-thay-doi-cai-dat-project-03.jpeg)
+---
 
-:::tip
+The **“Settings”** tab is also the place to manage users in the application.
+- *User roles*: Manage - assign permissions for users in the application.
 
-Nhấn vào logo Appfast (khoanh đỏ ở hình trên) hoặc nhấn vào đây để xem lại các project của bạn. Bạn cũng có thể tạo mới, đổi tên, xóa hoặc xem trước project tại trang này.
-
-:::
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-15.jpg)

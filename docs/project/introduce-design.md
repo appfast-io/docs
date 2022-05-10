@@ -2,23 +2,68 @@
 sidebar_position: 3
 ---
 
-# Giới thiệu chung phần Thiết kế
+# General introduction about Design
 
-Đầu tiên, hãy truy cập vào trang tạo app. Nhấn **Tạo dự án mới** để khởi động qui trình tạo app nhanh.
+### Interact with the screen
 
-![img alt](/img/create-app/wizard/200508-trinh-tao-app-nhanh-01.jpeg)
+Screens can be considered the "backbone" of an app because they act as containers, helping to hold and structure the smaller components inside. With Appfast, you need to take care of the following two types of screens: **Screens created by you** and **built-in system monitors**.
 
-##### Màn hình chào mừng của Trình tạo app nhanh ####
+### Here's what you can do with the display:
 
-Appfast có sẵn một thư viện mẫu thiết kế được trau chuốt kĩ lưỡng giúp bạn thuận tiện hơn trong quá trình tạo app. Chọn mẫu bạn muốn dùng cho app của mình, sau đó nhấn **"Next to quick edit project."**
+- Add a new screen.
 
-![img alt](/img/create-app/wizard/200508-trinh-tao-app-nhanh-02.jpeg)
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-02.jpeg)
 
-:::note
+- Drag and drop to change the screen position.
 
-Mẹo nhỏ: Bạn có thể xem trước App qua **Màn hình xem trước giao diện App** trên phải sau khi chọn 1 App Template.
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-03.jpeg)
+
+:::tip
+
+The project's main screen will be labeled **"Home screen"** in the **Action** tab on the right, and Appfast defaults to the first screen appearing in the list will be the main screen.
 
 :::
 
-Xong, bước tiếp theo bạn hãy đặt tên App và màu sắc giao diện diện cũng như màu chủ đạo cho ứng dụng của bạn
-![img alt](/img/create-app/wizard/200508-trinh-tao-app-nhanh-05.jpeg)
+- Copy and paste properties of one screen onto another, duplicate, rename, or delete screens
+
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-04.jpeg)
+
+:::caution
+
+You cannot perform add, delete, copy, paste, duplicate, or rename operations for system monitors. You also cannot change their position.
+
+:::
+
+---
+
+### Screen Settings​
+
+The settings of the monitor (and nearly all other components) are usually placed in the right corner (circled in red). This is where you can change icon properties and color or enable/disable some screen constraints. Try changing them to personalize the screen to your style.
+
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-05.jpeg)
+
+:::caution
+
+The **Background**image has a higher priority than the **Background** color, so if both properties are set, the **Background** image will have a preference to display.
+
+:::
+
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-06.jpeg)
+
+Tab “System” to manage system monitors
+
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-07.jpg)
+
+### Interacting with widgets​
+
+There are two ways to add the widget in the place where it needs to be added:
+- On each screen, select **“+”** under existing widgets.
+- At the application interface screen, select **“+”** under existing widgets.
+
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-08.jpg)
+
+There are two ways to edit widgets:
+- The widget customization screen will be on the right in each widget selection screen to edit.
+- In the application interface screen, select the widget to be edited. The widget customization screen will be on the right.
+
+![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-09.jpg)

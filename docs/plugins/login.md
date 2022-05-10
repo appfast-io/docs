@@ -2,6 +2,6 @@
 sidebar_position: 5
 ---
 
-# Các Plugin đăng nhập
+# Login Plugins
 
 Comming soon...
