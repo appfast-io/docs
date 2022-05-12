@@ -1,3 +1,4 @@
+
 ---
 sidebar_position: 0
 ---
@@ -8,7 +9,7 @@ Welcome to **Appfast Studio** - The Fastest and Simplest way to create, design, 
 
 ---
 
-With **Appfast Studio** for iOS, you are able to design a great-looking app by yourself, upload images dire ctly from your photo library and select from a wide range of text, media or design elements. Moreover, by using Plugins and Widgets, you can add more functionality to your project
+With **Appfast Studio** for iOS, you are able to design a great-looking app by yourself, upload images directly from your photo library and select from a wide range of text, media or design elements. Moreover, by using Plugins and Widgets, you can add more functionality to your project
 
 <iframe width="100%" height="515" src="https://www.youtube.com/embed/rX7rRlyqkC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

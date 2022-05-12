@@ -38,7 +38,18 @@ const config = {
       }),
     ],
   ],
-
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'vi'],
+    localeConfigs: { 
+      en: {
+        label: 'English',
+      },
+      vi: {
+        label: 'Tiếng Việt',
+      },
+    },
+  },
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -56,6 +67,9 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type:"localeDropdown",
+            position:"left"},
           
           {
             href: 'https://github.com/appfast-io/docs',
