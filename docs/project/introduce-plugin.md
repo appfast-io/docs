@@ -14,7 +14,7 @@ Appfast has a library of carefully crafted design templates to help you more con
 
 ![img alt](/img/create-app/wizard/200508-trinh-tao-app-nhanh-02.jpeg)
 
-:::note
+:::tip
 
 Tip: You can preview the App via the **App Interface Preview Screen** on the right after selecting an App Template.
 
