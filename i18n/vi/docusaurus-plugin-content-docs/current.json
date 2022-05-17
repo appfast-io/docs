@@ -4,35 +4,35 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Get started": {
-    "message": "Get Started",
+    "message": "Bắt đầu",
     "description": "The label for category Get started in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Start a new project": {
-    "message": "Start a new project",
-    "description": "The label for category Start a new project in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.How to use Widget": {
-    "message": "How to use Widget",
+    "message": "Sử dụng Widget",
     "description": "The label for category How to use Widget in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.How to use Plugins": {
-    "message": "How to use Plugins",
-    "description": "The label for category How to use Plugins in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.How to use Settings": {
-    "message": "How to use Settings",
+    "message": "Sử dụng Setting",
     "description": "The label for category How to use Settings in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Upload apps to Play Store and App Store": {
-    "message": "Upload apps to Play Store and App Store",
+    "message": "Đưa ứng dụng Android lên Play Store Store",
     "description": "The label for category Upload apps to Play Store and App Store in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Upload Android apps to the Play Store": {
-    "message": "Upload Android apps to the Play Store",
+    "message": "Đưa ứng dụng Android lên Play Store",
     "description": "The label for category Upload Android apps to the Play Store in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Upload iOS apps to the App Store": {
-    "message": "Upload iOS apps to the App Store",
+    "message": "Đưa ứng dụng iOS lên App Store",
     "description": "The label for category Upload iOS apps to the App Store in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Creat a Project": {
+    "message": "Khởi tạo dự án mới",
+    "description": "The label for category Creat a Project in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.How to use Plugin": {
+    "message": "Sử dụng Plugin",
+    "description": "The label for category How to use PLugin in sidebar tutorialSidebar"
   }
 }
