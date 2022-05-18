@@ -5,11 +5,9 @@ sidebar_position: 4
 # Ecommerce Plugins
 
 ---
-Steps to config Plugin E_Commerce:
-1. Tab **“Manager”**
-2. Select plugin **E_Commerce**
-3. Select **Products**
-4. Select **“Add New”** to create new products
+### Create a basic product ###
+
+Tab **“Manager"** -> 2/ Chọn plugin **E_Commerce** -> Products -> Chọn **“Add New"** để tạo sản phẩm mới
 
 ![img alt](/img/data/news/ecommerce-plugin-01.jpg)
 
@@ -28,6 +26,9 @@ Select attributes for the product
 Enter a description for the product
 
 ![img alt](/img/data/news/ecommerce-plugin-05.jpg)
+
+---
+### Create products with multiple variations ###
 
 If you choose a product with many variations, set more attributes for the product in the **Attribute** tab
 
@@ -53,10 +54,14 @@ In the list of attributes, select each product to edit information for each prod
 ![img alt](/img/data/news/ecommerce-plugin-10.jpg)
 
 ---
+### Quick customization for each product ###
 
 In the list of products that can be quickly customized for each product in the right corner of each product
 
 ![img alt](/img/data/news/ecommerce-plugin-11.jpg)
+
+---
+### Order Management ###
 
 The **“Orders”** tab is a place to manage customer orders, where you can:
 - Order confirmation
@@ -71,6 +76,9 @@ To update single status:
 Select the order -> section **“Order status”** select the status you want to update
 
 ![img alt](/img/data/news/ecommerce-plugin-13.jpg)
+
+---
+### Create coupon code ###
 
 Tab **“Coupons”** is the place to manage store promotions: Select **“Add New”** to create a new promotion code.
 

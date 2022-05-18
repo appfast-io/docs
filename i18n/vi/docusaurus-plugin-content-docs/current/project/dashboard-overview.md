@@ -8,9 +8,9 @@ sidebar_position: 2
 
 ---
 
-### Cấu hình phiên bản điện thoại
+### Tổng quan bảng điều khiển
 
-Phần cấu hình dành cho điện thoại gồm các phần chính sau (được đánh số tương ứng ở hình dưới)
+Bảng điều khiển gồm các phần chính sau (được đánh số tương ứng ở hình dưới)
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-01.jpeg)
 

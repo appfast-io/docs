@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ### Posts and Articles
 
-List of articles and article sources taken from Content Management Warehouse.
+List of articles and article sources taken from [** Content Management **](https://docs.appfast.io/docs/plugins/news)
 
 ![img alt](/img/widget/content/post-01.jpeg)
 

@@ -8,9 +8,9 @@ sidebar_position: 2
 
 ---
 
-### Configure phone version
+### Overview the Dashboard
 
-The configuration section for the phone includes the following main parts (correspondingly numbered in the picture below)
+Dashboard includes the following main parts (correspondingly numbered in the picture below)
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-01.jpeg)
 
