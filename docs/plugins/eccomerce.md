@@ -7,7 +7,7 @@ sidebar_position: 4
 ---
 ### Create a basic product ###
 
-Tab **“Manager"** -> 2/ Chọn plugin **E_Commerce** -> Products -> Chọn **“Add New"** để tạo sản phẩm mới
+Tab **“Manager"** -> 2/ Select plugin **E_Commerce** -> Products -> Select **“Add New"** to create new product.
 
 ![img alt](/img/data/news/ecommerce-plugin-01.jpg)
 
