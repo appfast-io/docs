@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Tạo ứng dụng
-
+---
 Đầu tiên, hãy truy cập vào **[trang tạo app](https://studio.appfast.io/Home-Appfast/ListProject)**. Nhấn **"Bắt đầu"** để khởi động qui trình tạo app nhanh.
 
 ![img alt](/img/create-app/wizard/200508-trinh-tao-app-nhanh-01.jpeg)

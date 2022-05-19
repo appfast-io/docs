@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Create apps
-
+---
 First, visit the app **[creation page](https://studio.appfast.io/Home-Appfast/ListProject)**. Click **"Start"** to start the quick app creation process.
 
 
