@@ -4,5 +4,7 @@ sidebar_position: 9
 
 # Các Plugin mà Appfast Studio đang phát triển
 
-Comming soon...
+---
+Hiện tại, các plugin Beta đang được Appfast phát triển để thêm vào danh sách.
 
+![img alt](/img/data/news/news11.png)

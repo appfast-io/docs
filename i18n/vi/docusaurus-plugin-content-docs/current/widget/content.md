@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ### Bài viết
 
-Danh sách các bài viết, nguồn bài viết lấy từ Kho Quản Lý Nội Dung.
+Danh sách các bài viết, nguồn bài viết lấy từ [** Quản Lý Nội Dung **](https://docs.appfast.io/docs/plugins/news)
 
 ![img alt](/img/widget/content/post-01.jpeg)
 

@@ -7,7 +7,7 @@ sidebar_position: 6
 ---
 ### Settings ###
 
-Tab **“Setting"** sẽ là nơi khai báo các thông tin dùng để xuất bản ứng dụng.
+Tab **“Setting"** sẽ là nơi khai báo các thông tin dùng để xây dựng ứng dụng.
 - *App’s information:* Khai báo thông tin chung cho ứng dụng.
 - *iOS Application:* Khai báo - xuất bản ứng dụng cho iOS.
 - *Android Application:* Khai báo - xuất bản ứng dụng cho Android.

@@ -8,7 +8,7 @@ Dữ liệu dạng tin tức: là các dữ liệu dưới dạng bài viết (g
 
 ---
 
-### Thêm tự động
+### Thêm nội dung tự động
 Sau khi cài đặt Plugin **"News Website Sync"**, ở Tab **Manager** chọn plugin **News Website Sync** -> **Add first news/blog website** để hệ thống tự động lấy dữ liệu từ website.
 
 ![img alt](/img/data/news/news1.jpg)
@@ -20,7 +20,7 @@ Thêm link từ nguồn dữ liệu bạn muốn lấy về
 
 ---
 
-### Thêm thủ công
+### Thêm nội dung thủ công
 
 Sau khi cài đặt Plugin **"Manual Contents"**, ở Tab **Manager** chọn plugin **Manual Contents** -> Chọn loại dữ liệu bạn muốn thêm vào.
 

@@ -14,7 +14,7 @@ Chỉ có 1 phương thức để xuất bản một ứng dụng iOS là xuất
 
 ---
 
-### Xuất bản thủ công
+### Xây dựng ứng dụng thủ công
 
 :::note
 
@@ -27,14 +27,14 @@ Việc xuất bản thủ công yêu cầu bạn có một số hiểu biết nh
  
 ![img alt](/img/publish-app/iOS/ios2.jpg)
 
-Cung cấp các thông tin đươc yêu cầu để tiếp tục xuất bản App.
+Cung cấp các thông tin được yêu cầu để tiếp tục xây dựng App.
 
 ![img alt](/img/publish-app/iOS/ios3.jpg)
 
-Sau đó, nhấn **Send request** để Xuất bản App.
+Sau đó, nhấn **Send request** để hệ thống tiến hành Xây dựng App.
 
 ---
 
-Sau khi xuất bản thành công ứng dụng, **File Build** sẽ được thêm bào danh sách bên phải **Màn hình xuất bản**. Giờ bạn có thể tải **File Build** về và tiến hành đưa ứng dụng lên các hệ điều hành.
+Sau khi xuất bản thành công ứng dụng, **File Build** sẽ được thêm bào danh sách bên phải **Build's Screen**. Giờ bạn có thể tải **File Build** về và tiến hành đưa ứng dụng lên **Google Play Store**.
 
 ![img alt](/img/publish-app/iOS/ios4.jpg)
