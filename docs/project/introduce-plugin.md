@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # General introduction about Plugins
-
+---
 First, visit the app creation page. Click **Create New Project** to start the quick app creation process.
 
 ![img alt](/img/create-app/wizard/200508-trinh-tao-app-nhanh-01.jpeg)

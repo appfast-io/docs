@@ -4,7 +4,6 @@ sidebar_position: 2
 
 # Declare and put the app on the Play Store
 
----
 Sign in with the Gmail account you want to use as a DEV account to manage apps on the CH Store, and there are two types of accounts:
 - *Personal*
 - *Enterprise*
