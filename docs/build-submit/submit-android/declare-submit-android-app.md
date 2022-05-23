@@ -26,13 +26,13 @@ Declare payment information to pay the developer registration fee ($25)
 ---
 ### Submit the app to the Play Store ###
 
-You need to access the link: https://play.google.com/console/u/0/developers.
+You need to access the link: **https://play.google.com/console/u/0/developers**.
 
 Access the DEV Google Console account you created
 
 ![img alt](/img/publish-app/Android/declare-android-04.jpg)
 
-You need to access the link: https://play.google.com/console/u/0/developers.
+You need to access the link: **https://play.google.com/console/u/0/developers**.
 
 Select **“Create app”** to create a new app in your account
 

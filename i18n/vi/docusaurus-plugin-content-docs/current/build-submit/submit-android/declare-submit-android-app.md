@@ -26,13 +26,13 @@ Khai báo thông tin thanh toán để trả phí đăng kí dành cho nhà phá
 ---
 ### Đưa ứng dụng lên Play Store ###
 
-Bạn cần truy cập đường dẫn: https://play.google.com/console/u/0/developers.
+Bạn cần truy cập đường dẫn: **https://play.google.com/console/u/0/developers**.
 
 Truy cập tài khoản DEV Google Console bạn đã tạo
 
 ![img alt](/img/publish-app/Android/declare-android-04.jpg)
 
-Bạn cần truy cập đường dẫn: https://play.google.com/console/u/0/developers.
+Bạn cần truy cập đường dẫn: **https://play.google.com/console/u/0/developers**.
 
 Chọn **“Create app”** để tạo ứng dụng mới trong tài khoản
 
