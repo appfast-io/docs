@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Apple Developer Account Buying Guide #
 ---
-### Steps to register for a Apple Dev account ###
+### Steps to sign up for an Apple Developer account ###
 
 Your screen will appear as soon as you have your Apple ID, as shown below.
 
