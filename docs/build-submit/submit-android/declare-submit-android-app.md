@@ -9,21 +9,6 @@ Sign in with the Gmail account you want to use as a DEV account to manage apps o
 - *Enterprise*
 
 ---
-### Steps to register for a Google Console Dev account ### 
-
-Sign in with the Gmail account you want to use as a DEV account to manage apps on CH Store.
-
-![img alt](/img/publish-app/Android/declare-android-01.jpg)
-
-Declare the required information for account verification
-
-![img alt](/img/publish-app/Android/declare-android-02.jpg)
-
-Declare payment information to pay the developer registration fee ($25)
-
-![img alt](/img/publish-app/Android/declare-android-03.jpg)
-
----
 ### Submit the app to the Play Store ###
 
 You need to access the link: **https://play.google.com/console/u/0/developers**.

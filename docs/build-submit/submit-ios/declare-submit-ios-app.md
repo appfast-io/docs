@@ -42,7 +42,7 @@ Once you have completed the registration steps, you will receive a confirmation 
 ![img alt](/img/publish-app/iOS/declare-apple-05.jpg)
 
 ---
-### Tạo Certificates và P12 ###
+### Create Certificates and P12 ###
 
 Access path: **https://developer.apple.com/account/resources/certificates/list**
 
@@ -56,7 +56,7 @@ Select **“Choose File”** to create a new certificate -> **“Continue”**
 
 ![img alt](/img/publish-app/iOS/declare-apple-08.jpg)
 
-### Tạo và export Certificate ###
+### Create and export Certificate ###
 
 Access Keychain Access on MacBook to create Request a Certificate from a Certificate Authority for your account. Keychain Access > Certificate Assistant > Request a Certificate from a Certificate Authority > Fill in the information > Then save it on your hard drive.
 
