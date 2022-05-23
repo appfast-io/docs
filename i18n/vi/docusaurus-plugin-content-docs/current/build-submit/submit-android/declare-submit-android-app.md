@@ -4,36 +4,20 @@ sidebar_position: 2
 
 # Khai báo và đưa ứng dụng lên Play Store
 
----
 Đăng nhập bằng tài khoản Gmail bạn muốn dùng làm tài khoản DEV để quản lý ứng dụng trên CH Store, có 2 loại tài khoản:
 - *Cá nhân*
 - *Doanh nghiệp*
 
 ---
-### Các bước đăng ký tài khoản Dev Google Console ### 
-
-Đăng nhập bằng tài khoản Gmail bạn muốn dùng làm tài khoản DEV để quản lý ứng dụng trên CH Store.
-
-![img alt](/img/publish-app/Android/declare-android-01.jpg)
-
-Khai báo các thông tin được yêu cầu để xác minh tài khoản.
-
-![img alt](/img/publish-app/Android/declare-android-02.jpg)
-
-Khai báo thông tin thanh toán để trả phí đăng kí dành cho nhà phát triển ($25)
-
-![img alt](/img/publish-app/Android/declare-android-03.jpg)
-
----
 ### Đưa ứng dụng lên Play Store ###
 
-Bạn cần truy cập đường dẫn: https://play.google.com/console/u/0/developers.
+Bạn cần truy cập đường dẫn: **https://play.google.com/console/u/0/developers**.
 
 Truy cập tài khoản DEV Google Console bạn đã tạo
 
 ![img alt](/img/publish-app/Android/declare-android-04.jpg)
 
-Bạn cần truy cập đường dẫn: https://play.google.com/console/u/0/developers.
+Bạn cần truy cập đường dẫn: **https://play.google.com/console/u/0/developers**.
 
 Chọn **“Create app”** để tạo ứng dụng mới trong tài khoản
 
@@ -76,7 +60,7 @@ Nếu ứng dụng bắt buộc quyền truy cập bạn cần cung công thông
 ![img alt](/img/publish-app/Android/declare-android-11.jpg)
 
 ---
-### Content ratings ###
+### Xếp hạng nội dung ###
 
 Hoàn thành các câu hỏi xếp hạng nội dung -> Start questionnaire
 
@@ -106,7 +90,7 @@ Chọn ứng dụng của bạn có chứa quảng cáo hay không -> **“Save�
 ![img alt](/img/publish-app/Android/declare-android-17.jpg)
 
 ---
-### Target audience and content ###
+### Đối tượng và nội dung mục tiêu ###
 
 Chọn độ tuổi cho nhóm đối tượng người dùng của ứng dụng
 
@@ -124,14 +108,14 @@ Khai báo mục tin tức cho ứng dụng -> **“Save”**
 ![img alt](/img/publish-app/Android/declare-android-20.jpg)
 
 ---
-### COVID-19 contact tracing and status apps ###
+### Ứng dụng theo dõi và trạng thái liên hệ COVID-19 ###
 
 Khai báo tính năng theo dõi - trang thái liên hệ COVID-19 -> **“Save”**
 
 ![img alt](/img/publish-app/Android/declare-android-21.jpg)
 
 ---
-### Data safety ###
+### An toàn dữ liệu ###
 
 Khai báo an toàn giữ liệu cho ứng dụng
 
@@ -173,7 +157,7 @@ Chọn khu vực Release ứng dụng -> Add countries / regions
 ![img alt](/img/publish-app/Android/declare-android-30.jpg)
 
 ---
-### Store settings ###
+### Cài đặt cửa hàng ###
 
 Khai báo thông tin phân loại ứng dụng
 1. Phân loại Ứng dụng hoặc Game
@@ -194,7 +178,7 @@ Sau khi khai báo chọn **“Save”**
 ![img alt](/img/publish-app/Android/declare-android-33.jpg)
 
 ---
-### Main store listing ###
+### Danh sách cửa hàng chính ###
 
 Khai báo thông tin hiển thị ứng dụng trên Play Store
 1. Tên ứng dụng
