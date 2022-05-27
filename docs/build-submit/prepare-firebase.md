@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Chuẩn bị Fire Base
+# Prepare Fire Base
 
 *First, we need to learn about what is Firebase Cloud Messaging? It is a free service from Google that provides a solution for sending cross-platform notification messages to users' applications.*
 
@@ -13,7 +13,7 @@ It would help if you created Firebase so that the app can send and receive notif
 :::
 
 ---
-### Các bước chuẩn bị Fire Base
+### Steps to prepare Fire Base
 
 Go to the link to create Firebase for your app:
 **https://firebase.google.com**
