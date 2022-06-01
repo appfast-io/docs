@@ -8,12 +8,12 @@ Chào mừng bạn đến với **Appfast Studio** - Cách nhanh nhất và đơ
 
 ---
 
-Với **Appfast Studio** dành cho nền tảng di động, bạn có thể tự mình thiết kế một ứng dụng đẹp mắt, tải lên hình ảnh trực tiếp từ thư viện ảnh của bạn và chọn từ một loạt các yếu tố văn bản, phương tiện hoặc thiết kế. Hơn nữa, bằng cách sử dụng Plugin và Widget, bạn có thể thêm nhiều chức năng hơn vào ứng dụng của mình.
+Với **Appfast Studio** bạn có thể tự mình thiết kế một ứng dụng đẹp mắt, tải lên hình ảnh trực tiếp từ thư viện ảnh của bạn và chọn từ một loạt các yếu tố văn bản, phương tiện hoặc thiết kế. Hơn nữa, bằng cách sử dụng Plugin và Widget, bạn có thể thêm nhiều chức năng hơn vào ứng dụng của mình.
 
 <iframe width="100%" height="515" src="https://www.youtube.com/embed/rX7rRlyqkC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-### Tạo ứng dụng trên chiếc điện thoại thông minh của bạn chỉ trong bốn bước: ###
+### Tạo ứng dụng của bạn chỉ trong bốn bước: ###
 
 #### #1 Chọn mẫu ứng dụng bạn thích ####
 Chọn từ các mẫu tuyệt đẹp được thiết kế đặc biệt để có thiết kế đáp ứng cho thiết bị di động và máy tính bảng đẹp mắt, chuyên nghiệp.
