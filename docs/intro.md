@@ -13,7 +13,7 @@ With **Appfast Studio**, you are able to design a great-looking app by yourself,
 <iframe width="100%" height="515" src="https://www.youtube.com/embed/rX7rRlyqkC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-### Create an app on your smartphone only in four steps ###
+### Create an app only in four steps ###
 
 #### #1 Choose a template ####
 Choose from stunning templates specifically designed to have a good-looking, professional with mobile and tablet responsive design.
