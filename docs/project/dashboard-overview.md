@@ -17,7 +17,7 @@ Dashboard includes the following main parts (correspondingly numbered in the pic
 - **Number 1 (red):** This is where the icon and application name are displayed.
 - **Number 2 (green):** Screen area, managing the screens available in the application.
 - **Number 3 (blue):** Toolbar, giving you quick access to essential features.
-- **Number 4 (purple):** Widget area, where you can find and add Widgets to the screen.
+- **Number 4 (purple):** block area, where you can find and add blocks to the screen.
 - **Number 5 (orange):** Emulator interface on the phone, helping you preview and interact with the application.
 
 ---

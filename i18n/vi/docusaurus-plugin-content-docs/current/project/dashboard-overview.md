@@ -17,7 +17,7 @@ Bảng điều khiển gồm các phần chính sau (được đánh số tươn
 - **Số 1 (màu đỏ):** Đây là nơi hiển thị icon và tên ứng dụng.
 - **Số 2 (màu xanh lá):** Khu vực màn hình, quản lý các màn hình hiện có trong ứng dụng.
 - **Số 3 (màu xanh biển):** Thanh công cụ, giúp bạn truy cập nhanh các tính năng thiết yếu.
-- **Số 4 (màu tím):** Khu vực Widget, nơi bạn có thể tìm và thêm Widget vào màn hình.
+- **Số 4 (màu tím):** Khu vực block, nơi bạn có thể tìm và thêm block vào màn hình.
 - **Số 5 (màu cam):** Giao diện giả lập trên điện thoại, giúp bạn xem trước và tương tác với ứng dụng.
 
 ---

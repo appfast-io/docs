@@ -2,15 +2,15 @@
 sidebar_position: 5
 ---
 
-# Các Widget khác
-*Các Widget mang nhiều chức năng hữu ích khác.
+# Các block khác
+*Các block mang nhiều chức năng hữu ích khác.
 
 ---
 
 ### Quảng cáo
 Cho phép bạn kiếm tiền từ quảng cáo bên trong app.
 
-![img alt](/img/widget/orthers/map.jpeg)
+![img alt](/img/block/orthers/map.jpeg)
 
 ---
 
@@ -18,4 +18,4 @@ Cho phép bạn kiếm tiền từ quảng cáo bên trong app.
 
 Hiển thị bản đồ kèm địa chỉ, cho phép người dùng xem vị trí và chỉ đường đến các vị trí này.
 
-![img alt](/img/widget/orthers/map.jpg)
+![img alt](/img/block/orthers/map.jpg)
