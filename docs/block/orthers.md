@@ -7,14 +7,14 @@ sidebar_position: 5
 
 ---
 
-### Block Advertisement​
+### Advertisement​
 Allows you to monetize ads within the app.
 
 ![img alt](/img/block/orthers/map.jpeg)
 
 ---
 
-### Block Map - Location​
+### Map - Location​
 
 Displays a map with the address, allowing the user to see the location and directions to these locations.
 

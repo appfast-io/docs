@@ -17,7 +17,7 @@ List of block items, each for a specific screen.
 
 ---
 
-### Block Title Bar
+### Title Bar
 
 Displays the main title bar and the subheading. It helps to divide the content sections in the application
 
@@ -27,7 +27,7 @@ Displays the main title bar and the subheading. It helps to divide the content s
 
 ---
 
-### Block Slider Images
+### Slider Images
 
 View photos by swiping right or left, which can be used to link screens.
 
@@ -37,7 +37,7 @@ View photos by swiping right or left, which can be used to link screens.
 
 ---
 
-### Block Banner Popup
+### Banner Popup
 
 Show up with the link every time you open the application or go to any page.
 
@@ -47,7 +47,7 @@ Show up with the link every time you open the application or go to any page.
 
 ---
 
-### Block Web View
+### Web View
 
 Enter the website link to display the website as mobile.
 
@@ -57,7 +57,7 @@ Enter the website link to display the website as mobile.
 
 ---
 
-### Block Text Box
+### Text Box
 
 Display information as text.
 
@@ -65,7 +65,7 @@ Display information as text.
 
 ---
 
-### Block Custom HTML/CSS/JS
+### Custom HTML/CSS/JS
 
 Edit the interface with HTML/CSS.JS
 

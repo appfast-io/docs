@@ -22,7 +22,7 @@ To solve this problem, Appfast has built-in a large number of features and packa
 
 ---
 
-### Interacting with blocks​
+### Interacting with Blocks​
 
 You can add a new block to the home screen by pressing the **(+)** button (Add block) -> Select the block you want to add to the application.
 

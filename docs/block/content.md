@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ---
 
-### Block Posts and Articles
+### Posts and Articles
 
 List of articles and article sources taken from [** Content Management **](https://docs.appfast.io/docs/plugins/news)
 
@@ -18,7 +18,7 @@ List of articles and article sources taken from [** Content Management **](https
 
 ---
 
-### Block Photo Gallery
+### Photo Gallery
 
 Photo collection and image sources are taken from Content Management Warehouse.
 
@@ -28,7 +28,7 @@ Photo collection and image sources are taken from Content Management Warehouse.
 
 ---
 
-### Block Upcomming Events
+### Upcomming Events
 
 Displays information about upcoming events can count down the time until the event occurs.
 
@@ -38,7 +38,7 @@ Displays information about upcoming events can count down the time until the eve
 
 ---
 
-### Block Pin Posts
+### Pin Posts
 
 Allows pinning a specific article to the application screen.
 
@@ -46,7 +46,7 @@ Allows pinning a specific article to the application screen.
 
 ---
 
-### Block Audio Player
+### Audio Player
 
 Allows playing files (.mp3) in the list
 
@@ -54,7 +54,7 @@ Allows playing files (.mp3) in the list
 
 ![img alt](/img/block/content/audioplayer-02.jpg)
 
-### Block Calendar
+### Calendar
 
 Schedule management - appointment calendar
 

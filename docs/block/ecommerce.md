@@ -7,7 +7,7 @@ sidebar_position: 4
 
 ---
 
-### Block Product List​ing
+### Product List​ing
 
 The product list with the product source is taken from the Store Manager's inventory.
 
@@ -17,7 +17,7 @@ The product list with the product source is taken from the Store Manager's inven
 
 ---
 
-### Block Shop Information
+### Shop Information
 
 Display store information as well as contact information.
 

@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ---
 
-### Block Header bar
+### Header bar
 The bar contains the logo, title, and buttons with common actions like Menu, Back, Cart, etc. They are always located at the top of the screen.
 
 ![img alt](/img/block/navigation/headerbar-01.jpeg)
@@ -16,7 +16,7 @@ The bar contains the logo, title, and buttons with common actions like Menu, Bac
 
 ---
 
-### Block Drawer menu
+### Drawer menu
 
 A sliding menu contains items for specific screens. It appears when the user taps the **Menu button** on the Top Bar or swipes from left to right.
 
@@ -26,7 +26,7 @@ A sliding menu contains items for specific screens. It appears when the user tap
 
 ---
 
-### Block Float menu
+### Float menu
 
 Floating menus always appear on top of the app content, usually in a circular shape with an icon in the middle. When clicked will show child buttons to lead to other screens.
 
@@ -36,7 +36,7 @@ Floating menus always appear on top of the app content, usually in a circular sh
 
 ---
 
-### Block Bottom bar
+### Bottom bar
 
 A bar containing tabs (up to 6 tabs), each tab corresponds to a specific screen. Always located at the bottom of the screen.
 
