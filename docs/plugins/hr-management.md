@@ -22,19 +22,19 @@ Tab **“Manager”** -> HR Management -> Departments -> Add New to add new / Se
 
 ![img alt](/img/data/news/hr-management-plugin-03.jpg)
 
-### Quản lý phân quyền
+### Decentralized management
 Tab **“Manager”** -> HR Management -> Roles -> Add New to add new / Select group to edit or delete permissions
 
 ![img alt](/img/data/news/hr-management-plugin-04.jpg)
 
-### Báo cáo thống kê nhân sự
+### Personnel statistics report
 Tab **“Manager”** -> HR Management -> Reporting (Used to view general statistics of personnel).
 
 ![img alt](/img/data/news/hr-management-plugin-05.jpg)
 
 --- 
 
-### Tạo chính sách ngày nghỉ cho nhân sự
+### Create a holiday policy for employees
 Tab **“Manager”** -> HR Management -> Policies -> Add New to add new / Select to edit or delete policies for the company
 
 ![img alt](/img/data/news/hr-management-plugin-06.jpg)

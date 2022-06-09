@@ -7,9 +7,9 @@
     "message": "Bắt đầu",
     "description": "The label for category Get started in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.How to use Widget": {
-    "message": "Sử dụng Widget",
-    "description": "The label for category How to use Widget in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.How to use block": {
+    "message": "Sử dụng block",
+    "description": "The label for category How to use block in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.How to use Settings": {
     "message": "Sử dụng Setting",

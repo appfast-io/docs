@@ -7,7 +7,7 @@ const FeatureList = [
     Svg: '/img/phone1.svg',
     description: (
       <>
-        Edit your design by tap, hold, drag & drop building blocks called Widget
+        Edit your design by tap, hold, drag & drop building blocks called block
       </>
     ),
   },
@@ -15,7 +15,7 @@ const FeatureList = [
     Svg: '/img/phone2.svg',
     description: (
       <>
-        Tap on widget then color and layout options will appear to edit by your style
+        Tap on block then color and layout options will appear to edit by your style
       </>
     ),
   },

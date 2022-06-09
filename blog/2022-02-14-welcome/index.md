@@ -10,7 +10,7 @@ tags: [app-builder, appfast]
 ### Nền tảng Appfast là gì?
 
 Nền tảng Appfast là gì?
-Appfast là nền tảng xây dựng ứng dụng di động, cho phép bạn xây dựng ứng dụng của mình mà không cần kiến thức về lập trình. Appfast tạo ứng dụng dựa trên các widget được định nghĩa sẵn cùng khả năng tùy chỉnh các thuộc tính như màu sắc, hình ảnh, liên kết... tùy thuộc vào mục đích của bạn. Appfast hỗ trợ xem trước thời gian thực ứng dụng mà bạn đang tạo bằng ứng dụng Appfast Mobile App. 
+Appfast là nền tảng xây dựng ứng dụng di động, cho phép bạn xây dựng ứng dụng của mình mà không cần kiến thức về lập trình. Appfast tạo ứng dụng dựa trên các block được định nghĩa sẵn cùng khả năng tùy chỉnh các thuộc tính như màu sắc, hình ảnh, liên kết... tùy thuộc vào mục đích của bạn. Appfast hỗ trợ xem trước thời gian thực ứng dụng mà bạn đang tạo bằng ứng dụng Appfast Mobile App. 
 
 ### Làm thế nào để tôi có thể tạo ứng dụng của mình?
 Bạn có thể tạo ứng dụng sau khi đăng kí tài khoản Appfast hoặc chọn Tạo App Ngay mà không cần tài khoản Appfast (khuyến khích tạo App với tài khoản Appfast để có thể lưu lại App bạn đã tạo). Sau đó, bạn có thể đọc thêm tài liệu và xem video hướng dẫn tại trang Hỗ trợ.
@@ -19,11 +19,11 @@ Bạn có thể tạo ra ứng dụng chạy trên nền tảng di động iOS h
 
 ### Tôi có thể xây dựng những loại ứng dụng gì với Appfast?
 
-Bạn có thể tạo ứng dụng bán hàng online (E-commerce), ứng dụng xem tin tức, Hồ sơ cá nhân, Hồ sơ công ty, ứng dụng Ảnh của riêng bạn… Appfast đang mở rộng để hỗ trợ thêm các loại ứng dụng khác trong tương lai. Tuy nhiên, dựa trên những widget có sẵn của Appfast, bạn cũng có thể tạo nên những ứng dụng độc đáo của riêng mình.
+Bạn có thể tạo ứng dụng bán hàng online (E-commerce), ứng dụng xem tin tức, Hồ sơ cá nhân, Hồ sơ công ty, ứng dụng Ảnh của riêng bạn… Appfast đang mở rộng để hỗ trợ thêm các loại ứng dụng khác trong tương lai. Tuy nhiên, dựa trên những block có sẵn của Appfast, bạn cũng có thể tạo nên những ứng dụng độc đáo của riêng mình.
 
-### Tiện ích (Widget) là gì?
+### Tiện ích (block) là gì?
 
-Widget (Tiện ích) là những thành phần để xây dựng nên ứng dụng của bạn, nó có thể là một chức năng hoặc giao diện người dùng. Bạn có thể thêm Widget từ bảng cấu hình nằm bên phải Dashboard (Bảng điều khiển Appfast)
+block (Tiện ích) là những thành phần để xây dựng nên ứng dụng của bạn, nó có thể là một chức năng hoặc giao diện người dùng. Bạn có thể thêm block từ bảng cấu hình nằm bên phải Dashboard (Bảng điều khiển Appfast)
 
 ### Chuyện gì xảy ra nếu tôi xóa một ứng dụng đã tải lên Cửa hàng?
 

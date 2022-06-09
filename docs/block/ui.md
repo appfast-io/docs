@@ -2,8 +2,8 @@
 sidebar_position: 4
 ---
 
-# Interface Widgets
-*Widgets act as backend components in the user interface.*
+# Interface Blocks
+*blocks act as backend components in the user interface.*
 
 ---
 
@@ -11,9 +11,9 @@ sidebar_position: 4
 
 List of block items, each for a specific screen.
 
-![img alt](/img/widget/ui/menublock-01.jpeg)
+![img alt](/img/block/ui/menublock-01.jpeg)
 
-![img alt](/img/widget/ui/menublock-02.jpg)
+![img alt](/img/block/ui/menublock-02.jpg)
 
 ---
 
@@ -21,9 +21,9 @@ List of block items, each for a specific screen.
 
 Displays the main title bar and the subheading. It helps to divide the content sections in the application
 
-![img alt](/img/widget/ui/titlebar-01.jpeg)
+![img alt](/img/block/ui/titlebar-01.jpeg)
 
-![img alt](/img/widget/ui/titlebar-02.jpg)
+![img alt](/img/block/ui/titlebar-02.jpg)
 
 ---
 
@@ -31,9 +31,9 @@ Displays the main title bar and the subheading. It helps to divide the content s
 
 View photos by swiping right or left, which can be used to link screens.
 
-![img alt](/img/widget/ui/slideshow-01.jpeg)
+![img alt](/img/block/ui/slideshow-01.jpeg)
 
-![img alt](/img/widget/ui/slideshow-02.jpg) 
+![img alt](/img/block/ui/slideshow-02.jpg) 
 
 ---
 
@@ -41,9 +41,9 @@ View photos by swiping right or left, which can be used to link screens.
 
 Show up with the link every time you open the application or go to any page.
 
-![img alt](/img/widget/ui/bannerpopup-01.jpg)
+![img alt](/img/block/ui/bannerpopup-01.jpg)
 
-![img alt](/img/widget/ui/bannerpopup-02.jpg) 
+![img alt](/img/block/ui/bannerpopup-02.jpg) 
 
 ---
 
@@ -51,9 +51,9 @@ Show up with the link every time you open the application or go to any page.
 
 Enter the website link to display the website as mobile.
 
-![img alt](/img/widget/ui/webview-01.jpg)
+![img alt](/img/block/ui/webview-01.jpg)
 
-![img alt](/img/widget/ui/webview-02.jpg) 
+![img alt](/img/block/ui/webview-02.jpg) 
 
 ---
 
@@ -61,7 +61,7 @@ Enter the website link to display the website as mobile.
 
 Display information as text.
 
-![img alt](/img/widget/ui/textbox-01.jpg)
+![img alt](/img/block/ui/textbox-01.jpg)
 
 ---
 
@@ -69,5 +69,5 @@ Display information as text.
 
 Edit the interface with HTML/CSS.JS
 
-![img alt](/img/widget/ui/htmlcssjs-01.jpg)
+![img alt](/img/block/ui/htmlcssjs-01.jpg)
 

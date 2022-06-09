@@ -54,16 +54,16 @@ Tab “System" để quản lý các màn hình hệ thống
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-07.png)
 
-### Tương tác với widget
+### Tương tác với block
 
-Có 2 cách để thêm widget, ở vị trí  cần thêm:
-- Trong mỗi màn hình chọn **“+”** dưới các widget đã tồn tại.
-- Ở màn hình giao diện ứng dụng chọn **“+”** dưới các widget đã tồn tại. 
+Có 2 cách để thêm block, ở vị trí  cần thêm:
+- Trong mỗi màn hình chọn **“+”** dưới các block đã tồn tại.
+- Ở màn hình giao diện ứng dụng chọn **“+”** dưới các block đã tồn tại. 
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-08.jpg)
 
-Có 2 cách để chỉnh sửa widget:
-- Trong mỗi màn hình chọn widget cần chỉnh sửa, màn hình tuỳ chỉnh widget sẽ nằm bên phải.
-- Ở màn hình giao diện ứng dụng chọn widget cần chỉnh sửa, màn hình tuỳ chỉnh widget sẽ nằm bên phải.
+Có 2 cách để chỉnh sửa block:
+- Trong mỗi màn hình chọn block cần chỉnh sửa, màn hình tuỳ chỉnh block sẽ nằm bên phải.
+- Ở màn hình giao diện ứng dụng chọn block cần chỉnh sửa, màn hình tuỳ chỉnh block sẽ nằm bên phải.
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-09.jpg)

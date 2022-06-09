@@ -2,15 +2,15 @@
 sidebar_position: 5
 ---
 
-# Other Widgets
-*Widgets carry many other valuable functions.*
+# Other Blocks
+*blocks carry many other valuable functions.*
 
 ---
 
 ### Advertisement​
 Allows you to monetize ads within the app.
 
-![img alt](/img/widget/orthers/map.jpeg)
+![img alt](/img/block/orthers/map.jpeg)
 
 ---
 
@@ -18,4 +18,4 @@ Allows you to monetize ads within the app.
 
 Displays a map with the address, allowing the user to see the location and directions to these locations.
 
-![img alt](/img/widget/orthers/map.jpg)
+![img alt](/img/block/orthers/map.jpg)

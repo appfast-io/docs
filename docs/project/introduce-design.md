@@ -54,16 +54,16 @@ Tab “System” to manage system screens
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-07.png)
 
-### Interacting with widgets​
+### Interacting with blocks​
 
-There are two ways to add the widget in the place where it needs to be added:
-- On each screen, select **“+”** under existing widgets.
-- At the application interface screen, select **“+”** under existing widgets.
+There are two ways to add the block in the place where it needs to be added:
+- On each screen, select **“+”** under existing blocks.
+- At the application interface screen, select **“+”** under existing blocks.
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-08.jpg)
 
-There are two ways to edit widgets:
-- The widget customization screen will be on the right in each widget selection screen to edit.
-- In the application interface screen, select the widget to be edited. The widget customization screen will be on the right.
+There are two ways to edit blocks:
+- The block customization screen will be on the right in each block selection screen to edit.
+- In the application interface screen, select the block to be edited. The block customization screen will be on the right.
 
 ![img alt](/img/create-app/dashboard/200514-lam-quen-voi-dashboard-09.jpg)
