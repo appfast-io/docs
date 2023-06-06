@@ -1,9 +1,17 @@
-appfast:
-  name: Appfast
-  title: Appfast Official
-  image_url: https://s01.appfast.me/source/6168f3503bcf58001d4595a7/Docs_logo/52d1853f853045d3bf8db3d345a214d7.png
+endi:
+  name: Endilie Yacop Sucipto
+  title: Maintainer of Docusaurus
+  url: https://github.com/endiliey
+  image_url: https://github.com/endiliey.png
 
-haduy:
-  name: Hạ Duy
-  title: Product Designer @ Appfast
-  image_url: https://s01.appfast.me/source/6168f3503bcf58001d4595a7/Docs_logo/4fb99519b5c744b3ab1287ce4954d7db.jpg
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
