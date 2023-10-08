@@ -68,7 +68,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "https://s01.appfast.me/home/dashboard-ui.png",
       navbar: {
         title: "Appfast Docs",
         logo: {
@@ -116,7 +116,7 @@ const config = {
               },
               {
                 label: "Youtube",
-                href: "https://www.youtube.com/channel/UCMxYFX8Fp1jR_Onlc5ysVbg",
+                href: "https://youtube.com/@appfast",
               },
             ],
           },
