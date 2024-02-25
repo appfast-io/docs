@@ -1,11 +1,8 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
-
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+const config: Config = {
   title: "Appfast Docs",
   tagline: "Appfast documentation",
   favicon: "img/favicon.ico",
@@ -44,7 +41,7 @@ const config = {
     [
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
@@ -60,13 +57,13 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
-      }),
+      },
     ],
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
       // Replace with your project's social card
       image: "https://s01.appfast.me/home/dashboard-ui.png",
       navbar: {
@@ -137,10 +134,10 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Appfast, Jsc. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
+      } satisfies Preset.ThemeConfig,
+    },
 };
 
-module.exports = config;
+export default config;
