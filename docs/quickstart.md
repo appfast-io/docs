@@ -6,7 +6,7 @@ Here are 6 steps to create a complete mobile application with Appfast without ha
 ### Step 1. Sign up & Sign in.
 
 At Appfast homepage https://appfast.io
-**>>** Find buttons "**Get Started Now**" ![GetStartedNow.jpeg](https://www.dropbox.com/scl/fi/bi3gkzuuk2cc7ou8e7i8j/GetStartedNow.jpg?rlkey=w1kielqn5hyaela6lvu4zav3e&dl=0&raw=1) or "**Sign up**" or you can go directly with this link (<https://dash.appfast.io/sign-in>)
+**>>** Find buttons "**Get Started Now**" ![GetStartedNow.jpeg](https://www.dropbox.com/scl/fi/bi3gkzuuk2cc7ou8e7i8j/GetStartedNow.jpg?rlkey=w1kielqn5hyaela6lvu4zav3e&dl=0&raw=1) or "**Sign up**" or you can go directly with this link (`<https://dash.appfast.io/sign-in>`)
 
 **>>** then input your email to get OTP CODE
 ![InputEmail.jpeg](https://www.dropbox.com/scl/fi/x1nomel940ndg8e2khkrj/InputEmail.jpg?rlkey=rsbaeceqk1ti2sfoq79y58a22&dl=0&raw=1)
