@@ -3,8 +3,6 @@ layout: subpage
 title: Templates
 ---
 
-{% raw %}
-
 # Templating
 
 This is an overview of the templating features available in Nunjucks.
@@ -39,12 +37,12 @@ include recognition of the `.njk` extension.
 
 Plugins are available in various editors to support the `jinja` syntax highlighting of Nunjucks.
 
-- atom <https://github.com/alohaas/language-nunjucks>
-- vim <https://github.com/niftylettuce/vim-jinja>
-- brackets <https://github.com/axelboc/nunjucks-brackets>
-- sublime <https://github.com/mogga/sublime-nunjucks/blob/master/Nunjucks.tmLanguage>
-- emacs <http://web-mode.org>
-- vscode <https://github.com/ronnidc/vscode-nunjucks>
+- atom `<https://github.com/alohaas/language-nunjucks>`
+- vim `<https://github.com/niftylettuce/vim-jinja>`
+- brackets `<https://github.com/axelboc/nunjucks-brackets>`
+- sublime `<https://github.com/mogga/sublime-nunjucks/blob/master/Nunjucks.tmLanguage>`
+- emacs `<http://web-mode.org>`
+- vscode `<https://github.com/ronnidc/vscode-nunjucks>`
 
 ## Variables
 
@@ -1094,7 +1092,7 @@ values. This makes the results more readable.
 
 ### escape (aliased as e)
 
-Convert the characters &, <, >, ‘, and ” in strings to HTML-safe sequences.
+Convert the characters \&, \<, \>, \‘, and \” in strings to HTML-safe sequences.
 Use this if you need to display text that might contain such characters in HTML.
 Marks return value as markup string
 
@@ -1963,5 +1961,3 @@ Count and output the number of words in a string:
 Alternatively, it's easy to [read the JavaScript
 code](https://github.com/mozilla/nunjucks/blob/master/nunjucks/src/filters.js)
 that implements these filters.
-
-{% endraw %}
