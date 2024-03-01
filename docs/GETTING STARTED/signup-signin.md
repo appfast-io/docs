@@ -2,4 +2,4 @@
 sidebar_position: 2
 ---
 
-# Design tab
+# Sign up & Sign in

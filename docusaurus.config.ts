@@ -75,7 +75,7 @@ const config: Config = {
         items: [
           {
             type: "doc",
-            docId: "GETTING STARTED/overview",
+            docId: "intro",
             position: "left",
             label: "Docs",
           },
