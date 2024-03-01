@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# Introduce
+# Overview
 
 Welcome to **Appfast Studio** - The Fastest and Simplest way to create, design, and operate your website and mobile apps without coding or design skill.
 
