@@ -2,8 +2,7 @@
 sidebar_position: 0
 title: Introduction
 ---
-
-# Overview
+# Introduction
 
 Welcome to **Appfast Studio** - The Fastest and Simplest way to create, design, and operate your website and mobile apps without coding or design skill.
 
@@ -27,7 +26,7 @@ Pick your favorite trendy colors and theme for your app.
 
 #### #3 Generate app name
 
-You can create a cool app name idea and then your app will be completed in 60 seconds by Appfast Studio.
+You can create a cool app name idea and then your app will be completed in 60 seconds by **Appfast Studio**.
 
 #### #4 Review and customize
 
@@ -35,6 +34,6 @@ Customizing your app-looking with brand colors, logos, banner images, and displa
 
 ---
 
-Appfast Studio provides a library of plugins that you can select and install into your app. Each plugin can be a special feature like E-commerce, Loyalty Program, or integrations with Youtube, Facebook fan page and so on.
+**Appfast Studio** provides a library of plugins that you can select and install into your app. Each plugin can be a special feature like E-commerce, Loyalty Program, or integrations with Youtube, Facebook fan page and so on.
 
 Especially, Appfast's Builder Cloud will build a standalone app following your request with certificate key. Then, the system will send a download link to the file via your registered email . You can use this file to submit your app to the App Store with your Apple developer account.
