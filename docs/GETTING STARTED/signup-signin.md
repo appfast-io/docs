@@ -1,5 +1,4 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
+title: Sign up & Sign in
 ---
-
-# Sign up & Sign in
