@@ -7,7 +7,7 @@ Welcome! Do you have a business idea? Do you want to create your own mobile appl
 
 Don't worry! **AppFast** will help you do that easily.
 
-Here are 3 steps to create a complete mobile application with **AppFast** without having to know programming:
+Here are 6 steps to create a complete mobile application with **AppFast** without having to know programming:
 
 ## Step 1. Sign up & Sign in
 
