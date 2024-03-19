@@ -2,7 +2,7 @@
 title: User Profile
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+User profile block allows you to display the user menus on the screen. User can click on the menu items to navigate to the appropriate screen.
 
 ## Common Properties
 

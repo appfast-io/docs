@@ -2,7 +2,7 @@
 title: Video Player
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Video player block allows you to display a video in the screen.
 
 ## Common Properties
 

@@ -2,7 +2,7 @@
 title: Title Bar
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Title bar block allows you to display a title, a subtitle, and a "more" link on the screen. User can click on the "more" link to navigate to the next screen or block.
 
 ## Common Properties
 

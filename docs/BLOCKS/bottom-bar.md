@@ -2,7 +2,7 @@
 title: Bottom Bar
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Bottom bar block allows you to display a list of items in the bottom of the screen.
 
 ## Common Properties
 

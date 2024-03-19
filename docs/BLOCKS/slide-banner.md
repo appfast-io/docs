@@ -2,7 +2,7 @@
 title: Slide Banner
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Slide banner block allows you to display a images slider on the screen.
 
 ## Common Properties
 
@@ -15,5 +15,5 @@ You can configure the [Block Common Properties](overview#block-common-properties
 | Block Skin | Allow you to select the skin of the block. |
 | Margin & Radius | Allow you to set the block's margins and radiuses. |
 | Slider | Allow you to configure the slider settings. |
-| Menu items | Allow you to add the items of the bottom bar. |
+| Menu items | Allow you to add the items to the slider. |
 | Safe Area | Allow you to select the safe area of the block. |
