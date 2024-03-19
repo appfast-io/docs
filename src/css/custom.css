@@ -26,3 +26,16 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+th {
+  text-align: left;
+  background-color: #f9fafb;
+}
+
+tr:nth-child(2n) {
+  background-color: #f5f5f5;
+}
+
+tr:nth-child(2n + 1) {
+  background-color: #ffffff;
+}
