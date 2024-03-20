@@ -4,6 +4,8 @@ title: Store List
 
 Store List is a block that allows you to display a list of stores on the screen. It uses the managed stores in the [Store Location plugin](../PLUGINS/store-location).
 
+This block requires the Location permission.
+
 ## Common Properties
 
 You can configure the [Block Common Properties](overview#block-common-properties) on the right panel.
