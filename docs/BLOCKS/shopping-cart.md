@@ -2,7 +2,7 @@
 title: Shopping Cart
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Shopping Cart is a block that allows you to display a shopping cart on the screen.
 
 ## Common Properties
 

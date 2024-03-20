@@ -2,7 +2,7 @@
 title: Product Detail
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Product Detail is a block that allows you to display a product on the screen. It uses the id of the product you clicked on the [Product List block](product-list).
 
 ## Common Properties
 

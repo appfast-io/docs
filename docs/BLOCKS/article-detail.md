@@ -2,7 +2,7 @@
 title: Article Detail
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Article Detail is a block that allows you to display an article on the screen. It uses the id of the article you clicked on the [Article List block](article-list).
 
 ## Common Properties
 

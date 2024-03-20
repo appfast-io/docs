@@ -2,7 +2,7 @@
 title: Playlist (Track List)
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Playlist (Track List) is a block that allows you to display a list of playlists on the screen. It uses the managed playlists in the [Song Playlist plugin](../PLUGINS/playlist-track-list).
 
 ## Common Properties
 

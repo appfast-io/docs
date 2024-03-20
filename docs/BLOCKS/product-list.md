@@ -2,7 +2,7 @@
 title: Product List
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Product List is a block that allows you to display a list of products on the screen. It uses the managed products in the [Product Subscription plugin](../PLUGINS/product-subscription).
 
 ## Common Properties
 

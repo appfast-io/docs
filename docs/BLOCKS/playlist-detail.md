@@ -2,7 +2,7 @@
 title: Playlist (Track List) Detail
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Playlist (Track List) Detail is a block that allows you to display a playlist on the screen. It uses the id of the playlist you clicked on the [Playlist (Track List) block](playlist-track-list).
 
 ## Common Properties
 

@@ -2,7 +2,7 @@
 title: Video Player
 ---
 
-Video player block allows you to display a video in the screen.
+Video player block allows you to play back a video on the screen.
 
 ## Common Properties
 

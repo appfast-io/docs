@@ -2,7 +2,7 @@
 title: Drawer Menu
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Drawer Menu is a block that allows you to display a drawer menu on the screen. This is a sliding left menu that is used to display the important links in the application.
 
 ## Common Properties
 

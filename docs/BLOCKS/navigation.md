@@ -2,7 +2,7 @@
 title: Navigation
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Navigation is a block that allows you to display a navigation on the screen.
 
 ## Common Properties
 

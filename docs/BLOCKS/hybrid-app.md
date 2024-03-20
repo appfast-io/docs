@@ -2,7 +2,7 @@
 title: Hybrid App
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Hybrid app is a block that allows you to display a mini-app on the screen. Mini-app is a small app that uses the **AppFast** SDK and can be added to the **AppFast** platform.
 
 ## Common Properties
 

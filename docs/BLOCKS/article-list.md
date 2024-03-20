@@ -2,7 +2,7 @@
 title: Article List
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Article List is a block that allows you to display a list of articles on the screen. It uses the managed articles in the [Posts plugin](../PLUGINS/posts).
 
 ## Common Properties
 

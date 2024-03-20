@@ -2,7 +2,7 @@
 title: Store List
 ---
 
-You can use this block to display a blank space on the screen. It can be used to add space between blocks.
+Store List is a block that allows you to display a list of stores on the screen. It uses the managed stores in the [Store Location plugin](../PLUGINS/store-location).
 
 ## Common Properties
 
