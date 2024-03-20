@@ -3,7 +3,10 @@ sidebar_position: 3
 title: Design Tab
 ---
 
-After creating the application in Step 3. The system will redirect you to the design page by default. On this screen, you will have tools to edit the application's user interface (UI) as desired. We will have a design screen with the following interface and functions:
+On this Design page, you have tools to edit the application's user interface (UI) as desired. We will have a design screen with the following interface and functions:
+
+![Design Screen](../../static/img/new_app.jpg)
+
 ![DesignScreen.jpeg](https://www.dropbox.com/scl/fi/7lukjvw9fms1zh181j7qw/DesignScreen.jpeg?rlkey=xihduosagsiompb5gv88rlnob&dl=0&raw=1)
 
 - 1. Current screen (Men's screen) of the app (red rectangle areas).

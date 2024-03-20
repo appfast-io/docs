@@ -3,11 +3,9 @@ sidebar_position: 2
 title: Create/Edit App
 ---
 
-After you sign in successfully, you will be redirected to the dashboard where you can see your apps, find out about new features and improvements, watch helpful videos, and more.
+In the dashboard, you can create new apps or edit existing apps.
 
 ![AppFast Dashboard](../../static/img/home.jpg)
-
-In the dashboard, you can create new apps or edit existing apps.
 
 To create a new app, you can click on the **"Create New App"** button.
 
