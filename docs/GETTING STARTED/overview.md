@@ -31,9 +31,9 @@ Typically, *your app URL will have the following format: `<https://dash.appfast.
 
 ## Step 4. Design and tweak the app as you like
 
-After creating the application, you will be redirected to the **AppFast** builder. On this builder, you will have all powerful tools to edit the app user interface (UI) as desired. You can also manage your plugins and settings on the **AppFast** builder.
+After creating the application, you will be redirected to the **AppFast** Studio. On this Studio, you will have all powerful tools to edit the app user interface (UI) as desired. You can also manage your plugins and settings on the **AppFast** Studio.
 
-Take a look at the [Design Tab](design-tab) article to familiarize yourself with the main sections of the builder and learn more about what you can do inside of **AppFast**.
+Take a look at the [Design Tab](design-tab) article to familiarize yourself with the main sections of the Studio and learn more about what you can do inside of **AppFast**.
 
 ## Step 5. Preview and internal testing
 
