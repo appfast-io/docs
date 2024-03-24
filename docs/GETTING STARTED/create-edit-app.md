@@ -25,8 +25,8 @@ You can give your app a unique name that represents your business philosophy and
 
 ![Checkout & Create Project](../../static/img/create_new_app_step_3.jpg)
 
-After your project is created, you can select **"Go to Dashboard"** button to go to the **AppFast** builder.
+After your project is created, you can select **"Go to Dashboard"** button to go to the **AppFast** Studio.
 
 ![Go to Dashboard](../../static/img/create_new_app_step_4.jpg)
 
-On next page, you will learn how to build your app in the **AppFast** builder.
+On next page, you will learn how to build your app in the **AppFast** Studio.
