@@ -6,6 +6,8 @@ Posts are articles that are organized chronologically, with the newest posts app
 
 By integrating WordPress into **AppFast** Studio, the system now supports various content formats for posts, allowing you to customize how they are displayed. This integration enhances your content management capabilities, making it easier to create engaging and diverse content.
 
+![Post plugin](../../static/img/plugin_Post.jpg)
+
 ## Image & Gallery Format
 
 Articles with additional images will make the article more prominent and attractive.
