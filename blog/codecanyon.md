@@ -4,7 +4,7 @@ Appfast builder is a Wordpress Plugin allow to build a mobile native app inside 
 
 With Appfast builder, you can turn your ideas into reality with website and native apps for both Android & iOS in a matter of minutes.
 
-## 🎉️ Feature list
+## 🎉️ Key Features
 
 🚀️ No required Coding skills for everyone.
 
@@ -59,6 +59,24 @@ Appfast's Builder Cloud will handles all servers, database, coding and app perfo
 Choose from stunning templates specifically designed to have a good-looking.
 
 ![App categories](https://s01.appfast.me/home/grow-with-appfast-03.svg)
+
+## 🎉️ WooCommerce
+
+If you already installed WooCommerce plugin in your WordPress site and want to create your own e-commerce app, you can use WooCommerce REST API by input your consumer key and secret in Appfast Builder.
+
+To start using REST API, you first need to generate API keys.
+
+* Go to *WooCommerce > Settings > Advanced*
+* Go to the *REST API* tab and click *Add key*.
+* Give the key a description for your own reference, choose a user with access to orders etc, and give the key *read/write* permissions.
+* Click *Generate api key*.
+* Your keys will be shown – do not close this tab yet, the secret will be hidden if you try to view the key again.
+
+![WooCommerce keys](../static/img/wc_keys.png)
+
+Then, copy and paste the consumer key and secret in Appfast Builder.
+
+![WooCommerce API](../static/img/wc_api.png)
 
 ## 🎉️ Get in touch with us
 
