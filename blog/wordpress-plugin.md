@@ -82,4 +82,4 @@ Then, copy and paste the consumer key and secret in Appfast Builder.
 
 Whether you have a question about features, trials, pricing or anything else, our team is ready to answer all your questions
 
-👀️ <support@appfast.io>
+👀️ [support@appfast.io](support@appfast.io)

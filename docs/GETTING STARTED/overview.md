@@ -43,4 +43,4 @@ You can preview your app while building in **AppFast**. In preview mode, you can
 
 In this last step, you can publish your app to Web, Apple App Store (iOS) or Google App Store (Android) for your customers.
 
-[Learn more about how to publish your app here](design-tab#publish-app).
+<!-- [Learn more about how to publish your app here](design-tab#publish-app). -->
