@@ -1,4 +1,7 @@
-# Appfast builder - The Fastest & Simplest way to create applications
+---
+sidebar_position: 4
+title: Appfast builder - The Fastest & Simplest way to create applications
+---
 
 Appfast builder is a Wordpress Plugin allow to build a mobile native app inside your Wordpress website. You can convert your existing Wordpress site to a news app or WooCommerce site to an e-commerce app.
 
