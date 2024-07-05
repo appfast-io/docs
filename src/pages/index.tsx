@@ -34,7 +34,7 @@ function HomepageHeader() {
               <a href="https://play.google.com/store/apps/details?id=io.appfast.studio&hl=vi&gl=US">
                 <div className={styles.btnDownload}>ANDROID</div>
               </a>
-              <a href="https://studio.appfast.io/">
+              <a href="https://dash.appfast.io/">
                 <div className={styles.btnDownload}>DESKTOP</div>
               </a>
             </div>
