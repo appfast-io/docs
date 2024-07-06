@@ -75,11 +75,11 @@ To start using REST API, you first need to generate API keys.
 * Click *Generate api key*.
 * Your keys will be shown – do not close this tab yet, the secret will be hidden if you try to view the key again.
 
-![WooCommerce keys](../static/img/wc_keys.png)
+![WooCommerce keys](../../static/img/wc_keys.png)
 
 Then, copy and paste the consumer key and secret in Appfast Builder.
 
-![WooCommerce API](../static/img/wc_api.png)
+![WooCommerce API](../../static/img/wc_api.png)
 
 ## 🎉️ Get in touch with us
 
