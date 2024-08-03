@@ -4,28 +4,31 @@ FastMart WooCommerce is the Full React Native Application that creates iOS and A
 
 * Convert any WooCommerce website into iOS & Android app.
 * Easily published on both App Store and Google Play.
-* Demo: iOS, Android, PWA, Video.
+* Demo: iOS, Android, PWA, Video. (4 DEMO LINKS HERE)
 
-** <Image> FastMart WooCommerce - React Native E-commerce Full App - 1
+![FastMart WooCommerce - React Native E-commerce Full App - 1](../../static/img/docusaurus.png) FastMart WooCommerce - React Native E-commerce Full App - 1
 
 > – Version: 1.0.0 – latest React Native v3.22
+>
 > – Last update: 10 July 2024
+>
 > – Files Included: Full React Native Source Code (iOS & Android)
+>
 > – Build a Free App Demo for your website
 
-** <Image> FastMart WooCommerce - React Native E-commerce Full App - 2
+![FastMart WooCommerce - React Native E-commerce Full App - 2](../../static/img/docusaurus.png) FastMart WooCommerce - React Native E-commerce Full App - 2
 
-** <Image> An ultimate approach to build React Native mobile apps
+![An ultimate approach to build React Native mobile apps](../../static/img/docusaurus.png) An ultimate approach to build React Native mobile apps
 
-** <Image> Top reason to buy FastMart
+![Top reason to buy FastMart](../../static/img/docusaurus.png) Top reason to buy FastMart
 
-** <Image> Key features
+![Key features](../../static/img/docusaurus.png) Key features
 
-** <Image> Appfast Studio introduction
+![Appfast Studio introduction](../../static/img/docusaurus.png) Appfast Studio introduction
 
 FastMart is a universal e-commerce app inspired by the React Native framework, made by Facebook. With the mission of reducing thousands of hours of business spent on designing, developing, and testing a mobile app, FastMart comes as a complete solution for optimizing to deliver your app to the market with high productivity and cost-efficiency. It could be able to satisfy all of the business requirements including e-commerce functionalities, impressive UX design, and smooth performance on both iOS and Android devices.
 
-If your business has already had the website built based on the WooCommerce website then it is easy to integrate with FastMart in just a few steps, and quickly release the final app to both Appstore and Google Play store. The download package is included the full source code and many related resources (designs, documents, videos…) that help you install in the smoothest way.
+If your business has already had the website built based on the WooCommerce website then it is easy to integrate with FastMart in just a few steps, and quickly release the final app to both AppStore and Google Play store. The download package is included the full source code and many related resources (designs, documents, videos…) that help you install in the smoothest way.
 
 Either you are business people with raising sale ambition or developers with faster mobile application creation need, FastMart provides you solutions.
 
@@ -33,16 +36,19 @@ Faster- Smoother- Closer.
 
 ## Reference links
 
-** <Image> FastMart WooCommerce - React Native E-commerce Full App - 5
+![FastMart WooCommerce - React Native E-commerce Full App](../../static/img/docusaurus.png) FastMart WooCommerce - React Native E-commerce Full App
 
-> Demo: iOS, Android<**>
-> Preview Video: WooCommerce<**>
-> PWA: https://web.FastMart.app
+> Demo: iOS, Android (DEMO LINK HERE)
+>
+> Preview Video: FastMart WooCommerce  (PREVIEW VIDEO LINK HERE)
+>
+> PWA: (PWA LINK HERE)
+>
 > Company Site: [https://www.appfast.io/](https://www.appfast.io/)
 
-***Please note that this app is for single vendor.
+*** Please note that this app is for single vendor.
 
-## Woocommerce features demo
+## WooCommerce features demo
 
 Here are the different types of products.
 
@@ -78,7 +84,7 @@ In the app demo, you can search for product names and explore them.
 
 **Advance Product Detail View Config** – with the option to show SafeArea, Image Height, inline Video on Product Detail.
 
-**Subscription, Brands** – usability for Woocommerce subscription products and Brands carousel.
+**Subscription, Brands** – usability for WooCommerce subscription products and Brands carousel.
 
 **Push Notification** – via OneSignal, Firebase; Order Status Notifications, In-app notification, history messages.
 
@@ -86,7 +92,7 @@ Powerful User Settings – view WishList, Order Tracking, Rate App on app stores
 
 Offline Images Caching – speed up the loading performance with caching image offline method.
 
-** <Image> React Native Mobile App: FastMart WooCommerce - React Native E-commerce Full App - 15
+![React Native Mobile App: FastMart WooCommerce - React Native E-commerce Full App](../../static/img/docusaurus.png) React Native Mobile App: FastMart WooCommerce - React Native E-commerce Full App
 
 ## What will you get with regular license?
 
