@@ -8,7 +8,7 @@ FastMart WooCommerce is the Full React Native Application that creates iOS and A
 
 ![FastMart WooCommerce - React Native E-commerce Full App - 1](../../static/img/docusaurus.png) FastMart WooCommerce - React Native E-commerce Full App - 1
 
-> – Version: 1.0.0 – latest React Native v3.22
+> – Version: 1.0.0 – latest React Native v0.74
 >
 > – Last update: 10 July 2024
 >
