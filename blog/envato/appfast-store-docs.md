@@ -81,6 +81,9 @@ The project structure is as follows:
 │ │ ├── blocks
 │ │ ├── components
 │ │ ├── utils
+│ ├── i18n
+│ ├── types
+│ ├── Loader.tsx
 │ └── project.json
 ├── index.ts
 ├── package.json
@@ -88,9 +91,13 @@ The project structure is as follows:
 ```
 
 - assets: Contains images and other assets
-- src/blocks: Contains block components
+- src/blocks: Contains block components. Each block has its own folder, for example, `src/blocks/Block1`
 - src/components: Contains reusable components
 - src/utils: Contains utility functions
+- src/i18n: Contains translations
+- src/types: Contains interface/type definitions
+- src/Loader.tsx: The root component
+- project.json: Project configuration
 - index.ts: Entry point of the app
 - package.json: Project metadata and dependencies
 
@@ -100,7 +107,7 @@ The project structure is as follows:
 
 ### WooCommerce Configuration
 
-If you already had a WooCommerce website, you can get the [WooCommerce API key](https://docs.appfast.io/docs/WORDPRESS%20PLUGIN/wordpress-plugin#%EF%B8%8F-woocommerce) and configure it in the `config.js` file.
+If you already had a WooCommerce website, you can get the [WooCommerce API key](https://docs.appfast.io/docs/WORDPRESS%20PLUGIN/wordpress-plugin#%EF%B8%8F-woocommerce) and configure it in the `src/project.json` file.
 
 If you don't have a WooCommerce website, you can use our [Appfast cloud backend](https://docs.appfast.io/docs/GETTING%20STARTED/backend-tab) in the [Appfast Studio](https://www.appfast.io/).
 
@@ -110,7 +117,9 @@ There are 2 ways to customize the design of this app:
 
 1. Customize via the drag&drop [Appfast Studio tool](https://docs.appfast.io/).
 
-    You can import the `src/project.json` file, customize your design, then export the JSON file, and replace it with `src/project.json` in the source code of app.
+    You can create an account on Appfast Studio, then create an app with your Envato key.
+
+    You can customize your design, then export the JSON file, and replace it with `src/project.json` in the source code of app.
 
 2. Customize directly on the source code of app via Android Studio or Visual Studio Code as below:
 
@@ -212,7 +221,7 @@ export default Profile;
 2. **Open Web App**:
 
    ```bash
-   open http://localhost:19006
+   open http://localhost:8081
    ```
 
 ## 7. FAQs
