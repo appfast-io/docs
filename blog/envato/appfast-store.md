@@ -60,6 +60,8 @@ Faster- Smoother- Closer.
 > PWA: (PWA LINK HERE)
 >
 > Company Site: [https://www.appfast.io/](https://www.appfast.io/)
+>
+> Documents: [FastMart Document](https://docs.appfast.io/blog/envato/appfast-store-docs)
 
 *** Please note that this app is for single vendor.
 
