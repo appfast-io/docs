@@ -31,8 +31,10 @@ In the nutshell, **FastMart** can integrate with:
 
 ## Reference links
 
+> Video Intro: [https://www.youtube.com/watch?v=TbidwgVi-yk](https://www.youtube.com/watch?v=TbidwgVi-yk)
+>
 > Demo: Please download Appfast Studio for [iOS](https://apps.apple.com/vn/app/appfast-studio/id1614592863), [Android](https://play.google.com/store/apps/details?id=io.appfast.studio), then use it to scan below QR code.
-> ![FastMart WooCommerce - React Native E-commerce Full App - QR](https://docs.appfast.io/assets/images/FastMart-QR-074d76d52d0ee914827fbac96c078af6.jpg)
+> ![FastMart WooCommerce - React Native E-commerce Full App - QR](../../static/img/envato/FastMart-QR.jpg)
 >
 > PWA: [https://fast-mart.appfast.me](https://fast-mart.appfast.me) (It's also a Telegram mini app)
 >
@@ -70,21 +72,6 @@ If your business has already had the website built based on the WooCommerce webs
 Either you are business people with raising sale ambition or developers with faster mobile application creation need, FastMart provides you solutions.
 
 Faster - Smoother - Closer.
-
-## Versatile Application Examples
-
-FastMart's flexibility is showcased through various demo applications, including:
-
-* **The Coffee Shop E-commerce Demo**
-![The Coffee Shop E-commerce Demo](https://docs.appfast.io/assets/images/the-coffee-shop-9eff8b71e2eafcc32fb23f6fe47b7732.jpeg)
-
-* **uGreen E-commerce Demo**
-![uGreen E-commerce Demo](https://docs.appfast.io/assets/images/ugreen-products-af0041a43d433e9cddc7c3aca615834b.jpeg)
-
-* **FastNews Portal Demo**
-![FastNews Portal Demo](https://docs.appfast.io/assets/images/fastnews-portal-e2512843a04c6e0d79a00856b361d9a4.jpeg)
-
-These examples highlight the template's adaptability to different industries, providing a solid foundation for a wide range of app development projects.
 
 ## WooCommerce features demo
 
@@ -144,11 +131,28 @@ In the app demo, you can search for product names and explore them.
   * Unlimited Push Notifications
   * Unlimited App Editing
 
-## What will you get with extended license?
-
-* Same as the regular one.
-* Use in an end product that’s sold, refer [Extended Licenses](https://codecanyon.net/licenses/standard).
-
 ## Conclusion
 
 FastMart WooCommerce by Appfast Studio is your go-to solution for rapid, customizable app development. Whether you opt for WordPress integration or the robust Appfast Cloud Backend, FastMart ensures your app has the features and performance needed to succeed. Explore the potential of FastMart and elevate your app development journey today.
+
+## My Customer projects
+
+FastMart's flexibility is showcased through various applications, including:
+
+* **The Coffee Shop E-commerce**
+![The Coffee Shop E-commerce](https://docs.appfast.io/assets/images/the-coffee-shop-9eff8b71e2eafcc32fb23f6fe47b7732.jpeg)
+
+* **uGreen E-commerce**
+![uGreen E-commerce](https://docs.appfast.io/assets/images/ugreen-products-af0041a43d433e9cddc7c3aca615834b.jpeg)
+
+* **FastNews Portal**
+![FastNews Portal](https://docs.appfast.io/assets/images/fastnews-portal-e2512843a04c6e0d79a00856b361d9a4.jpeg)
+
+These examples highlight the template's adaptability to different industries, providing a solid foundation for a wide range of app development projects.
+
+![Showcase - 01](../../static/img/envato/show-case-01.jpg)
+![Showcase - 02](../../static/img/envato/show-case-02.jpg)
+![Showcase - 03](../../static/img/envato/show-case-03.jpg)
+![Showcase - 04](../../static/img/envato/show-case-04.jpg)
+![Showcase - 05](../../static/img/envato/show-case-05.jpg)
+![Showcase - 06](../../static/img/envato/show-case-06.jpg)
