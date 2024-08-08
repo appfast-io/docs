@@ -7,7 +7,7 @@ FastMart WooCommerce is the Full React Native Application that creates iOS and A
 * Convert any WooCommerce website into iOS & Android app.
 * Easily published on both App Store and Google Play.
 
-![FastMart WooCommerce - React Native E-commerce Full App - 1](../../static/img/envato/Inline%20Preview%20590x300.jpg)
+![FastMart WooCommerce - React Native E-commerce Full App - Preview](../../static/img/envato/Inline%20Preview%20590x300.jpg)
 
 > – Version: 1.0.0 – latest React Native v0.74
 >
@@ -33,7 +33,10 @@ In the nutshell, **FastMart** can integrate with:
 
 ## Key Features
 
-![Key features](../../static/img/envato/DesignDes2.jpg)
+![FastMart WooCommerce - React Native E-commerce Full App - 1](../../static/img/envato/FastMart-01.jpeg)
+![FastMart WooCommerce - React Native E-commerce Full App - 2](../../static/img/envato/FastMart-02.jpeg)
+![FastMart WooCommerce - React Native E-commerce Full App - 3](../../static/img/envato/FastMart-03.jpeg)
+![FastMart WooCommerce - React Native E-commerce Full App - 4](../../static/img/envato/FastMart-04.jpeg)
 
 1. **User-Friendly Customization**
   FastMart empowers users with the ability to personalize their app's appearance and functionality without extensive coding knowledge. The intuitive interface ensures a smooth customization process, enabling you to bring your unique vision to life.
@@ -44,7 +47,10 @@ In the nutshell, **FastMart** can integrate with:
 1. **Appfast Cloud Backend**
   For those seeking an even simpler solution, the Appfast Cloud Backend offers comprehensive support, managing servers, databases, coding, and app performance. This backend service is highly customizable, allowing you to tailor it to your specific needs, ensuring optimal performance and functionality.
 
-![Appfast Studio introduction](../../static/img/envato/DesignDes1.jpg)
+![Appfast Studio introduction - 1](../../static/img/envato/Appfast-Introduction-01.jpeg)
+![Appfast Studio introduction - 2](../../static/img/envato/Appfast-Introduction-02.jpeg)
+![Appfast Studio introduction - 3](../../static/img/envato/Appfast-Introduction-03.jpeg)
+![Appfast Studio introduction - 4](../../static/img/envato/Appfast-Introduction-04.jpeg)
 
 FastMart is a universal e-commerce app inspired by the React Native framework, made by Facebook. With the mission of reducing thousands of hours of business spent on designing, developing, and testing a mobile app, FastMart comes as a complete solution for optimizing to deliver your app to the market with high productivity and cost-efficiency. It could be able to satisfy all of the business requirements including e-commerce functionalities, impressive UX design, and smooth performance on both iOS and Android devices.
 
@@ -70,8 +76,14 @@ Faster - Smoother - Closer.
 
 FastMart's flexibility is showcased through various demo applications, including:
 
-* Hotel E-commerce Demo (DEMO LINK HERE)
-* Restaurant E-commerce Demo (DEMO LINK HERE)
+* **The Coffee Shop E-commerce Demo**
+![The Coffee Shop E-commerce Demo](../../static/img/envato/the-coffee-shop.jpeg)
+
+* **uGreen E-commerce Demo**
+![uGreen E-commerce Demo](../../static/img/envato/ugreen-products.jpeg)
+
+* **FastNews Portal Demo**
+![FastNews Portal Demo](../../static/img/envato/fastnews-portal.jpeg)
 
 These examples highlight the template's adaptability to different industries, providing a solid foundation for a wide range of app development projects.
 
