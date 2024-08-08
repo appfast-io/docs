@@ -73,21 +73,6 @@ Either you are business people with raising sale ambition or developers with fas
 
 Faster - Smoother - Closer.
 
-## Versatile Application Examples
-
-FastMart's flexibility is showcased through various applications, including:
-
-* **The Coffee Shop E-commerce**
-![The Coffee Shop E-commerce](https://docs.appfast.io/assets/images/the-coffee-shop-9eff8b71e2eafcc32fb23f6fe47b7732.jpeg)
-
-* **uGreen E-commerce**
-![uGreen E-commerce](https://docs.appfast.io/assets/images/ugreen-products-af0041a43d433e9cddc7c3aca615834b.jpeg)
-
-* **FastNews Portal**
-![FastNews Portal](https://docs.appfast.io/assets/images/fastnews-portal-e2512843a04c6e0d79a00856b361d9a4.jpeg)
-
-These examples highlight the template's adaptability to different industries, providing a solid foundation for a wide range of app development projects.
-
 ## WooCommerce features demo
 
 Here are the different types of products.
@@ -149,3 +134,18 @@ In the app demo, you can search for product names and explore them.
 ## Conclusion
 
 FastMart WooCommerce by Appfast Studio is your go-to solution for rapid, customizable app development. Whether you opt for WordPress integration or the robust Appfast Cloud Backend, FastMart ensures your app has the features and performance needed to succeed. Explore the potential of FastMart and elevate your app development journey today.
+
+## My Customer projects
+
+FastMart's flexibility is showcased through various applications, including:
+
+* **The Coffee Shop E-commerce**
+![The Coffee Shop E-commerce](https://docs.appfast.io/assets/images/the-coffee-shop-9eff8b71e2eafcc32fb23f6fe47b7732.jpeg)
+
+* **uGreen E-commerce**
+![uGreen E-commerce](https://docs.appfast.io/assets/images/ugreen-products-af0041a43d433e9cddc7c3aca615834b.jpeg)
+
+* **FastNews Portal**
+![FastNews Portal](https://docs.appfast.io/assets/images/fastnews-portal-e2512843a04c6e0d79a00856b361d9a4.jpeg)
+
+These examples highlight the template's adaptability to different industries, providing a solid foundation for a wide range of app development projects.
