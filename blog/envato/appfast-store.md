@@ -7,8 +7,6 @@ FastMart WooCommerce is the Full React Native Application that creates iOS and A
 * Convert any WooCommerce website into iOS & Android app.
 * Easily published on both App Store and Google Play.
 
-![FastMart WooCommerce - React Native E-commerce Full App - Preview](../../static/img/envato/Inline%20Preview%20590x300.jpg)
-
 > – Version: 1.0.0 – latest React Native v0.74
 >
 > – Last update: 10 July 2024
@@ -31,12 +29,25 @@ In the nutshell, **FastMart** can integrate with:
 
 * HTML5 Mini app.
 
+## Reference links
+
+> Demo: Please download Appfast Studio for [iOS](https://apps.apple.com/vn/app/appfast-studio/id1614592863), [Android](https://play.google.com/store/apps/details?id=io.appfast.studio), then use it to scan below QR code.
+> ![FastMart WooCommerce - React Native E-commerce Full App - QR](https://docs.appfast.io/assets/images/FastMart-QR-074d76d52d0ee914827fbac96c078af6.jpg)
+>
+> PWA: [https://fast-mart.appfast.me](https://fast-mart.appfast.me) (It's also a Telegram mini app)
+>
+> Company Site: [https://www.appfast.io/](https://www.appfast.io/)
+>
+> Documents: [FastMart Document](https://docs.appfast.io/blog/envato/appfast-store-docs)
+
+*** Please note that this app is for single vendor.
+
 ## Key Features
 
-![FastMart WooCommerce - React Native E-commerce Full App - 1](../../static/img/envato/FastMart-01.jpeg)
-![FastMart WooCommerce - React Native E-commerce Full App - 2](../../static/img/envato/FastMart-02.jpeg)
-![FastMart WooCommerce - React Native E-commerce Full App - 3](../../static/img/envato/FastMart-03.jpeg)
-![FastMart WooCommerce - React Native E-commerce Full App - 4](../../static/img/envato/FastMart-04.jpeg)
+![FastMart WooCommerce - React Native E-commerce Full App - 1](https://docs.appfast.io/assets/images/FastMart-01-45c892bed5058506a0008e0f53108ff9.jpeg)
+![FastMart WooCommerce - React Native E-commerce Full App - 2](https://docs.appfast.io/assets/images/FastMart-02-5e5f26b28bbfd32f9cadbb4c670316ef.jpeg)
+![FastMart WooCommerce - React Native E-commerce Full App - 3](https://docs.appfast.io/assets/images/FastMart-03-9dedc45c171b8a224ba91ca2feeee068.jpeg)
+![FastMart WooCommerce - React Native E-commerce Full App - 4](https://docs.appfast.io/assets/images/FastMart-04-006c7f68bc4ec155a8290c169fc71729.jpeg)
 
 1. **User-Friendly Customization**
   FastMart empowers users with the ability to personalize their app's appearance and functionality without extensive coding knowledge. The intuitive interface ensures a smooth customization process, enabling you to bring your unique vision to life.
@@ -47,10 +58,10 @@ In the nutshell, **FastMart** can integrate with:
 1. **Appfast Cloud Backend**
   For those seeking an even simpler solution, the Appfast Cloud Backend offers comprehensive support, managing servers, databases, coding, and app performance. This backend service is highly customizable, allowing you to tailor it to your specific needs, ensuring optimal performance and functionality.
 
-![Appfast Studio introduction - 1](../../static/img/envato/Appfast-Introduction-01.jpeg)
-![Appfast Studio introduction - 2](../../static/img/envato/Appfast-Introduction-02.jpeg)
-![Appfast Studio introduction - 3](../../static/img/envato/Appfast-Introduction-03.jpeg)
-![Appfast Studio introduction - 4](../../static/img/envato/Appfast-Introduction-04.jpeg)
+![Appfast Studio introduction - 1](https://docs.appfast.io/assets/images/Appfast-Introduction-01-6c6242a948cd2d072691a99288e15879.jpeg)
+![Appfast Studio introduction - 2](https://docs.appfast.io/assets/images/Appfast-Introduction-02-4a8563ba3cfe59a8e6b1fd82cecb21fa.jpeg)
+![Appfast Studio introduction - 3](https://docs.appfast.io/assets/images/Appfast-Introduction-03-d30f44418a173d90d765a00caf2c0cc5.jpeg)
+![Appfast Studio introduction - 4](https://docs.appfast.io/assets/images/Appfast-Introduction-04-453116fe50a774a7c19b28809a6cca42.jpeg)
 
 FastMart is a universal e-commerce app inspired by the React Native framework, made by Facebook. With the mission of reducing thousands of hours of business spent on designing, developing, and testing a mobile app, FastMart comes as a complete solution for optimizing to deliver your app to the market with high productivity and cost-efficiency. It could be able to satisfy all of the business requirements including e-commerce functionalities, impressive UX design, and smooth performance on both iOS and Android devices.
 
@@ -60,30 +71,18 @@ Either you are business people with raising sale ambition or developers with fas
 
 Faster - Smoother - Closer.
 
-## Reference links
-
-> Demo: [iOS](https://apps.apple.com/vn/app/appfast-studio/id1614592863), [Android](https://play.google.com/store/apps/details?id=io.appfast.studio)
->
-> PWA: [https://fast-mart.appfast.me](https://fast-mart.appfast.me) (It's also a Telegram mini app)
->
-> Company Site: [https://www.appfast.io/](https://www.appfast.io/)
->
-> Documents: [FastMart Document](https://docs.appfast.io/blog/envato/appfast-store-docs)
-
-*** Please note that this app is for single vendor.
-
 ## Versatile Application Examples
 
 FastMart's flexibility is showcased through various demo applications, including:
 
 * **The Coffee Shop E-commerce Demo**
-![The Coffee Shop E-commerce Demo](../../static/img/envato/the-coffee-shop.jpeg)
+![The Coffee Shop E-commerce Demo](https://docs.appfast.io/assets/images/the-coffee-shop-9eff8b71e2eafcc32fb23f6fe47b7732.jpeg)
 
 * **uGreen E-commerce Demo**
-![uGreen E-commerce Demo](../../static/img/envato/ugreen-products.jpeg)
+![uGreen E-commerce Demo](https://docs.appfast.io/assets/images/ugreen-products-af0041a43d433e9cddc7c3aca615834b.jpeg)
 
 * **FastNews Portal Demo**
-![FastNews Portal Demo](../../static/img/envato/fastnews-portal.jpeg)
+![FastNews Portal Demo](https://docs.appfast.io/assets/images/fastnews-portal-e2512843a04c6e0d79a00856b361d9a4.jpeg)
 
 These examples highlight the template's adaptability to different industries, providing a solid foundation for a wide range of app development projects.
 
