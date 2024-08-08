@@ -56,11 +56,9 @@ Faster - Smoother - Closer.
 
 ## Reference links
 
-> Demo: iOS, Android (DEMO LINK HERE)
+> Demo: [iOS](https://apps.apple.com/vn/app/appfast-studio/id1614592863), [Android](https://play.google.com/store/apps/details?id=io.appfast.studio)
 >
-> Preview Video: FastMart WooCommerce  (PREVIEW VIDEO LINK HERE)
->
-> PWA: (PWA LINK HERE)
+> PWA: [https://fast-mart.appfast.me](https://fast-mart.appfast.me) (It's also a Telegram mini app)
 >
 > Company Site: [https://www.appfast.io/](https://www.appfast.io/)
 >
