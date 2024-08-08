@@ -34,7 +34,7 @@ In the nutshell, **FastMart** can integrate with:
 > Video Intro: [https://www.youtube.com/watch?v=TbidwgVi-yk](https://www.youtube.com/watch?v=TbidwgVi-yk)
 >
 > Demo: Please download Appfast Studio for [iOS](https://apps.apple.com/vn/app/appfast-studio/id1614592863), [Android](https://play.google.com/store/apps/details?id=io.appfast.studio), then use it to scan below QR code.
-> ![FastMart WooCommerce - React Native E-commerce Full App - QR](https://docs.appfast.io/assets/images/FastMart-QR-074d76d52d0ee914827fbac96c078af6.jpg)
+> ![FastMart WooCommerce - React Native E-commerce Full App - QR](../../static/img/envato/FastMart-QR.jpg)
 >
 > PWA: [https://fast-mart.appfast.me](https://fast-mart.appfast.me) (It's also a Telegram mini app)
 >
