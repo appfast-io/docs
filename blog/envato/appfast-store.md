@@ -149,3 +149,10 @@ FastMart's flexibility is showcased through various applications, including:
 ![FastNews Portal](https://docs.appfast.io/assets/images/fastnews-portal-e2512843a04c6e0d79a00856b361d9a4.jpeg)
 
 These examples highlight the template's adaptability to different industries, providing a solid foundation for a wide range of app development projects.
+
+![Showcase - 01](../../static/img/envato/show-case-01.jpg)
+![Showcase - 02](../../static/img/envato/show-case-02.jpg)
+![Showcase - 03](../../static/img/envato/show-case-03.jpg)
+![Showcase - 04](../../static/img/envato/show-case-04.jpg)
+![Showcase - 05](../../static/img/envato/show-case-05.jpg)
+![Showcase - 06](../../static/img/envato/show-case-06.jpg)
