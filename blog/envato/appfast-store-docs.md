@@ -12,6 +12,15 @@
 
 **Description**: FastMart Template is a fully functional mobile app template built with React Native and Expo, designed for quick and easy customization. You can use it to quickly create your own mobile app with minimal effort for your existing WooCommerce website, compatible with any templates.
 
+---
+Below is a quick guide to run the project.
+
+Please visit [https://docs.appfast.io](https://docs.appfast.io) for detailed instructions
+
+**!! Especially to customize the UI you can use Appfast Studio at [https://dash.appfast.io](https://docs.appfast.io) for more convenience, without having to custom code**
+
+---
+
 ## 2. Table of Contents
 
 - [FastMart Template Documentation](#fastmart-template-documentation)
@@ -41,9 +50,8 @@
 
 - **Software Requirements**:
 
-  - Node.js (version 14.x or later)
-  - npm (version 6.x or later) or yarn (version 4.x or later)
-  - Expo CLI (version 4.x or later)
+  - Node.js (version 20.x or later)
+  - npm (version 9.x or later) or yarn (version 1.20 or later)
 - **Knowledge Requirements**:
 
   - Basic understanding of React Native
@@ -58,15 +66,28 @@ Open iOS/Android simulator.
 
 Install Dependencies:
 
-```bash
+```shell
+# install package
 yarn install
+
+# setting & export expo Android & iOS
+npx expo prebuild
 ```
 
-Run the App:
+Project supports running on all 3 platforms Web, Android & iOS
 
-```bash
-yarn start
+```shell
+# for web:
+yarn web
+
+# for Android
+yarn android
+
+# for iOS
+yarn ios
 ```
+
+<div style="page-break-after: always;"></div>
 
 ## 4. Configuration
 
@@ -111,6 +132,8 @@ If you already had a WooCommerce website, you can get the [WooCommerce API key](
 
 If you don't have a WooCommerce website, you can use our [Appfast cloud backend](https://docs.appfast.io/docs/GETTING%20STARTED/backend-tab) in the [Appfast Studio](https://www.appfast.io/).
 
+<div style="page-break-after: always;"></div>
+
 ## 5. Customization
 
 There are 2 ways to customize the design of this app:
@@ -125,7 +148,7 @@ There are 2 ways to customize the design of this app:
 
 ### Modifying Components
 
-To customize a component, locate it in the src/components directory. For example, to modify the Button component:
+To customize a component, locate it in the `src/app` directory. For example, to modify the Button component:
 
 ```javascript
 // src/app/components/Pressable.tsx
@@ -153,6 +176,8 @@ const styles = {
 
 export default Button;
 ```
+
+<div style="page-break-after: always;"></div>
 
 ### Adding New Features
 
@@ -237,6 +262,8 @@ export default Profile;
 ## 8. Support
 
 For support, contact us at [[support@appfast.io](support@appfast.io)].
+
+If any errors occur during use, please report them to us at [https://github.com/appfast-io/docs](https://github.com/appfast-io/docs)
 
 ## 9. Changelog
 
