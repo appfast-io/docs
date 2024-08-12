@@ -87,8 +87,6 @@ yarn android
 yarn ios
 ```
 
-<div style="page-break-after: always;"></div>
-
 ## 4. Configuration
 
 ### Project Structure
@@ -132,8 +130,6 @@ If you already had a WooCommerce website, you can get the [WooCommerce API key](
 
 If you don't have a WooCommerce website, you can use our [Appfast cloud backend](https://docs.appfast.io/docs/GETTING%20STARTED/backend-tab) in the [Appfast Studio](https://www.appfast.io/).
 
-<div style="page-break-after: always;"></div>
-
 ## 5. Customization
 
 There are 2 ways to customize the design of this app:
@@ -176,8 +172,6 @@ const styles = {
 
 export default Button;
 ```
-
-<div style="page-break-after: always;"></div>
 
 ### Adding New Features
 

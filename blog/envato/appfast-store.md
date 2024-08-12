@@ -3,7 +3,7 @@
 ## Reference links
 
 > Demo (iOS / Android): Please download Appfast Studio for [iOS](https://apps.apple.com/vn/app/appfast-studio/id1614592863), [Android](https://play.google.com/store/apps/details?id=io.appfast.studio), then use it to scan below QR code.
-> <img src={require("../../static/img/envato/FastMart-QR.jpg").default} alt="QR" width="250"/>
+> <img src={require("../../static/img/envato/qr-review-fastmart.jpg").default} alt="QR" />
 >
 > Demo PWA: [https://fast-mart.appfast.me](https://fast-mart.appfast.me) (It's also a Telegram mini app)
 >
