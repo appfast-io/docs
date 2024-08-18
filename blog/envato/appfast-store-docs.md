@@ -12,6 +12,16 @@
 
 **Description**: FastMart Template is a fully functional mobile app template built with React Native and Expo, designed for quick and easy customization. You can use it to quickly create your own mobile app with minimal effort for your existing WooCommerce website, compatible with any templates.
 
+---
+
+Below is a quick guide to run the project.
+
+Please visit [https://docs.appfast.io](https://docs.appfast.io) for detailed instructions
+
+**!! Especially to customize the UI you can use Appfast Studio at [https://dash.appfast.io](https://docs.appfast.io) for more convenience, without having to custom code**
+
+---
+
 ## 2. Table of Contents
 
 - [FastMart Template Documentation](#fastmart-template-documentation)
@@ -41,9 +51,9 @@
 
 - **Software Requirements**:
 
-  - Node.js (version 14.x or later)
-  - npm (version 6.x or later) or yarn (version 4.x or later)
-  - Expo CLI (version 4.x or later)
+  - Node.js (version 20.x or later)
+  - npm (version 9.x or later) or yarn (version 1.20 or later)
+
 - **Knowledge Requirements**:
 
   - Basic understanding of React Native
@@ -59,13 +69,24 @@ Open iOS/Android simulator.
 Install Dependencies:
 
 ```bash
+# install package
 yarn install
+
+# setting & export expo Android & iOS
+npx expo prebuild
 ```
 
-Run the App:
+Project supports running on all 3 platforms Web, Android & iOS
 
 ```bash
-yarn start
+# for web:
+yarn web
+
+# for Android
+yarn android
+
+# for iOS
+yarn ios
 ```
 
 ## 4. Configuration
@@ -117,21 +138,21 @@ There are 2 ways to customize the design of this app:
 
 1. Customize via the drag&drop [Appfast Studio tool](https://docs.appfast.io/).
 
-    You can create an account on Appfast Studio, then create an app with your Envato key.
+   You can create an account on Appfast Studio, then create an app with your Envato key.
 
-    You can customize your design, then export the JSON file, and replace it with `src/project.json` in the source code of app.
+   You can customize your design, then export the JSON file, and replace it with `src/project.json` in the source code of app.
 
 2. Customize directly on the source code of app via Android Studio or Visual Studio Code as below:
 
 ### Modifying Components
 
-To customize a component, locate it in the src/components directory. For example, to modify the Button component:
+To customize a component, locate it in the `src/app` directory. For example, to modify the Button component:
 
 ```javascript
 // src/app/components/Pressable.tsx
 
-import React from 'react';
-import { TouchableOpacity, Text } from 'react-native';
+import React from "react";
+import { TouchableOpacity, Text } from "react-native";
 
 const Button = ({ title, onPress }) => (
   <TouchableOpacity onPress={onPress} style={styles.button}>
@@ -141,14 +162,14 @@ const Button = ({ title, onPress }) => (
 
 const styles = {
   button: {
-    backgroundColor: '#ff6347',
+    backgroundColor: "#ff6347",
     padding: 10,
     borderRadius: 5,
   },
   text: {
-    color: '#fff',
+    color: "#fff",
     fontSize: 16,
-  }
+  },
 };
 
 export default Button;
@@ -161,8 +182,8 @@ To add a new component, create a new file in the `src/app/components` directory.
 ```javascript
 // src/app/components/Profile.tsx
 
-import React from 'react';
-import { View, Text } from 'react-native';
+import React from "react";
+import { View, Text } from "react-native";
 
 const Profile = () => (
   <View style={styles.container}>
@@ -173,12 +194,12 @@ const Profile = () => (
 const styles = {
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+    alignItems: "center",
   },
   text: {
     fontSize: 18,
-  }
+  },
 };
 
 export default Profile;
@@ -237,6 +258,8 @@ export default Profile;
 ## 8. Support
 
 For support, contact us at [[support@appfast.io](support@appfast.io)].
+
+If any errors occur during use, please report them to us at [https://github.com/appfast-io/docs](https://github.com/appfast-io/docs)
 
 ## 9. Changelog
 
